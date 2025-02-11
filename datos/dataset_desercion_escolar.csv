@@ -1,0 +1,1001 @@
+Genero,Edad,Ubicacion,Tipo_Escuela,Transporte_a_la_Escuela,Privada,Area_de_la_Carrera,Promedio_Inicial,Promedio_Medio,Promedio_Final,Horas_Estudio_Semanal,Otra_Carrera_Previa,Nivel_Ingresos_Rango,Trabaja,Apoyo_Economico,Foraneo_o_Local,Con_quien_vive,Estado_Civil,Discapacidad,Problemas_Socioeconomicos,Horas_Sueño,Nivel_Estres_Percibido,Recibio_Orientacion_Vocacional,Razon_Principal_Eleccion_Carrera,Problemas_Familiares,Problemas_Psicologicos,Habilidades,Nivel_de_Satisfaccion,Hobbies,Amigos_Cercanos,Satisfaccion_Carrera,Motivo_eleccion_carrera,Expectativas_cumplidas,Deserto,Motivo_de_Desercion,Año_de_Desercion
+Masculino,22,Rural,Publica,22,No,Arte,74,61,61,23,No,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,6,2,Si,Prestigio,No,Si,Baja,5,Lectura,10,6,Cercanía,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,19,Si,Ingenieria,90,73,69,19,Si,5k-10k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,6,Si,Prestigio,Si,No,Media,6,Lectura,4,3,Vocación,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,28,Si,Ciencias Naturales,93,60,57,12,No,>20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,7,4,No,Amigos/Familia,Si,No,Baja,5,Deportes,5,4,Renta Económica,Si,No,No Aplica,0
+Masculino,20,Rural,Publica,9,Si,Arte,80,76,75,10,Si,<5k,Si,Otro,Local,Solo,Casado,Ninguna,Si,4,6,No,Amigos/Familia,Si,Si,Baja,6,Viajar,10,8,Renta Económica,No,No,No Aplica,0
+Masculino,19,Rural,Privada,30,Si,Humanidades,72,70,69,11,No,10k-20k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,No,4,1,No,Amigos/Familia,Si,No,Media,9,Arte,7,6,Prestigio,No,Si,Cambio de Carrera,5
+Femenino,19,Rural,Publica,31,No,Ciencias Naturales,78,85,107,8,No,<5k,Si,Padres,Local,Otros,Soltero,Ninguna,No,4,4,Si,Sueldo,No,Si,Baja,7,Arte,5,8,Prestigio,No,Si,Problemas Académicos,5
+Femenino,22,Urbana,Publica,20,No,Ciencias Sociales,85,74,77,8,No,5k-10k,Si,Padres,Local,Solo,Soltero,Ninguna,Si,5,10,No,Gusto Personal,Si,No,Media,7,Deportes,3,12,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,31,No,Ciencias Sociales,104,78,79,12,Si,5k-10k,No,Otro,Local,Solo,Soltero,Ninguna,Si,8,3,No,Prestigio,Si,No,Baja,8,Lectura,5,6,Renta Económica,Si,Si,Otros,2
+Femenino,20,Urbana,Publica,18,No,Humanidades,97,88,72,11,No,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,No,5,6,Si,Demanda Laboral,Si,Si,Alta,4,Tecnología,4,7,Influencia Familiar,Si,Si,Otros,2
+Masculino,20,Urbana,Privada,19,No,Ciencias Naturales,79,55,65,13,Si,5k-10k,Si,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,5,9,Si,Prestigio,No,No,Baja,4,Lectura,5,9,Cercanía,Si,No,No Aplica,0
+Masculino,18,Urbana,Publica,23,Si,Humanidades,68,85,69,13,Si,>20k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,Si,5,2,No,Sueldo,Si,No,Baja,8,Lectura,7,6,Prestigio,No,No,No Aplica,0
+Masculino,21,Rural,Privada,33,No,Ingenieria,92,92,65,10,Si,5k-10k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,No,8,8,Si,Prestigio,No,No,Media,8,Lectura,5,7,Influencia Familiar,No,Si,Problemas Familiares,5
+Masculino,19,Urbana,Publica,37,Si,Ciencias Sociales,77,66,81,16,Si,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,4,5,No,Prestigio,Si,No,Media,11,Lectura,3,6,Cercanía,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,25,No,Humanidades,74,57,87,20,Si,<5k,Si,Padres,Local,Otros,Soltero,Visual,Si,6,3,No,Demanda Laboral,Si,No,Media,9,Tecnología,5,9,Vocación,No,No,No Aplica,0
+Masculino,22,Rural,Privada,29,Si,Ingenieria,71,71,88,13,No,5k-10k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,7,5,No,Amigos/Familia,Si,Si,Baja,5,Tecnología,4,10,Renta Económica,No,Si,Cambio de Carrera,8
+Femenino,20,Rural,Publica,47,No,Ingenieria,75,51,69,10,Si,<5k,No,Otro,Local,Otros,Soltero,Ninguna,Si,5,6,No,Amigos/Familia,Si,No,Media,5,Lectura,4,9,Prestigio,No,No,No Aplica,0
+Masculino,17,Rural,Privada,28,No,Arte,71,66,69,17,Si,<5k,No,Padres,Local,Solo,Casado,Ninguna,No,6,6,Si,Gusto Personal,Si,No,Media,6,Viajar,1,9,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Publica,18,Si,Arte,87,72,66,21,Si,5k-10k,Si,Trabajo Propio,Local,Familia,Casado,Ninguna,Si,6,6,Si,Amigos/Familia,No,No,Media,3,Arte,1,7,Prestigio,Si,No,No Aplica,0
+Femenino,23,Rural,Privada,13,No,Humanidades,71,78,67,13,Si,5k-10k,Si,Padres,Local,Amigos,Soltero,Ninguna,Si,6,2,No,Sueldo,No,Si,Alta,8,Deportes,8,3,Vocación,No,No,No Aplica,0
+Masculino,21,Rural,Publica,41,No,Ingenieria,89,69,90,13,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,6,2,Si,Gusto Personal,Si,No,Baja,7,Lectura,6,6,Vocación,Si,Si,Problemas Académicos,6
+Masculino,20,Urbana,Privada,23,No,Arte,93,82,70,25,No,5k-10k,No,Otro,Foraneo,Familia,Soltero,Ninguna,No,6,6,Si,Demanda Laboral,No,No,Alta,8,Deportes,7,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,12,Si,Ciencias Naturales,59,77,80,16,No,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,4,8,Si,Gusto Personal,Si,Si,Media,7,Viajar,6,8,Vocación,No,No,No Aplica,0
+Femenino,21,Rural,Privada,40,Si,Ciencias Sociales,91,64,56,18,No,10k-20k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,7,8,No,Amigos/Familia,No,Si,Baja,5,Lectura,9,5,Prestigio,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,35,No,Humanidades,72,99,84,10,No,10k-20k,No,Otro,Foraneo,Amigos,Soltero,Ninguna,No,4,5,Si,Sueldo,Si,Si,Alta,8,Deportes,6,10,Influencia Familiar,Si,Si,Problemas Económicos,5
+Masculino,22,Rural,Privada,27,Si,Arte,71,89,76,14,Si,>20k,No,Padres,Local,Solo,Soltero,Cognitiva,No,5,3,Si,Sueldo,No,No,Alta,9,Arte,8,8,Vocación,No,No,No Aplica,0
+Femenino,22,Rural,Publica,23,No,Humanidades,83,85,78,19,No,<5k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,4,5,Si,Demanda Laboral,Si,No,Alta,6,Lectura,6,10,Cercanía,Si,Si,Problemas Familiares,4
+Masculino,18,Rural,Publica,49,No,Ciencias Sociales,77,81,91,14,Si,5k-10k,No,Padres,Foraneo,Solo,Soltero,Ninguna,No,6,4,Si,Demanda Laboral,No,No,Baja,6,Deportes,4,6,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,43,No,Ciencias Naturales,80,66,77,10,No,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,Si,4,4,No,Prestigio,Si,Si,Alta,7,Arte,5,10,Cercanía,Si,No,No Aplica,0
+Femenino,16,Rural,Publica,32,No,Humanidades,104,75,71,13,Si,<5k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,5,6,No,Demanda Laboral,No,Si,Baja,8,Viajar,5,5,Cercanía,No,No,No Aplica,0
+Masculino,20,Rural,Privada,42,No,Humanidades,92,79,81,10,No,<5k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,6,9,Si,Sueldo,Si,No,Alta,6,Tecnología,4,9,Vocación,No,No,No Aplica,0
+Masculino,17,Rural,Publica,52,No,Ciencias Sociales,71,52,72,17,No,10k-20k,No,Padres,Local,Otros,Soltero,Ninguna,No,4,4,Si,Amigos/Familia,Si,No,Baja,2,Tecnología,6,11,Prestigio,Si,No,No Aplica,0
+Femenino,18,Urbana,Publica,41,Si,Ciencias Sociales,76,68,66,13,No,10k-20k,No,Otro,Local,Familia,Soltero,Cognitiva,Si,6,3,No,Prestigio,Si,No,Baja,6,Arte,5,7,Cercanía,No,Si,Cambio de Carrera,1
+Masculino,17,Urbana,Privada,15,No,Ciencias Naturales,76,77,79,7,No,<5k,Si,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,6,6,Si,Sueldo,Si,No,Media,9,Arte,3,5,Vocación,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,30,Si,Ingenieria,77,68,85,17,No,5k-10k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,7,3,Si,Demanda Laboral,Si,No,Baja,6,Deportes,5,10,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,36,Si,Ciencias Sociales,65,62,83,19,Si,>20k,Si,Otro,Foraneo,Familia,Casado,Ninguna,Si,7,3,Si,Prestigio,No,Si,Alta,4,Lectura,8,5,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,16,No,Ingenieria,94,72,86,14,No,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,7,6,Si,Prestigio,Si,No,Baja,4,Tecnología,9,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,23,Urbana,Publica,34,No,Humanidades,89,70,76,7,Si,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,5,6,No,Prestigio,Si,No,Media,8,Viajar,7,5,Renta Económica,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,34,Si,Ciencias Naturales,83,70,57,15,Si,5k-10k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,6,7,No,Gusto Personal,No,No,Alta,6,Tecnología,5,10,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,36,No,Ciencias Sociales,80,63,83,24,No,<5k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,3,5,No,Prestigio,Si,Si,Media,8,Tecnología,4,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Publica,28,Si,Ciencias Naturales,68,78,78,7,Si,>20k,No,Otro,Foraneo,Familia,Soltero,Ninguna,Si,7,6,Si,Gusto Personal,Si,No,Baja,7,Lectura,6,8,Influencia Familiar,Si,Si,Problemas Familiares,4
+Masculino,16,Rural,Publica,41,No,Arte,76,74,60,11,No,>20k,Si,Otro,Local,Otros,Soltero,Ninguna,Si,4,5,Si,Gusto Personal,No,Si,Baja,12,Tecnología,4,8,Prestigio,No,No,No Aplica,0
+Masculino,22,Rural,Publica,46,No,Humanidades,90,84,68,11,No,5k-10k,No,Trabajo Propio,Foraneo,Solo,Soltero,Cognitiva,Si,5,1,Si,Prestigio,No,Si,Baja,7,Tecnología,6,9,Vocación,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,20,No,Ciencias Naturales,82,72,66,5,Si,<5k,Si,Padres,Local,Otros,Soltero,Ninguna,Si,8,9,No,Demanda Laboral,Si,No,Media,12,Viajar,1,2,Cercanía,Si,Si,Problemas Económicos,7
+Femenino,20,Urbana,Privada,30,No,Arte,90,71,84,20,No,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,5,7,Si,Amigos/Familia,Si,Si,Baja,5,Viajar,7,6,Vocación,Si,Si,Otros,2
+Masculino,18,Urbana,Privada,24,No,Ingenieria,81,90,64,9,No,5k-10k,No,Otro,Local,Solo,Soltero,Ninguna,No,2,7,No,Prestigio,Si,No,Media,9,Viajar,6,5,Cercanía,No,Si,Problemas Familiares,8
+Femenino,21,Rural,Privada,43,No,Humanidades,101,74,61,15,Si,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,Si,6,4,Si,Prestigio,Si,No,Media,5,Deportes,6,12,Renta Económica,Si,No,No Aplica,0
+Femenino,23,Urbana,Publica,33,No,Humanidades,71,87,61,14,No,<5k,No,Padres,Local,Solo,Casado,Ninguna,Si,6,3,Si,Gusto Personal,Si,Si,Media,10,Deportes,5,9,Cercanía,Si,Si,Problemas Académicos,2
+Masculino,22,Urbana,Privada,38,Si,Arte,67,66,78,16,Si,<5k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,Si,5,6,Si,Amigos/Familia,No,Si,Baja,7,Viajar,5,5,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Privada,45,No,Ciencias Naturales,93,87,60,11,No,5k-10k,No,Padres,Foraneo,Solo,Soltero,Ninguna,Si,5,1,Si,Amigos/Familia,Si,No,Baja,7,Viajar,7,10,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Urbana,Privada,50,No,Humanidades,71,77,65,16,Si,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,Si,5,6,No,Gusto Personal,Si,No,Alta,9,Arte,4,5,Renta Económica,No,No,No Aplica,0
+Masculino,22,Urbana,Publica,38,Si,Humanidades,87,82,75,20,No,<5k,Si,Otro,Local,Amigos,Soltero,Ninguna,No,6,6,Si,Demanda Laboral,Si,Si,Baja,8,Lectura,5,9,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,18,No,Ciencias Sociales,83,81,60,18,No,5k-10k,No,Padres,Local,Otros,Casado,Ninguna,No,3,4,No,Amigos/Familia,No,No,Alta,8,Viajar,5,7,Renta Económica,No,No,No Aplica,0
+Femenino,20,Urbana,Publica,48,No,Ingenieria,75,73,64,15,No,5k-10k,No,Padres,Local,Amigos,Soltero,Ninguna,No,5,5,No,Amigos/Familia,Si,No,Media,8,Lectura,5,8,Cercanía,Si,Si,Problemas Económicos,6
+Femenino,17,Urbana,Privada,26,Si,Humanidades,71,64,68,19,No,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,7,7,Si,Prestigio,Si,Si,Media,5,Viajar,5,8,Vocación,No,No,No Aplica,0
+Femenino,17,Rural,Publica,34,Si,Ciencias Naturales,72,86,79,9,Si,>20k,Si,Beca,Foraneo,Solo,Divorciado,Ninguna,No,5,7,No,Prestigio,No,No,Alta,7,Lectura,2,8,Influencia Familiar,Si,Si,Problemas Familiares,3
+Masculino,21,Urbana,Privada,31,Si,Ciencias Naturales,83,71,70,14,Si,<5k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,6,5,No,Amigos/Familia,Si,No,Alta,6,Arte,5,8,Vocación,No,No,No Aplica,0
+Femenino,17,Rural,Publica,28,Si,Ciencias Naturales,84,84,56,17,Si,10k-20k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,3,2,No,Gusto Personal,No,Si,Baja,11,Viajar,4,12,Renta Económica,Si,Si,Problemas Familiares,2
+Masculino,20,Rural,Privada,23,No,Humanidades,77,71,79,6,Si,10k-20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,No,7,6,No,Amigos/Familia,Si,No,Media,6,Tecnología,6,5,Vocación,Si,Si,Otros,7
+Femenino,24,Urbana,Publica,24,Si,Humanidades,79,72,65,16,No,<5k,No,Beca,Local,Otros,Soltero,Ninguna,Si,6,6,No,Gusto Personal,Si,No,Baja,7,Viajar,4,8,Influencia Familiar,No,No,No Aplica,0
+Masculino,21,Rural,Publica,17,No,Ingenieria,91,56,71,21,Si,10k-20k,No,Beca,Local,Amigos,Soltero,Motriz,Si,5,5,Si,Prestigio,Si,Si,Baja,8,Deportes,4,8,Renta Económica,No,No,No Aplica,0
+Masculino,20,Rural,Privada,37,Si,Ciencias Sociales,87,80,73,28,Si,5k-10k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,No,9,5,No,Prestigio,Si,No,Baja,7,Arte,9,9,Cercanía,Si,Si,Problemas Familiares,5
+Masculino,20,Urbana,Publica,46,Si,Humanidades,86,62,78,8,No,5k-10k,No,Beca,Foraneo,Solo,Soltero,Ninguna,No,6,7,No,Gusto Personal,Si,No,Baja,8,Deportes,3,5,Renta Económica,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,19,No,Humanidades,80,79,67,12,No,<5k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,5,3,Si,Sueldo,Si,Si,Alta,7,Tecnología,3,8,Renta Económica,No,No,No Aplica,0
+Femenino,24,Urbana,Privada,30,No,Ciencias Sociales,78,80,85,25,No,10k-20k,Si,Padres,Local,Familia,Soltero,Motriz,Si,6,4,No,Sueldo,No,No,Media,7,Deportes,3,7,Cercanía,Si,No,No Aplica,0
+Masculino,17,Urbana,Privada,35,No,Arte,87,79,70,19,No,<5k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,Si,7,4,Si,Gusto Personal,No,No,Baja,6,Deportes,8,6,Influencia Familiar,No,No,No Aplica,0
+Femenino,21,Rural,Privada,35,No,Ingenieria,77,63,46,17,Si,10k-20k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,7,6,No,Sueldo,Si,No,Alta,4,Arte,8,9,Cercanía,No,Si,Problemas Familiares,3
+Masculino,19,Urbana,Publica,26,Si,Humanidades,73,68,70,18,No,<5k,No,Beca,Local,Amigos,Soltero,Ninguna,No,7,7,No,Demanda Laboral,Si,Si,Baja,8,Lectura,5,11,Prestigio,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,45,Si,Humanidades,86,101,63,7,Si,>20k,Si,Otro,Local,Familia,Soltero,Ninguna,No,4,6,No,Sueldo,No,No,Media,6,Lectura,6,8,Renta Económica,Si,Si,Cambio de Carrera,1
+Femenino,18,Urbana,Publica,15,No,Ciencias Naturales,91,79,90,12,Si,5k-10k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,No,5,4,No,Gusto Personal,Si,Si,Media,6,Tecnología,7,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,21,Rural,Publica,36,No,Humanidades,74,76,86,10,No,<5k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,8,4,Si,Amigos/Familia,Si,No,Media,4,Lectura,2,6,Prestigio,No,No,No Aplica,0
+Masculino,16,Urbana,Publica,46,Si,Arte,73,69,64,20,Si,5k-10k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,4,No,Demanda Laboral,Si,No,Media,8,Arte,7,5,Prestigio,Si,No,No Aplica,0
+Masculino,15,Rural,Privada,29,No,Arte,86,80,79,15,No,5k-10k,No,Padres,Foraneo,Otros,Casado,Ninguna,No,4,3,Si,Sueldo,Si,Si,Media,4,Viajar,5,6,Prestigio,No,Si,Problemas Familiares,1
+Femenino,22,Urbana,Publica,32,Si,Arte,79,90,74,23,No,<5k,No,Trabajo Propio,Local,Amigos,Casado,Ninguna,No,7,3,No,Sueldo,No,No,Baja,7,Lectura,7,9,Influencia Familiar,No,Si,Problemas Económicos,5
+Femenino,23,Urbana,Privada,12,No,Ciencias Naturales,91,89,75,11,No,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,Si,6,7,No,Gusto Personal,No,No,Media,7,Arte,4,10,Renta Económica,Si,Si,Otros,4
+Masculino,22,Urbana,Publica,39,No,Arte,76,69,81,12,No,<5k,No,Beca,Local,Solo,Soltero,Ninguna,Si,7,5,Si,Amigos/Familia,No,No,Baja,8,Tecnología,2,7,Influencia Familiar,Si,Si,Problemas Académicos,1
+Femenino,22,Rural,Privada,28,Si,Ingenieria,69,62,81,22,No,10k-20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,7,7,Si,Amigos/Familia,Si,Si,Alta,7,Lectura,7,4,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Rural,Privada,28,Si,Humanidades,89,77,69,18,Si,>20k,Si,Beca,Local,Otros,Soltero,Ninguna,No,4,3,No,Amigos/Familia,No,Si,Media,8,Viajar,4,8,Renta Económica,No,No,No Aplica,0
+Femenino,20,Rural,Publica,57,No,Ingenieria,106,79,80,15,Si,>20k,No,Beca,Foraneo,Familia,Soltero,Ninguna,No,4,4,Si,Gusto Personal,Si,Si,Alta,8,Arte,3,10,Vocación,Si,Si,Cambio de Carrera,7
+Masculino,19,Rural,Privada,27,No,Arte,75,74,69,16,Si,>20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,No,7,4,Si,Gusto Personal,No,Si,Media,13,Arte,6,6,Influencia Familiar,No,Si,Otros,8
+Masculino,21,Urbana,Privada,47,No,Ciencias Naturales,91,73,57,13,No,10k-20k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,5,6,Si,Demanda Laboral,No,Si,Alta,3,Deportes,6,5,Renta Económica,No,Si,Problemas Económicos,3
+Masculino,17,Urbana,Publica,37,Si,Ciencias Naturales,78,83,62,16,No,5k-10k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,10,5,Si,Prestigio,Si,No,Media,6,Deportes,7,5,Cercanía,Si,No,No Aplica,0
+Masculino,20,Rural,Privada,18,No,Arte,62,84,42,21,No,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,6,4,Si,Gusto Personal,No,Si,Media,6,Lectura,7,7,Prestigio,Si,Si,Problemas Académicos,4
+Femenino,17,Rural,Privada,37,No,Ciencias Sociales,74,72,60,22,Si,10k-20k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,5,3,Si,Amigos/Familia,No,Si,Media,4,Deportes,7,6,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,50,Si,Ingenieria,74,77,84,17,Si,<5k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,7,6,No,Demanda Laboral,No,Si,Alta,8,Tecnología,6,5,Vocación,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,42,Si,Humanidades,72,72,69,6,No,<5k,No,Otro,Local,Otros,Soltero,Ninguna,Si,4,5,Si,Prestigio,Si,No,Media,8,Viajar,3,9,Influencia Familiar,No,No,No Aplica,0
+Masculino,17,Rural,Publica,36,No,Humanidades,81,87,52,6,Si,>20k,No,Padres,Local,Familia,Soltero,Ninguna,No,8,7,No,Sueldo,Si,No,Alta,6,Arte,3,8,Vocación,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,37,Si,Arte,75,73,60,18,No,10k-20k,No,Beca,Local,Amigos,Soltero,Ninguna,No,4,5,No,Demanda Laboral,No,No,Alta,8,Tecnología,6,9,Vocación,No,Si,Cambio de Carrera,2
+Femenino,21,Rural,Privada,29,No,Humanidades,67,68,62,16,No,<5k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,8,4,No,Sueldo,No,Si,Alta,4,Arte,7,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,35,No,Humanidades,71,74,50,21,No,5k-10k,No,Beca,Foraneo,Familia,Soltero,Ninguna,No,5,5,No,Prestigio,Si,No,Media,6,Lectura,5,5,Cercanía,No,No,No Aplica,0
+Femenino,27,Urbana,Privada,22,Si,Ciencias Naturales,100,67,63,9,No,10k-20k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,No,10,5,No,Demanda Laboral,Si,No,Baja,7,Viajar,2,6,Vocación,No,No,No Aplica,0
+Masculino,16,Rural,Publica,34,Si,Ciencias Sociales,81,62,69,10,Si,5k-10k,Si,Padres,Local,Amigos,Soltero,Ninguna,Si,7,5,Si,Sueldo,Si,No,Alta,5,Viajar,2,9,Cercanía,No,No,No Aplica,0
+Femenino,22,Rural,Publica,28,No,Ingenieria,85,84,68,19,No,5k-10k,No,Padres,Foraneo,Solo,Soltero,Ninguna,No,6,3,Si,Sueldo,Si,Si,Alta,9,Viajar,2,10,Cercanía,No,No,No Aplica,0
+Masculino,18,Urbana,Publica,40,Si,Humanidades,72,77,73,11,No,<5k,Si,Beca,Local,Otros,Casado,Ninguna,No,5,4,No,Sueldo,No,Si,Baja,9,Lectura,6,8,Vocación,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,23,No,Ciencias Sociales,82,82,80,26,No,5k-10k,No,Otro,Foraneo,Amigos,Casado,Ninguna,Si,5,5,Si,Prestigio,Si,No,Media,6,Tecnología,6,6,Prestigio,Si,No,No Aplica,0
+Masculino,20,Rural,Publica,32,No,Ingenieria,87,90,43,10,Si,10k-20k,No,Padres,Local,Familia,Soltero,Ninguna,Si,7,4,No,Gusto Personal,Si,No,Baja,6,Deportes,6,5,Vocación,No,No,No Aplica,0
+Masculino,17,Urbana,Privada,26,No,Ciencias Naturales,89,80,88,15,No,<5k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,7,6,No,Gusto Personal,Si,No,Alta,6,Deportes,4,9,Influencia Familiar,Si,Si,Problemas Familiares,7
+Masculino,20,Rural,Publica,32,Si,Humanidades,82,63,87,18,Si,>20k,No,Padres,Local,Otros,Divorciado,Ninguna,Si,6,4,No,Sueldo,Si,No,Baja,9,Viajar,7,3,Cercanía,Si,No,No Aplica,0
+Masculino,23,Rural,Privada,21,No,Ciencias Naturales,95,73,96,12,No,<5k,No,Padres,Local,Solo,Soltero,Auditiva,No,5,9,No,Prestigio,Si,No,Media,8,Deportes,7,10,Influencia Familiar,Si,No,No Aplica,0
+Masculino,16,Urbana,Privada,31,Si,Ingenieria,81,78,65,5,Si,5k-10k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,7,3,No,Demanda Laboral,No,Si,Media,6,Tecnología,5,9,Prestigio,Si,Si,Problemas Familiares,3
+Femenino,20,Rural,Publica,35,Si,Arte,70,76,47,17,Si,10k-20k,Si,Otro,Local,Familia,Soltero,Ninguna,No,7,6,No,Prestigio,Si,Si,Baja,8,Tecnología,4,11,Renta Económica,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,18,Si,Ciencias Naturales,100,77,82,16,No,<5k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,6,5,Si,Gusto Personal,Si,Si,Baja,11,Arte,5,7,Influencia Familiar,Si,Si,Problemas Económicos,4
+Masculino,19,Urbana,Privada,31,Si,Humanidades,85,52,46,11,Si,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,6,4,Si,Prestigio,Si,Si,Media,7,Tecnología,5,3,Renta Económica,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,31,Si,Ciencias Naturales,76,70,77,12,Si,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Cognitiva,No,7,5,No,Prestigio,No,Si,Alta,7,Lectura,2,8,Cercanía,Si,Si,Cambio de Carrera,2
+Femenino,22,Urbana,Publica,43,No,Ciencias Naturales,79,81,71,16,No,5k-10k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,7,4,Si,Gusto Personal,No,Si,Baja,7,Deportes,6,5,Cercanía,No,Si,Problemas Académicos,7
+Femenino,19,Urbana,Publica,33,No,Arte,91,71,73,18,Si,10k-20k,No,Beca,Foraneo,Amigos,Soltero,Auditiva,No,7,9,Si,Prestigio,Si,Si,Media,10,Deportes,5,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Rural,Privada,33,No,Ingenieria,78,64,69,20,Si,<5k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,5,7,Si,Prestigio,No,Si,Media,6,Tecnología,3,6,Cercanía,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,29,No,Arte,73,76,84,13,Si,5k-10k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,5,Si,Prestigio,No,Si,Baja,7,Lectura,4,7,Cercanía,Si,Si,Problemas Académicos,7
+Femenino,20,Rural,Publica,34,Si,Ciencias Sociales,79,78,44,16,No,5k-10k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,6,7,No,Demanda Laboral,No,Si,Alta,7,Tecnología,5,9,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Urbana,Privada,30,No,Humanidades,61,84,50,21,Si,<5k,No,Beca,Local,Otros,Soltero,Ninguna,No,6,6,No,Amigos/Familia,No,Si,Baja,7,Viajar,5,7,Cercanía,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,17,Si,Ciencias Naturales,77,74,46,14,No,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,Si,6,4,Si,Sueldo,Si,Si,Baja,7,Tecnología,4,4,Cercanía,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,25,No,Ingenieria,69,61,78,17,Si,<5k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,6,3,Si,Gusto Personal,No,Si,Alta,8,Deportes,6,9,Renta Económica,Si,Si,Otros,3
+Femenino,18,Urbana,Publica,42,Si,Ciencias Sociales,80,72,72,16,Si,<5k,Si,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,No,4,6,Si,Gusto Personal,No,Si,Alta,4,Deportes,4,12,Influencia Familiar,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,16,No,Ingenieria,102,83,67,24,No,<5k,No,Beca,Local,Familia,Soltero,Ninguna,No,6,6,No,Prestigio,No,Si,Media,9,Arte,2,6,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,40,Si,Humanidades,79,78,93,10,No,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,No,7,3,No,Amigos/Familia,Si,Si,Media,8,Tecnología,4,6,Prestigio,Si,No,No Aplica,0
+Femenino,18,Rural,Publica,36,Si,Humanidades,66,72,67,8,No,<5k,No,Beca,Local,Otros,Soltero,Ninguna,Si,3,5,Si,Gusto Personal,No,Si,Baja,6,Deportes,3,10,Prestigio,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,22,No,Ingenieria,77,66,45,26,No,5k-10k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,4,5,Si,Sueldo,No,No,Alta,4,Deportes,3,5,Prestigio,No,Si,Problemas Familiares,8
+Masculino,21,Urbana,Privada,20,No,Ingenieria,98,79,60,17,No,<5k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,5,5,No,Sueldo,Si,Si,Media,6,Lectura,7,5,Cercanía,No,No,No Aplica,0
+Femenino,20,Rural,Publica,33,Si,Arte,84,86,60,16,No,10k-20k,No,Trabajo Propio,Foraneo,Otros,Divorciado,Ninguna,No,5,6,No,Prestigio,No,No,Alta,5,Deportes,5,8,Cercanía,No,Si,Cambio de Carrera,7
+Femenino,19,Urbana,Publica,29,No,Ciencias Sociales,67,72,95,16,No,<5k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,6,2,Si,Prestigio,No,No,Alta,4,Viajar,4,10,Vocación,Si,No,No Aplica,0
+Femenino,18,Urbana,Privada,36,No,Humanidades,72,67,86,18,Si,10k-20k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,4,8,Si,Gusto Personal,No,No,Media,5,Arte,3,5,Cercanía,No,Si,Problemas Académicos,7
+Femenino,22,Rural,Privada,44,Si,Ciencias Naturales,71,80,66,18,Si,5k-10k,Si,Trabajo Propio,Local,Familia,Soltero,Cognitiva,Si,6,3,Si,Gusto Personal,No,No,Media,6,Deportes,3,8,Cercanía,Si,Si,Problemas Familiares,4
+Femenino,21,Rural,Publica,11,Si,Arte,74,86,80,14,No,5k-10k,No,Otro,Foraneo,Familia,Casado,Ninguna,No,4,6,Si,Gusto Personal,Si,No,Baja,11,Lectura,5,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Urbana,Publica,41,No,Humanidades,86,72,99,16,Si,<5k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,5,6,Si,Amigos/Familia,Si,Si,Baja,6,Deportes,4,7,Cercanía,No,No,No Aplica,0
+Masculino,17,Urbana,Privada,27,No,Arte,76,83,80,9,No,10k-20k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,6,4,Si,Demanda Laboral,No,Si,Alta,3,Lectura,5,3,Prestigio,Si,No,No Aplica,0
+Femenino,18,Rural,Publica,20,No,Arte,77,68,77,10,No,5k-10k,No,Padres,Local,Familia,Soltero,Ninguna,No,5,2,No,Amigos/Familia,No,Si,Alta,8,Arte,6,5,Cercanía,Si,Si,Otros,4
+Femenino,20,Rural,Privada,38,Si,Arte,77,104,77,13,No,<5k,No,Beca,Local,Solo,Soltero,Ninguna,Si,8,3,Si,Prestigio,Si,No,Alta,9,Viajar,10,5,Prestigio,No,No,No Aplica,0
+Masculino,19,Urbana,Privada,15,No,Ciencias Sociales,97,64,61,17,No,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,6,3,No,Demanda Laboral,No,No,Media,8,Tecnología,10,6,Renta Económica,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,17,No,Ciencias Sociales,79,88,77,19,No,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,9,4,No,Gusto Personal,Si,Si,Baja,8,Arte,8,9,Prestigio,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,44,Si,Ciencias Naturales,76,79,73,8,No,<5k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,7,5,No,Amigos/Familia,Si,Si,Media,4,Lectura,5,4,Renta Económica,No,No,No Aplica,0
+Femenino,17,Urbana,Privada,41,No,Ciencias Sociales,71,69,73,12,Si,>20k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,5,5,Si,Gusto Personal,No,No,Baja,6,Tecnología,4,8,Renta Económica,No,No,No Aplica,0
+Masculino,19,Rural,Publica,25,No,Humanidades,94,52,61,12,No,10k-20k,Si,Beca,Local,Familia,Divorciado,Ninguna,Si,6,5,Si,Demanda Laboral,Si,Si,Media,6,Tecnología,6,4,Vocación,No,No,No Aplica,0
+Femenino,22,Urbana,Publica,40,Si,Arte,82,70,60,15,Si,<5k,No,Beca,Foraneo,Solo,Divorciado,Visual,Si,5,6,No,Gusto Personal,Si,No,Alta,6,Tecnología,7,5,Prestigio,No,No,No Aplica,0
+Femenino,23,Rural,Publica,42,No,Ciencias Sociales,78,65,72,17,No,5k-10k,No,Beca,Local,Otros,Casado,Ninguna,No,5,2,No,Amigos/Familia,No,No,Baja,7,Arte,6,6,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,38,Si,Ciencias Naturales,82,82,54,12,No,10k-20k,Si,Padres,Local,Solo,Soltero,Ninguna,No,6,3,No,Sueldo,Si,No,Media,7,Arte,1,7,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,33,Si,Arte,81,82,83,12,Si,<5k,No,Otro,Local,Solo,Casado,Ninguna,Si,8,6,No,Amigos/Familia,Si,No,Media,6,Arte,2,9,Prestigio,Si,No,No Aplica,0
+Femenino,22,Urbana,Privada,20,Si,Humanidades,98,68,84,11,Si,>20k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,5,7,Si,Sueldo,No,Si,Baja,8,Lectura,7,6,Vocación,No,Si,Problemas Académicos,1
+Femenino,21,Rural,Publica,17,Si,Ingenieria,58,90,81,16,Si,<5k,Si,Padres,Foraneo,Amigos,Soltero,Visual,Si,8,5,No,Prestigio,Si,No,Alta,6,Arte,5,8,Influencia Familiar,No,Si,Problemas Económicos,4
+Femenino,22,Urbana,Publica,24,No,Ciencias Naturales,78,72,61,11,No,>20k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,4,5,Si,Sueldo,Si,Si,Alta,9,Tecnología,8,5,Renta Económica,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,51,Si,Ciencias Naturales,78,64,67,8,No,5k-10k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,Si,3,3,Si,Amigos/Familia,No,Si,Alta,8,Viajar,3,7,Cercanía,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,17,No,Ingenieria,72,91,64,13,Si,10k-20k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,No,6,4,Si,Gusto Personal,Si,Si,Baja,8,Deportes,4,6,Prestigio,Si,No,No Aplica,0
+Femenino,22,Rural,Publica,45,Si,Ingenieria,75,77,75,26,Si,<5k,No,Otro,Local,Solo,Casado,Ninguna,Si,5,6,No,Prestigio,No,No,Media,5,Lectura,6,4,Cercanía,Si,Si,Problemas Académicos,4
+Femenino,19,Urbana,Publica,39,Si,Arte,92,68,91,19,Si,5k-10k,No,Padres,Local,Amigos,Casado,Ninguna,Si,8,4,No,Demanda Laboral,No,No,Alta,3,Arte,3,5,Vocación,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,8,Si,Ciencias Naturales,84,60,59,10,No,<5k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,6,7,No,Sueldo,No,No,Media,8,Arte,7,8,Influencia Familiar,No,No,No Aplica,0
+Masculino,18,Rural,Privada,41,Si,Ciencias Naturales,75,65,63,10,No,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,3,5,No,Sueldo,No,Si,Alta,6,Viajar,5,5,Influencia Familiar,Si,Si,Cambio de Carrera,2
+Masculino,22,Rural,Privada,51,No,Ciencias Sociales,61,70,78,13,No,5k-10k,No,Padres,Local,Familia,Soltero,Ninguna,No,7,7,Si,Gusto Personal,Si,No,Baja,7,Arte,7,7,Renta Económica,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,31,Si,Humanidades,80,68,75,14,No,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,Si,7,5,No,Prestigio,Si,No,Alta,8,Deportes,9,7,Prestigio,No,No,No Aplica,0
+Femenino,22,Urbana,Privada,34,No,Ingenieria,88,86,54,15,No,<5k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,5,4,Si,Amigos/Familia,Si,Si,Alta,7,Deportes,4,9,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Rural,Privada,45,Si,Ciencias Naturales,75,76,63,21,Si,<5k,No,Padres,Local,Otros,Soltero,Ninguna,No,5,6,No,Demanda Laboral,No,Si,Alta,7,Viajar,9,3,Prestigio,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,25,Si,Ciencias Sociales,93,83,66,14,Si,5k-10k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,5,4,Si,Amigos/Familia,No,No,Media,8,Tecnología,5,7,Renta Económica,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,27,Si,Ingenieria,83,78,68,8,Si,>20k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,Si,7,7,Si,Prestigio,Si,Si,Baja,9,Tecnología,9,9,Prestigio,No,Si,Otros,6
+Masculino,19,Urbana,Privada,56,No,Ciencias Naturales,90,77,78,16,Si,<5k,No,Otro,Local,Solo,Soltero,Ninguna,Si,7,6,Si,Amigos/Familia,No,No,Alta,5,Arte,5,5,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Rural,Privada,29,Si,Humanidades,80,79,55,23,No,5k-10k,Si,Padres,Local,Familia,Soltero,Visual,Si,6,4,Si,Demanda Laboral,Si,Si,Baja,8,Tecnología,2,6,Cercanía,Si,Si,Problemas Familiares,2
+Masculino,21,Urbana,Publica,39,Si,Ciencias Naturales,72,69,57,21,Si,5k-10k,Si,Padres,Foraneo,Otros,Soltero,Auditiva,Si,4,8,No,Amigos/Familia,Si,Si,Alta,6,Deportes,2,5,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,17,No,Ingenieria,74,77,61,17,Si,<5k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,7,4,No,Demanda Laboral,No,No,Baja,6,Lectura,5,7,Renta Económica,No,No,No Aplica,0
+Masculino,23,Urbana,Publica,39,No,Ciencias Naturales,76,67,65,14,No,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,4,0,No,Amigos/Familia,Si,No,Baja,8,Lectura,6,5,Cercanía,No,No,No Aplica,0
+Masculino,21,Rural,Privada,24,No,Ciencias Naturales,78,73,67,16,Si,10k-20k,No,Trabajo Propio,Foraneo,Amigos,Divorciado,Ninguna,No,4,8,No,Sueldo,Si,Si,Baja,10,Lectura,7,6,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Rural,Privada,8,No,Ingenieria,69,69,56,16,No,5k-10k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,4,3,Si,Prestigio,No,Si,Media,7,Deportes,2,8,Cercanía,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,28,Si,Ciencias Sociales,78,85,51,20,Si,<5k,Si,Otro,Local,Amigos,Soltero,Ninguna,No,7,3,No,Demanda Laboral,Si,No,Media,8,Viajar,6,5,Vocación,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,32,Si,Arte,80,90,76,18,Si,>20k,No,Padres,Foraneo,Familia,Soltero,Ninguna,No,8,4,No,Gusto Personal,Si,No,Baja,4,Viajar,7,6,Prestigio,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,20,Si,Arte,75,82,66,5,No,5k-10k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,6,2,No,Gusto Personal,No,No,Alta,7,Arte,4,10,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,27,No,Ingenieria,92,82,68,13,Si,<5k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,7,3,Si,Sueldo,No,No,Media,8,Deportes,7,7,Prestigio,No,No,No Aplica,0
+Masculino,19,Rural,Privada,31,No,Ciencias Sociales,84,72,72,12,Si,5k-10k,No,Beca,Local,Solo,Casado,Ninguna,No,3,5,No,Demanda Laboral,No,No,Media,3,Deportes,4,7,Vocación,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,37,Si,Humanidades,88,82,66,22,Si,>20k,No,Otro,Foraneo,Familia,Casado,Ninguna,Si,7,3,Si,Amigos/Familia,No,Si,Alta,3,Viajar,4,4,Cercanía,Si,Si,Problemas Académicos,5
+Masculino,21,Rural,Privada,38,Si,Ciencias Naturales,80,90,60,21,Si,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,Si,5,7,No,Amigos/Familia,Si,Si,Media,7,Lectura,8,5,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Rural,Privada,28,No,Arte,84,72,66,14,Si,10k-20k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,6,2,No,Amigos/Familia,No,Si,Baja,7,Viajar,9,8,Renta Económica,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,24,No,Arte,88,82,66,10,No,<5k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,3,9,Si,Amigos/Familia,No,Si,Alta,5,Viajar,5,7,Vocación,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,31,No,Arte,86,72,59,19,Si,<5k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,No,8,6,Si,Demanda Laboral,Si,No,Alta,9,Lectura,4,1,Cercanía,No,Si,Problemas Económicos,4
+Femenino,21,Rural,Publica,28,Si,Humanidades,71,70,66,10,Si,>20k,Si,Beca,Foraneo,Familia,Divorciado,Ninguna,Si,5,6,No,Amigos/Familia,Si,No,Alta,5,Deportes,8,8,Cercanía,Si,Si,Problemas Familiares,1
+Femenino,20,Urbana,Publica,44,No,Ciencias Naturales,74,92,78,22,Si,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,No,7,6,No,Sueldo,No,Si,Alta,11,Viajar,3,10,Cercanía,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,8,Si,Humanidades,68,85,81,12,No,10k-20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,6,7,No,Amigos/Familia,Si,No,Alta,8,Arte,8,7,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,19,Si,Humanidades,73,87,70,19,No,5k-10k,No,Beca,Local,Otros,Divorciado,Visual,No,7,3,Si,Prestigio,Si,No,Media,6,Tecnología,5,6,Vocación,No,Si,Problemas Académicos,8
+Masculino,23,Rural,Publica,30,Si,Ingenieria,83,66,63,25,No,10k-20k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,6,6,Si,Demanda Laboral,Si,No,Baja,8,Viajar,6,8,Prestigio,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,39,No,Ciencias Sociales,85,67,74,8,Si,<5k,No,Padres,Foraneo,Amigos,Soltero,Visual,No,5,7,No,Demanda Laboral,No,Si,Alta,8,Tecnología,6,11,Renta Económica,Si,Si,Cambio de Carrera,8
+Masculino,21,Rural,Publica,43,No,Humanidades,70,91,57,10,No,>20k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,3,8,Si,Amigos/Familia,No,No,Alta,8,Viajar,4,4,Influencia Familiar,No,Si,Problemas Económicos,1
+Masculino,20,Urbana,Privada,37,Si,Arte,63,96,81,18,No,5k-10k,No,Beca,Foraneo,Familia,Soltero,Ninguna,Si,8,5,No,Demanda Laboral,Si,No,Media,6,Deportes,4,8,Cercanía,Si,No,No Aplica,0
+Femenino,15,Rural,Publica,40,No,Arte,73,78,74,21,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,5,5,Si,Demanda Laboral,No,Si,Alta,7,Viajar,4,11,Prestigio,No,No,No Aplica,0
+Masculino,20,Rural,Privada,38,Si,Arte,76,82,68,21,Si,<5k,Si,Trabajo Propio,Local,Solo,Divorciado,Ninguna,No,8,6,Si,Amigos/Familia,Si,Si,Alta,8,Tecnología,10,8,Renta Económica,Si,Si,Problemas Económicos,1
+Masculino,19,Rural,Publica,41,Si,Humanidades,93,82,71,16,Si,<5k,No,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,No,6,2,No,Demanda Laboral,No,Si,Alta,5,Tecnología,4,7,Influencia Familiar,No,Si,Problemas Familiares,5
+Femenino,21,Rural,Privada,30,No,Ciencias Naturales,70,72,78,17,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,Si,6,7,Si,Amigos/Familia,Si,Si,Alta,8,Tecnología,6,8,Cercanía,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,17,Si,Ingenieria,81,63,78,18,No,5k-10k,No,Beca,Foraneo,Solo,Divorciado,Ninguna,Si,7,7,Si,Amigos/Familia,Si,No,Media,5,Arte,3,5,Cercanía,No,No,No Aplica,0
+Femenino,23,Urbana,Privada,44,Si,Ciencias Naturales,81,75,71,17,No,5k-10k,Si,Padres,Local,Solo,Divorciado,Ninguna,Si,6,8,No,Sueldo,Si,No,Baja,9,Lectura,8,8,Prestigio,Si,No,No Aplica,0
+Masculino,17,Urbana,Privada,28,Si,Ciencias Sociales,76,82,60,15,Si,10k-20k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,7,6,No,Sueldo,No,Si,Baja,8,Lectura,8,10,Influencia Familiar,No,No,No Aplica,0
+Femenino,15,Rural,Publica,21,Si,Ciencias Naturales,79,70,65,23,Si,10k-20k,Si,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,No,4,5,No,Sueldo,Si,Si,Alta,4,Viajar,6,9,Vocación,No,Si,Problemas Académicos,1
+Femenino,20,Urbana,Privada,30,No,Arte,84,91,71,6,Si,>20k,No,Trabajo Propio,Local,Otros,Casado,Ninguna,Si,4,2,No,Prestigio,Si,Si,Alta,7,Tecnología,7,9,Vocación,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,20,Si,Humanidades,80,80,68,23,No,5k-10k,Si,Beca,Local,Amigos,Soltero,Visual,Si,7,6,Si,Demanda Laboral,Si,Si,Baja,7,Arte,2,11,Influencia Familiar,Si,Si,Problemas Académicos,5
+Femenino,19,Urbana,Privada,35,No,Arte,73,86,71,21,No,10k-20k,Si,Otro,Local,Otros,Divorciado,Ninguna,No,7,1,Si,Prestigio,No,No,Media,8,Arte,2,8,Vocación,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,24,Si,Humanidades,79,68,69,17,Si,5k-10k,No,Beca,Local,Familia,Soltero,Ninguna,Si,5,5,No,Amigos/Familia,Si,No,Alta,9,Tecnología,5,8,Influencia Familiar,No,Si,Cambio de Carrera,7
+Masculino,17,Rural,Publica,18,No,Ingenieria,91,57,55,10,Si,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,6,6,Si,Gusto Personal,No,No,Media,6,Viajar,7,8,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,10,No,Arte,62,81,59,16,No,5k-10k,Si,Padres,Local,Otros,Soltero,Motriz,Si,5,5,Si,Prestigio,No,Si,Alta,6,Viajar,4,5,Influencia Familiar,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,4,Si,Ingenieria,89,71,71,17,Si,<5k,No,Padres,Foraneo,Familia,Soltero,Ninguna,No,8,9,No,Sueldo,Si,No,Media,7,Tecnología,4,6,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,34,No,Ciencias Sociales,84,68,76,14,No,5k-10k,No,Padres,Local,Familia,Casado,Ninguna,Si,5,6,No,Amigos/Familia,No,No,Media,7,Viajar,7,6,Influencia Familiar,Si,Si,Otros,1
+Masculino,21,Rural,Privada,33,Si,Ciencias Sociales,83,76,48,17,No,<5k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,Si,5,3,Si,Sueldo,No,No,Alta,10,Deportes,8,6,Influencia Familiar,Si,No,No Aplica,0
+Masculino,23,Urbana,Publica,31,Si,Ciencias Sociales,85,59,84,11,No,5k-10k,Si,Otro,Local,Solo,Divorciado,Ninguna,Si,7,5,No,Prestigio,No,Si,Baja,5,Arte,6,7,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,27,Si,Ciencias Sociales,78,67,70,8,No,<5k,No,Padres,Local,Solo,Casado,Ninguna,No,4,10,Si,Amigos/Familia,Si,No,Baja,8,Lectura,3,3,Cercanía,No,Si,Problemas Académicos,7
+Femenino,18,Urbana,Publica,35,Si,Ingenieria,70,77,83,15,No,5k-10k,No,Otro,Local,Solo,Soltero,Ninguna,Si,7,3,No,Sueldo,Si,Si,Baja,9,Tecnología,6,6,Prestigio,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,12,Si,Ciencias Sociales,67,83,52,20,No,5k-10k,No,Otro,Local,Otros,Casado,Visual,Si,5,5,Si,Amigos/Familia,Si,Si,Baja,8,Deportes,4,6,Influencia Familiar,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,18,Si,Arte,75,75,76,22,No,10k-20k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,6,4,No,Amigos/Familia,No,No,Alta,8,Viajar,3,3,Cercanía,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,29,No,Humanidades,103,70,88,18,Si,10k-20k,No,Beca,Local,Amigos,Casado,Auditiva,No,5,6,No,Sueldo,Si,Si,Media,6,Deportes,6,7,Prestigio,No,Si,Cambio de Carrera,3
+Femenino,15,Urbana,Privada,38,No,Ciencias Sociales,66,64,69,25,No,>20k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,7,3,Si,Prestigio,Si,No,Media,7,Lectura,7,7,Influencia Familiar,No,Si,Cambio de Carrera,2
+Masculino,21,Urbana,Privada,20,Si,Ingenieria,75,63,53,14,No,10k-20k,Si,Padres,Local,Familia,Casado,Ninguna,Si,9,7,No,Sueldo,Si,Si,Alta,5,Tecnología,3,4,Renta Económica,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,30,Si,Ciencias Naturales,71,82,65,20,Si,<5k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,5,Si,Amigos/Familia,No,No,Baja,7,Tecnología,7,6,Prestigio,Si,No,No Aplica,0
+Femenino,24,Urbana,Privada,34,Si,Ciencias Naturales,79,63,85,20,No,10k-20k,Si,Padres,Foraneo,Familia,Soltero,Motriz,Si,8,11,Si,Sueldo,No,Si,Media,11,Viajar,3,6,Cercanía,No,No,No Aplica,0
+Masculino,18,Rural,Publica,49,Si,Ciencias Sociales,88,71,73,10,Si,10k-20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,Si,5,5,No,Demanda Laboral,Si,Si,Media,9,Tecnología,0,7,Renta Económica,No,Si,Otros,2
+Femenino,19,Urbana,Publica,54,No,Ciencias Sociales,81,75,78,16,Si,10k-20k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,6,7,Si,Gusto Personal,No,Si,Baja,7,Lectura,0,11,Renta Económica,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,27,Si,Ciencias Naturales,79,105,84,18,No,>20k,No,Beca,Local,Solo,Soltero,Ninguna,Si,4,3,Si,Prestigio,No,No,Alta,5,Arte,4,8,Vocación,No,No,No Aplica,0
+Femenino,20,Rural,Privada,29,No,Ciencias Naturales,93,75,58,21,No,<5k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,No,6,9,No,Prestigio,No,No,Baja,8,Lectura,8,6,Prestigio,No,No,No Aplica,0
+Masculino,21,Rural,Privada,20,No,Humanidades,75,69,54,23,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,Si,7,4,Si,Sueldo,No,Si,Baja,10,Tecnología,7,8,Prestigio,No,No,No Aplica,0
+Femenino,22,Rural,Privada,32,No,Ciencias Sociales,77,76,75,14,Si,<5k,No,Beca,Local,Amigos,Soltero,Ninguna,No,6,7,No,Demanda Laboral,No,Si,Media,7,Arte,4,9,Influencia Familiar,Si,Si,Problemas Económicos,2
+Femenino,15,Rural,Publica,17,Si,Ciencias Naturales,94,63,65,9,Si,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,5,7,No,Sueldo,No,Si,Media,4,Arte,1,7,Prestigio,Si,Si,Otros,6
+Masculino,22,Rural,Privada,17,Si,Ciencias Sociales,86,81,70,18,No,10k-20k,No,Padres,Local,Familia,Soltero,Ninguna,No,6,3,No,Demanda Laboral,No,No,Media,6,Arte,7,5,Renta Económica,Si,No,No Aplica,0
+Masculino,18,Urbana,Privada,42,No,Arte,79,87,75,16,No,<5k,No,Beca,Local,Amigos,Divorciado,Ninguna,Si,6,2,Si,Prestigio,Si,Si,Media,11,Tecnología,4,9,Influencia Familiar,No,No,No Aplica,0
+Masculino,21,Rural,Publica,40,No,Ciencias Naturales,85,64,86,15,Si,<5k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,6,2,Si,Demanda Laboral,Si,No,Alta,7,Viajar,5,8,Cercanía,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,32,Si,Humanidades,87,82,74,13,Si,<5k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,4,9,No,Prestigio,No,Si,Alta,10,Arte,4,5,Cercanía,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,33,Si,Ciencias Sociales,75,85,63,19,No,10k-20k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,7,4,Si,Sueldo,Si,Si,Media,8,Lectura,4,6,Vocación,No,Si,Problemas Académicos,1
+Femenino,22,Rural,Privada,35,Si,Ingenieria,75,79,83,16,No,5k-10k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,7,2,Si,Sueldo,Si,No,Media,3,Viajar,5,8,Prestigio,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,37,Si,Ciencias Sociales,80,77,58,14,Si,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,4,3,Si,Sueldo,Si,No,Baja,10,Lectura,5,7,Cercanía,Si,Si,Problemas Académicos,3
+Masculino,21,Rural,Privada,23,Si,Ciencias Sociales,73,73,69,18,No,>20k,No,Beca,Foraneo,Familia,Soltero,Ninguna,Si,5,4,No,Prestigio,No,Si,Alta,10,Arte,4,6,Cercanía,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,15,No,Arte,95,72,64,7,Si,<5k,No,Otro,Foraneo,Otros,Divorciado,Ninguna,No,6,4,Si,Sueldo,Si,No,Media,5,Arte,9,5,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,19,No,Ciencias Sociales,84,84,84,16,Si,>20k,No,Trabajo Propio,Local,Amigos,Soltero,Visual,Si,4,6,Si,Prestigio,Si,Si,Baja,5,Tecnología,2,5,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,16,No,Arte,67,69,59,18,No,>20k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,4,5,No,Sueldo,No,No,Baja,6,Lectura,5,6,Prestigio,Si,No,No Aplica,0
+Masculino,22,Rural,Publica,20,Si,Ciencias Naturales,62,72,61,26,Si,<5k,No,Padres,Local,Otros,Soltero,Ninguna,Si,6,7,Si,Gusto Personal,Si,Si,Baja,7,Tecnología,4,11,Renta Económica,No,No,No Aplica,0
+Femenino,18,Rural,Privada,38,Si,Ciencias Naturales,79,74,78,8,No,5k-10k,No,Otro,Foraneo,Familia,Soltero,Ninguna,No,3,3,No,Prestigio,No,Si,Media,7,Tecnología,3,8,Renta Económica,No,Si,Cambio de Carrera,4
+Masculino,20,Urbana,Publica,47,No,Ciencias Naturales,77,73,74,12,Si,>20k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,7,6,Si,Sueldo,Si,No,Baja,3,Lectura,4,4,Influencia Familiar,Si,No,No Aplica,0
+Femenino,22,Urbana,Publica,32,Si,Humanidades,66,66,82,15,Si,5k-10k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,7,5,No,Gusto Personal,No,No,Baja,6,Deportes,5,8,Vocación,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,31,No,Humanidades,77,57,75,17,Si,10k-20k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,3,9,Si,Sueldo,Si,No,Alta,7,Deportes,5,5,Prestigio,Si,No,No Aplica,0
+Masculino,18,Urbana,Publica,42,Si,Ciencias Sociales,71,66,57,15,Si,10k-20k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,10,3,Si,Demanda Laboral,No,No,Media,8,Tecnología,2,12,Influencia Familiar,No,No,No Aplica,0
+Femenino,21,Rural,Privada,41,No,Humanidades,76,63,56,16,Si,5k-10k,No,Beca,Foraneo,Solo,Soltero,Ninguna,No,7,6,Si,Sueldo,No,No,Media,3,Viajar,3,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,21,No,Ingenieria,68,83,52,15,No,10k-20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,5,6,No,Amigos/Familia,No,Si,Baja,5,Deportes,6,6,Prestigio,Si,Si,Problemas Económicos,3
+Femenino,20,Urbana,Privada,29,Si,Humanidades,70,67,68,14,No,5k-10k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,No,7,3,No,Prestigio,Si,No,Baja,6,Viajar,2,6,Cercanía,No,No,No Aplica,0
+Masculino,18,Urbana,Publica,19,No,Ciencias Sociales,82,67,60,23,Si,<5k,No,Otro,Local,Otros,Soltero,Ninguna,Si,6,7,No,Amigos/Familia,Si,Si,Alta,9,Arte,5,7,Cercanía,Si,Si,Problemas Académicos,4
+Masculino,18,Rural,Privada,44,No,Ingenieria,88,75,77,10,No,10k-20k,No,Padres,Local,Familia,Soltero,Ninguna,No,5,5,Si,Gusto Personal,No,No,Alta,8,Viajar,5,8,Cercanía,Si,Si,Problemas Académicos,8
+Femenino,22,Urbana,Privada,34,Si,Humanidades,77,78,72,9,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,No,5,8,Si,Sueldo,No,Si,Baja,7,Lectura,5,7,Cercanía,No,Si,Otros,3
+Femenino,22,Rural,Privada,18,Si,Arte,92,68,69,15,Si,5k-10k,No,Padres,Local,Amigos,Soltero,Ninguna,No,6,4,Si,Sueldo,No,No,Baja,7,Viajar,5,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,34,Si,Ciencias Sociales,75,74,75,20,No,<5k,No,Padres,Local,Solo,Soltero,Ninguna,Si,5,4,No,Amigos/Familia,No,Si,Alta,9,Lectura,6,4,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,23,No,Ciencias Naturales,85,65,84,14,Si,5k-10k,No,Padres,Local,Familia,Soltero,Ninguna,Si,6,4,No,Amigos/Familia,No,No,Alta,9,Tecnología,8,5,Influencia Familiar,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,36,No,Ciencias Sociales,76,91,83,16,No,10k-20k,No,Padres,Foraneo,Familia,Soltero,Cognitiva,No,5,4,No,Sueldo,No,Si,Baja,7,Deportes,6,5,Prestigio,No,No,No Aplica,0
+Masculino,19,Rural,Privada,10,Si,Arte,74,70,61,20,No,10k-20k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,No,6,4,Si,Sueldo,Si,Si,Baja,8,Lectura,6,7,Vocación,No,No,No Aplica,0
+Femenino,22,Urbana,Publica,47,Si,Ciencias Naturales,80,91,83,22,Si,10k-20k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,6,6,No,Amigos/Familia,No,Si,Baja,7,Lectura,6,3,Prestigio,No,No,No Aplica,0
+Femenino,17,Urbana,Privada,25,Si,Arte,75,96,74,17,Si,5k-10k,No,Padres,Foraneo,Amigos,Divorciado,Ninguna,No,6,4,No,Prestigio,No,No,Alta,7,Viajar,4,7,Cercanía,No,Si,Cambio de Carrera,3
+Femenino,21,Rural,Privada,35,No,Ciencias Naturales,66,74,72,21,Si,10k-20k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,5,6,No,Sueldo,No,No,Media,7,Tecnología,8,9,Renta Económica,No,Si,Problemas Familiares,8
+Masculino,23,Urbana,Publica,33,Si,Humanidades,78,71,65,14,Si,<5k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,4,7,No,Sueldo,Si,Si,Alta,2,Arte,7,5,Vocación,No,Si,Otros,1
+Femenino,17,Urbana,Publica,31,No,Ciencias Naturales,89,74,62,13,No,<5k,Si,Otro,Local,Amigos,Casado,Ninguna,No,6,4,No,Gusto Personal,No,No,Alta,6,Viajar,5,10,Renta Económica,No,Si,Problemas Económicos,4
+Masculino,24,Rural,Publica,33,No,Humanidades,86,91,57,17,No,5k-10k,Si,Otro,Local,Familia,Soltero,Ninguna,No,6,9,No,Gusto Personal,Si,Si,Baja,5,Tecnología,9,9,Prestigio,Si,No,No Aplica,0
+Femenino,23,Urbana,Privada,31,Si,Ciencias Naturales,83,81,81,16,No,10k-20k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,No,8,5,No,Prestigio,No,No,Media,7,Arte,3,6,Cercanía,No,No,No Aplica,0
+Masculino,24,Urbana,Publica,20,No,Ciencias Naturales,85,80,69,22,No,10k-20k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,Si,5,4,No,Amigos/Familia,Si,No,Alta,6,Arte,8,13,Vocación,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,30,Si,Arte,67,71,93,10,Si,5k-10k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,8,1,Si,Sueldo,No,Si,Baja,5,Arte,8,5,Vocación,No,No,No Aplica,0
+Femenino,23,Rural,Publica,21,No,Ingenieria,69,83,79,14,Si,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,4,5,Si,Gusto Personal,No,Si,Alta,9,Arte,6,8,Cercanía,Si,Si,Cambio de Carrera,6
+Masculino,17,Rural,Privada,27,No,Ingenieria,103,82,79,12,Si,5k-10k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,5,6,Si,Prestigio,No,No,Baja,10,Lectura,4,7,Prestigio,Si,No,No Aplica,0
+Masculino,16,Urbana,Privada,39,No,Ciencias Sociales,84,62,66,18,No,10k-20k,No,Padres,Local,Otros,Soltero,Ninguna,Si,6,4,Si,Demanda Laboral,Si,No,Media,9,Tecnología,7,8,Renta Económica,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,43,No,Arte,83,81,64,15,Si,>20k,Si,Otro,Local,Familia,Soltero,Ninguna,No,6,5,Si,Demanda Laboral,Si,No,Media,7,Viajar,8,6,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Publica,18,Si,Humanidades,85,73,53,13,No,10k-20k,Si,Padres,Local,Solo,Soltero,Ninguna,Si,5,7,No,Gusto Personal,Si,No,Baja,7,Lectura,10,6,Cercanía,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,58,No,Ciencias Sociales,77,70,68,19,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,Si,6,7,No,Gusto Personal,No,Si,Baja,9,Arte,4,9,Vocación,Si,Si,Otros,1
+Masculino,22,Urbana,Privada,22,No,Ciencias Sociales,88,77,71,11,No,5k-10k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,7,6,Si,Amigos/Familia,No,No,Media,7,Lectura,6,4,Influencia Familiar,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,30,Si,Humanidades,87,77,82,7,Si,<5k,No,Otro,Foraneo,Solo,Casado,Motriz,Si,4,3,Si,Sueldo,Si,Si,Alta,6,Deportes,6,12,Prestigio,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,34,Si,Arte,71,93,61,7,No,5k-10k,No,Beca,Local,Solo,Soltero,Ninguna,Si,9,3,No,Prestigio,Si,Si,Media,8,Lectura,5,10,Vocación,No,Si,Problemas Familiares,1
+Femenino,22,Urbana,Privada,19,No,Humanidades,78,76,82,14,Si,5k-10k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,5,6,Si,Sueldo,Si,No,Baja,6,Lectura,7,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,45,Si,Ciencias Naturales,73,68,64,24,Si,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,3,3,Si,Amigos/Familia,No,No,Alta,5,Viajar,6,5,Renta Económica,No,Si,Cambio de Carrera,4
+Masculino,19,Rural,Publica,32,No,Humanidades,84,70,56,10,Si,5k-10k,Si,Padres,Foraneo,Otros,Casado,Ninguna,No,8,4,Si,Sueldo,Si,No,Alta,7,Viajar,5,6,Prestigio,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,24,No,Ingenieria,83,85,71,22,Si,<5k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,7,4,No,Demanda Laboral,No,Si,Alta,8,Deportes,3,6,Renta Económica,No,No,No Aplica,0
+Femenino,22,Urbana,Publica,22,No,Humanidades,92,62,80,16,Si,5k-10k,No,Beca,Foraneo,Otros,Divorciado,Ninguna,No,5,6,Si,Prestigio,No,Si,Baja,9,Viajar,10,5,Prestigio,No,No,No Aplica,0
+Femenino,24,Urbana,Privada,31,Si,Humanidades,62,75,71,22,No,10k-20k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,3,5,Si,Prestigio,Si,Si,Media,5,Arte,6,9,Renta Económica,No,No,No Aplica,0
+Femenino,22,Rural,Privada,22,No,Ciencias Sociales,88,80,88,31,No,>20k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,5,3,Si,Demanda Laboral,Si,Si,Alta,7,Viajar,6,5,Renta Económica,Si,Si,Otros,7
+Masculino,20,Rural,Publica,44,Si,Humanidades,69,70,79,16,Si,5k-10k,No,Padres,Foraneo,Amigos,Casado,Ninguna,No,8,7,No,Prestigio,Si,Si,Alta,8,Viajar,8,4,Cercanía,Si,Si,Otros,6
+Masculino,20,Urbana,Privada,55,Si,Ciencias Naturales,90,53,81,15,No,>20k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,5,8,No,Demanda Laboral,Si,Si,Alta,5,Arte,3,3,Vocación,No,No,No Aplica,0
+Masculino,20,Urbana,Publica,34,Si,Ciencias Naturales,59,73,75,20,Si,<5k,Si,Padres,Local,Solo,Soltero,Cognitiva,Si,7,6,Si,Prestigio,Si,No,Baja,4,Viajar,3,9,Cercanía,Si,Si,Problemas Familiares,7
+Femenino,18,Urbana,Privada,36,Si,Ciencias Naturales,88,84,70,21,Si,5k-10k,No,Otro,Local,Amigos,Soltero,Ninguna,Si,8,3,No,Gusto Personal,No,Si,Media,10,Viajar,5,7,Cercanía,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,29,Si,Ciencias Sociales,68,65,68,21,Si,<5k,No,Otro,Local,Otros,Soltero,Ninguna,Si,8,4,Si,Demanda Laboral,Si,Si,Media,8,Viajar,5,7,Renta Económica,No,Si,Problemas Familiares,5
+Femenino,21,Urbana,Privada,15,No,Ciencias Naturales,63,75,62,14,Si,10k-20k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,Si,5,6,Si,Demanda Laboral,Si,Si,Alta,7,Tecnología,3,10,Influencia Familiar,No,Si,Cambio de Carrera,8
+Femenino,18,Rural,Privada,45,Si,Ciencias Naturales,82,82,55,17,Si,5k-10k,No,Padres,Foraneo,Familia,Divorciado,Ninguna,No,5,6,No,Sueldo,No,No,Media,7,Deportes,3,6,Vocación,Si,No,No Aplica,0
+Masculino,16,Urbana,Privada,29,Si,Ciencias Sociales,82,63,81,16,No,10k-20k,No,Otro,Foraneo,Solo,Soltero,Motriz,Si,7,7,Si,Sueldo,No,No,Baja,1,Lectura,6,4,Vocación,Si,No,No Aplica,0
+Femenino,23,Urbana,Publica,14,Si,Ciencias Naturales,75,74,68,10,Si,<5k,No,Otro,Foraneo,Amigos,Soltero,Cognitiva,Si,5,4,No,Amigos/Familia,No,No,Baja,9,Viajar,9,8,Cercanía,No,No,No Aplica,0
+Femenino,19,Rural,Publica,41,No,Ciencias Naturales,76,68,62,20,No,<5k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,6,1,No,Prestigio,No,Si,Baja,8,Tecnología,5,5,Cercanía,No,Si,Problemas Académicos,3
+Masculino,19,Urbana,Privada,42,No,Ingenieria,79,78,89,9,No,<5k,No,Beca,Foraneo,Otros,Soltero,Ninguna,No,5,7,Si,Amigos/Familia,Si,Si,Baja,7,Tecnología,3,8,Vocación,Si,No,No Aplica,0
+Femenino,17,Rural,Privada,35,No,Ciencias Sociales,85,72,68,11,No,<5k,No,Beca,Foraneo,Amigos,Casado,Ninguna,Si,8,6,No,Demanda Laboral,Si,Si,Alta,5,Deportes,6,6,Renta Económica,Si,No,No Aplica,0
+Femenino,18,Rural,Publica,26,No,Ingenieria,95,66,68,11,No,>20k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,6,7,Si,Sueldo,No,Si,Media,5,Lectura,3,7,Renta Económica,No,No,No Aplica,0
+Femenino,20,Rural,Privada,32,Si,Ciencias Sociales,85,70,64,15,Si,<5k,No,Otro,Local,Amigos,Soltero,Ninguna,Si,3,7,No,Sueldo,No,No,Media,9,Viajar,5,8,Cercanía,No,Si,Problemas Económicos,4
+Masculino,18,Urbana,Publica,48,Si,Ciencias Naturales,81,69,63,11,No,5k-10k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,7,5,No,Gusto Personal,No,Si,Media,7,Lectura,8,8,Cercanía,No,No,No Aplica,0
+Masculino,17,Urbana,Privada,30,No,Humanidades,85,81,74,16,No,5k-10k,No,Otro,Foraneo,Familia,Casado,Ninguna,Si,6,8,Si,Sueldo,Si,No,Media,8,Arte,2,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,24,Urbana,Publica,37,Si,Ciencias Naturales,79,68,81,8,No,<5k,No,Otro,Local,Familia,Divorciado,Ninguna,Si,5,3,Si,Sueldo,Si,Si,Media,7,Viajar,5,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,27,Si,Arte,64,73,82,15,No,<5k,Si,Padres,Local,Amigos,Soltero,Ninguna,No,7,5,No,Sueldo,No,Si,Baja,8,Tecnología,5,13,Influencia Familiar,No,No,No Aplica,0
+Femenino,23,Rural,Publica,7,No,Arte,81,60,77,12,No,5k-10k,No,Otro,Local,Solo,Casado,Ninguna,Si,7,6,No,Prestigio,Si,No,Media,7,Arte,3,9,Cercanía,No,Si,Problemas Académicos,5
+Femenino,21,Urbana,Privada,41,Si,Ciencias Sociales,66,68,78,18,Si,10k-20k,Si,Beca,Foraneo,Solo,Casado,Ninguna,No,7,5,No,Gusto Personal,Si,No,Media,9,Arte,3,10,Vocación,Si,No,No Aplica,0
+Femenino,17,Urbana,Publica,19,Si,Ingenieria,74,68,69,22,Si,>20k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,8,7,Si,Sueldo,No,Si,Baja,8,Arte,5,6,Renta Económica,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,18,No,Humanidades,65,70,65,11,No,5k-10k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,4,6,Si,Amigos/Familia,No,No,Media,9,Lectura,2,9,Prestigio,No,No,No Aplica,0
+Femenino,21,Rural,Publica,35,Si,Ciencias Sociales,86,85,51,21,No,10k-20k,Si,Padres,Local,Solo,Casado,Ninguna,Si,8,3,No,Sueldo,No,No,Media,4,Arte,6,8,Cercanía,Si,No,No Aplica,0
+Masculino,22,Rural,Publica,23,No,Ingenieria,65,98,89,21,Si,10k-20k,No,Padres,Foraneo,Solo,Soltero,Ninguna,No,5,4,Si,Amigos/Familia,Si,No,Media,7,Deportes,6,11,Cercanía,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,26,No,Humanidades,83,89,71,11,Si,<5k,No,Padres,Foraneo,Amigos,Casado,Ninguna,Si,7,5,Si,Amigos/Familia,No,No,Alta,7,Viajar,0,4,Renta Económica,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,39,Si,Ciencias Naturales,86,65,74,12,No,10k-20k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,7,4,Si,Prestigio,No,No,Baja,9,Deportes,0,9,Vocación,No,Si,Cambio de Carrera,3
+Masculino,20,Urbana,Publica,40,Si,Arte,85,86,73,27,Si,5k-10k,Si,Beca,Foraneo,Otros,Divorciado,Ninguna,No,8,4,No,Amigos/Familia,No,Si,Alta,9,Lectura,6,9,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,13,Si,Ciencias Sociales,81,75,72,18,Si,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,6,No,Prestigio,Si,Si,Alta,7,Tecnología,3,5,Renta Económica,Si,No,No Aplica,0
+Femenino,17,Urbana,Privada,25,Si,Ciencias Sociales,81,61,71,14,Si,5k-10k,No,Beca,Local,Otros,Casado,Ninguna,Si,8,5,Si,Prestigio,No,Si,Baja,6,Deportes,6,7,Influencia Familiar,Si,Si,Problemas Familiares,3
+Masculino,18,Rural,Privada,33,No,Humanidades,77,77,74,20,Si,<5k,No,Trabajo Propio,Local,Familia,Casado,Ninguna,Si,3,6,No,Prestigio,Si,No,Media,8,Arte,3,6,Cercanía,No,No,No Aplica,0
+Femenino,18,Rural,Publica,8,No,Arte,76,73,65,18,Si,<5k,Si,Otro,Local,Solo,Soltero,Ninguna,No,7,8,No,Gusto Personal,No,Si,Baja,6,Tecnología,7,8,Cercanía,No,No,No Aplica,0
+Masculino,21,Rural,Publica,35,No,Ciencias Sociales,81,81,72,9,Si,<5k,Si,Otro,Local,Otros,Soltero,Ninguna,Si,5,4,No,Gusto Personal,Si,Si,Baja,10,Deportes,2,7,Vocación,No,No,No Aplica,0
+Femenino,20,Urbana,Publica,16,Si,Humanidades,71,75,83,9,No,10k-20k,Si,Otro,Local,Solo,Soltero,Ninguna,No,4,5,No,Prestigio,No,No,Media,6,Lectura,7,8,Cercanía,No,No,No Aplica,0
+Masculino,20,Urbana,Publica,9,No,Ciencias Naturales,80,66,83,16,No,<5k,No,Otro,Local,Amigos,Soltero,Ninguna,No,7,8,Si,Prestigio,Si,No,Alta,9,Arte,5,2,Cercanía,No,No,No Aplica,0
+Femenino,23,Rural,Privada,40,No,Ciencias Sociales,55,81,64,12,No,10k-20k,No,Beca,Local,Solo,Soltero,Ninguna,No,6,6,No,Demanda Laboral,Si,Si,Media,8,Tecnología,6,9,Vocación,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,20,No,Humanidades,79,59,84,4,Si,10k-20k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,7,6,Si,Sueldo,Si,No,Alta,4,Deportes,6,11,Vocación,No,No,No Aplica,0
+Masculino,15,Urbana,Publica,37,No,Arte,84,75,79,12,Si,5k-10k,No,Otro,Local,Solo,Divorciado,Ninguna,No,5,2,No,Sueldo,No,Si,Alta,6,Deportes,4,9,Prestigio,Si,Si,Otros,3
+Femenino,22,Rural,Privada,52,No,Arte,70,75,72,13,No,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,Si,9,9,No,Gusto Personal,Si,Si,Alta,7,Lectura,4,8,Renta Económica,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,30,No,Ciencias Naturales,58,83,72,20,No,<5k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,No,8,6,Si,Prestigio,No,No,Baja,6,Lectura,5,7,Vocación,Si,No,No Aplica,0
+Femenino,21,Rural,Privada,47,No,Ciencias Sociales,102,78,71,4,Si,5k-10k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,7,4,Si,Sueldo,No,Si,Alta,8,Deportes,4,9,Prestigio,No,Si,Problemas Económicos,6
+Masculino,17,Urbana,Privada,25,No,Ciencias Naturales,81,83,75,18,Si,<5k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,5,7,No,Demanda Laboral,Si,No,Alta,4,Deportes,4,10,Influencia Familiar,No,No,No Aplica,0
+Femenino,17,Urbana,Publica,29,Si,Ingenieria,83,86,88,20,Si,<5k,No,Padres,Foraneo,Solo,Soltero,Ninguna,Si,6,5,No,Demanda Laboral,Si,No,Baja,6,Tecnología,7,8,Prestigio,Si,Si,Problemas Económicos,3
+Femenino,21,Rural,Privada,23,Si,Ciencias Sociales,80,89,76,14,No,<5k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,6,7,Si,Gusto Personal,Si,No,Media,11,Tecnología,6,8,Cercanía,No,No,No Aplica,0
+Masculino,21,Rural,Privada,37,No,Humanidades,75,70,66,11,Si,<5k,No,Padres,Local,Familia,Casado,Ninguna,No,3,5,No,Amigos/Familia,Si,No,Media,8,Tecnología,3,10,Vocación,No,Si,Problemas Académicos,6
+Femenino,21,Rural,Publica,34,No,Humanidades,80,63,65,19,Si,5k-10k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,6,2,Si,Sueldo,Si,Si,Alta,8,Deportes,2,9,Vocación,Si,No,No Aplica,0
+Femenino,23,Rural,Privada,44,No,Ciencias Sociales,80,91,72,17,Si,>20k,No,Padres,Foraneo,Solo,Soltero,Ninguna,Si,6,3,No,Gusto Personal,No,Si,Baja,8,Tecnología,3,8,Renta Económica,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,47,No,Ciencias Naturales,65,77,73,18,Si,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,No,5,8,Si,Gusto Personal,No,No,Alta,10,Arte,-1,12,Cercanía,No,No,No Aplica,0
+Femenino,25,Rural,Publica,22,Si,Ciencias Sociales,86,78,56,13,Si,5k-10k,Si,Padres,Foraneo,Amigos,Casado,Ninguna,No,4,8,Si,Gusto Personal,Si,No,Baja,7,Viajar,5,8,Prestigio,No,No,No Aplica,0
+Masculino,23,Rural,Publica,30,Si,Humanidades,90,86,60,21,Si,<5k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,5,4,Si,Sueldo,Si,No,Alta,8,Deportes,8,7,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,45,Si,Ciencias Sociales,88,63,78,14,No,10k-20k,Si,Otro,Local,Solo,Soltero,Ninguna,No,4,6,No,Gusto Personal,No,Si,Baja,5,Lectura,8,10,Renta Económica,No,Si,Problemas Económicos,7
+Masculino,22,Urbana,Privada,48,No,Ingenieria,82,73,52,21,No,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,7,3,No,Sueldo,No,Si,Media,7,Arte,4,8,Influencia Familiar,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,28,Si,Ciencias Naturales,78,90,58,17,No,5k-10k,No,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,Si,6,5,Si,Gusto Personal,Si,Si,Media,4,Lectura,6,10,Prestigio,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,17,Si,Ciencias Naturales,56,72,63,11,Si,<5k,Si,Otro,Local,Otros,Soltero,Visual,No,8,3,No,Prestigio,No,Si,Media,9,Tecnología,4,6,Vocación,Si,Si,Cambio de Carrera,7
+Masculino,19,Rural,Publica,44,No,Ingenieria,69,79,66,18,No,5k-10k,Si,Padres,Local,Otros,Soltero,Ninguna,Si,6,5,Si,Sueldo,No,Si,Media,7,Lectura,5,10,Cercanía,No,No,No Aplica,0
+Masculino,19,Urbana,Publica,29,No,Ciencias Naturales,80,79,54,14,No,10k-20k,No,Otro,Local,Solo,Soltero,Ninguna,No,6,4,Si,Demanda Laboral,No,Si,Baja,6,Arte,6,6,Cercanía,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,29,Si,Ciencias Naturales,89,73,60,9,No,>20k,Si,Padres,Foraneo,Amigos,Casado,Ninguna,No,5,8,Si,Gusto Personal,No,Si,Baja,6,Arte,0,5,Prestigio,Si,No,No Aplica,0
+Masculino,23,Urbana,Publica,25,Si,Arte,72,72,66,15,No,<5k,No,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,7,7,Si,Demanda Laboral,Si,No,Alta,9,Viajar,7,8,Prestigio,Si,Si,Problemas Familiares,1
+Masculino,21,Rural,Privada,43,No,Humanidades,61,83,67,18,Si,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,Si,6,2,Si,Sueldo,No,No,Baja,8,Viajar,5,9,Prestigio,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,29,No,Humanidades,90,72,86,21,No,5k-10k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,8,7,No,Demanda Laboral,Si,No,Media,6,Viajar,5,9,Cercanía,No,No,No Aplica,0
+Masculino,21,Rural,Publica,17,No,Ciencias Sociales,103,81,79,16,Si,<5k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,6,6,Si,Sueldo,Si,Si,Alta,3,Deportes,4,7,Cercanía,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,23,Si,Ciencias Naturales,85,86,83,19,No,5k-10k,No,Padres,Foraneo,Familia,Soltero,Ninguna,No,8,6,No,Amigos/Familia,No,No,Alta,9,Arte,4,8,Cercanía,No,No,No Aplica,0
+Masculino,20,Rural,Publica,29,No,Ciencias Sociales,87,73,79,10,No,>20k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,2,6,Si,Sueldo,Si,No,Media,6,Lectura,3,6,Prestigio,No,No,No Aplica,0
+Femenino,17,Rural,Privada,19,Si,Humanidades,82,93,70,20,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,Si,4,8,No,Sueldo,No,No,Alta,9,Tecnología,7,4,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,41,Si,Ciencias Naturales,104,61,72,10,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,4,6,Si,Amigos/Familia,Si,Si,Alta,6,Deportes,9,7,Renta Económica,Si,No,No Aplica,0
+Femenino,19,Urbana,Privada,10,No,Ciencias Naturales,81,82,84,16,No,10k-20k,No,Beca,Foraneo,Amigos,Soltero,Cognitiva,Si,9,5,Si,Prestigio,Si,No,Media,12,Lectura,7,6,Renta Económica,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,32,No,Ciencias Sociales,104,67,73,12,Si,10k-20k,Si,Padres,Foraneo,Solo,Casado,Ninguna,No,5,4,No,Amigos/Familia,No,No,Baja,9,Tecnología,2,5,Influencia Familiar,Si,Si,Problemas Académicos,4
+Femenino,18,Rural,Privada,33,Si,Ingenieria,85,78,68,17,No,5k-10k,No,Otro,Local,Otros,Soltero,Motriz,Si,5,5,No,Prestigio,Si,No,Alta,7,Deportes,5,7,Renta Económica,No,No,No Aplica,0
+Femenino,18,Rural,Privada,27,No,Ingenieria,71,64,49,17,Si,<5k,Si,Otro,Local,Familia,Soltero,Ninguna,Si,7,3,No,Amigos/Familia,Si,Si,Media,5,Lectura,4,7,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,42,No,Ciencias Sociales,80,82,74,16,Si,<5k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,4,7,No,Sueldo,No,No,Baja,12,Tecnología,5,6,Vocación,No,Si,Cambio de Carrera,7
+Masculino,22,Urbana,Privada,16,Si,Arte,75,72,77,8,Si,5k-10k,Si,Padres,Local,Solo,Soltero,Motriz,No,6,4,Si,Demanda Laboral,Si,Si,Alta,7,Tecnología,5,9,Vocación,No,No,No Aplica,0
+Femenino,21,Rural,Privada,23,No,Ingenieria,99,88,71,18,No,<5k,No,Otro,Local,Familia,Divorciado,Ninguna,Si,3,4,Si,Demanda Laboral,Si,Si,Baja,7,Lectura,5,5,Vocación,No,No,No Aplica,0
+Femenino,23,Urbana,Privada,29,Si,Ciencias Naturales,70,65,77,12,Si,>20k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,6,3,Si,Prestigio,No,Si,Alta,8,Tecnología,8,8,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,26,No,Arte,83,83,79,19,Si,10k-20k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,No,8,3,No,Demanda Laboral,No,No,Alta,8,Viajar,4,7,Prestigio,No,No,No Aplica,0
+Masculino,17,Urbana,Publica,25,No,Ciencias Sociales,90,72,82,16,No,5k-10k,No,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,No,6,4,Si,Amigos/Familia,Si,Si,Media,8,Viajar,8,7,Cercanía,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,28,No,Ciencias Sociales,76,62,51,13,Si,<5k,No,Otro,Foraneo,Familia,Soltero,Ninguna,No,6,6,Si,Amigos/Familia,Si,No,Alta,8,Tecnología,5,6,Cercanía,Si,Si,Problemas Académicos,4
+Masculino,19,Rural,Publica,32,Si,Ingenieria,81,60,78,9,No,>20k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,Si,5,9,Si,Amigos/Familia,Si,Si,Media,6,Viajar,3,5,Vocación,No,No,No Aplica,0
+Masculino,18,Rural,Publica,22,No,Ciencias Naturales,80,69,68,7,Si,>20k,No,Padres,Local,Amigos,Soltero,Ninguna,Si,8,7,No,Demanda Laboral,No,No,Baja,8,Viajar,3,6,Renta Económica,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,41,Si,Arte,86,78,51,7,Si,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,No,5,7,Si,Amigos/Familia,No,Si,Baja,8,Tecnología,4,8,Cercanía,Si,Si,Cambio de Carrera,5
+Masculino,21,Urbana,Publica,39,No,Humanidades,77,67,68,17,No,10k-20k,No,Beca,Local,Solo,Soltero,Ninguna,Si,6,8,Si,Gusto Personal,No,Si,Baja,6,Viajar,4,4,Prestigio,No,Si,Problemas Familiares,7
+Femenino,20,Rural,Publica,32,Si,Ingenieria,82,76,71,16,No,10k-20k,No,Beca,Foraneo,Familia,Soltero,Ninguna,Si,6,3,No,Demanda Laboral,Si,No,Alta,9,Viajar,4,6,Renta Económica,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,27,Si,Ingenieria,81,77,84,12,No,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,No,10,7,No,Amigos/Familia,No,No,Alta,10,Viajar,4,12,Vocación,No,No,No Aplica,0
+Masculino,24,Urbana,Publica,31,No,Ciencias Sociales,62,71,66,26,No,<5k,No,Trabajo Propio,Local,Familia,Soltero,Auditiva,Si,5,5,No,Demanda Laboral,Si,Si,Baja,7,Lectura,5,4,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,29,No,Ingenieria,67,71,75,9,Si,<5k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,6,3,No,Demanda Laboral,Si,Si,Media,5,Lectura,3,9,Cercanía,Si,No,No Aplica,0
+Masculino,15,Rural,Publica,41,No,Humanidades,64,69,81,10,Si,10k-20k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,4,7,No,Gusto Personal,No,No,Media,5,Lectura,5,9,Cercanía,No,No,No Aplica,0
+Masculino,22,Rural,Publica,22,Si,Arte,88,71,89,19,No,>20k,No,Padres,Local,Familia,Soltero,Motriz,No,6,4,Si,Prestigio,No,No,Alta,5,Arte,5,5,Prestigio,Si,Si,Problemas Familiares,2
+Femenino,22,Urbana,Privada,18,No,Ciencias Naturales,74,86,86,25,No,<5k,No,Padres,Foraneo,Solo,Soltero,Ninguna,No,7,5,No,Prestigio,No,Si,Media,2,Tecnología,3,6,Prestigio,Si,No,No Aplica,0
+Femenino,17,Rural,Publica,34,No,Arte,64,80,70,14,Si,>20k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,6,6,Si,Amigos/Familia,Si,No,Baja,10,Deportes,4,9,Vocación,Si,Si,Problemas Familiares,7
+Masculino,21,Rural,Publica,18,No,Ciencias Naturales,80,74,72,23,No,5k-10k,Si,Beca,Local,Otros,Soltero,Ninguna,Si,5,5,No,Amigos/Familia,No,Si,Alta,9,Deportes,7,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,23,Rural,Publica,27,Si,Ciencias Naturales,77,80,72,10,Si,10k-20k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,8,3,Si,Amigos/Familia,No,No,Baja,8,Lectura,6,3,Cercanía,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,27,No,Arte,84,77,69,22,Si,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,No,5,7,No,Gusto Personal,No,No,Media,4,Tecnología,7,5,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Urbana,Publica,18,Si,Ciencias Sociales,81,71,70,15,Si,<5k,No,Padres,Foraneo,Familia,Casado,Ninguna,Si,7,6,No,Prestigio,No,No,Alta,7,Arte,4,8,Vocación,No,No,No Aplica,0
+Masculino,22,Rural,Publica,26,Si,Ciencias Naturales,87,82,79,16,No,<5k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,4,5,No,Sueldo,Si,Si,Media,4,Tecnología,4,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,22,No,Ingenieria,90,79,75,14,No,5k-10k,No,Padres,Local,Familia,Casado,Ninguna,No,12,3,No,Sueldo,No,Si,Baja,5,Arte,4,7,Vocación,No,No,No Aplica,0
+Femenino,20,Rural,Privada,36,Si,Ingenieria,96,74,64,6,No,10k-20k,No,Padres,Local,Familia,Soltero,Ninguna,No,8,4,No,Sueldo,Si,No,Media,7,Arte,0,8,Cercanía,Si,Si,Problemas Académicos,7
+Femenino,19,Urbana,Publica,24,Si,Ciencias Sociales,90,67,69,8,No,<5k,No,Otro,Local,Familia,Soltero,Ninguna,No,6,3,Si,Demanda Laboral,No,Si,Baja,6,Lectura,5,6,Influencia Familiar,No,Si,Problemas Académicos,7
+Femenino,23,Urbana,Publica,15,Si,Ciencias Sociales,86,72,64,12,No,5k-10k,Si,Beca,Local,Familia,Soltero,Ninguna,No,6,7,No,Demanda Laboral,Si,No,Baja,4,Deportes,4,7,Renta Económica,Si,Si,Problemas Académicos,4
+Femenino,18,Rural,Publica,42,No,Humanidades,72,70,76,10,No,5k-10k,No,Otro,Foraneo,Otros,Casado,Ninguna,No,7,4,No,Amigos/Familia,Si,No,Baja,8,Viajar,5,6,Cercanía,No,Si,Problemas Académicos,4
+Femenino,21,Urbana,Publica,39,No,Ciencias Naturales,61,83,72,16,Si,<5k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,8,5,No,Sueldo,Si,Si,Media,6,Viajar,4,6,Cercanía,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,35,No,Ciencias Sociales,102,70,98,20,Si,>20k,Si,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,Si,7,6,Si,Prestigio,Si,Si,Media,7,Lectura,2,10,Influencia Familiar,Si,Si,Otros,8
+Femenino,22,Urbana,Publica,21,Si,Ingenieria,71,82,68,16,No,<5k,Si,Padres,Local,Amigos,Divorciado,Ninguna,Si,5,7,Si,Sueldo,Si,Si,Baja,8,Viajar,6,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Rural,Publica,16,No,Humanidades,96,69,62,17,Si,10k-20k,Si,Padres,Local,Amigos,Soltero,Ninguna,No,10,2,Si,Sueldo,No,No,Baja,9,Arte,5,9,Cercanía,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,33,Si,Humanidades,81,73,62,18,No,10k-20k,Si,Beca,Local,Otros,Soltero,Ninguna,No,4,5,Si,Sueldo,Si,Si,Media,5,Tecnología,6,5,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Urbana,Publica,21,No,Ciencias Naturales,85,84,76,15,Si,<5k,No,Padres,Local,Otros,Casado,Ninguna,No,8,5,No,Demanda Laboral,No,No,Alta,9,Arte,6,4,Renta Económica,No,No,No Aplica,0
+Masculino,23,Rural,Privada,40,No,Humanidades,80,84,71,25,Si,<5k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,6,6,No,Sueldo,No,No,Alta,8,Lectura,3,8,Vocación,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,25,No,Humanidades,75,87,81,11,Si,<5k,No,Beca,Foraneo,Amigos,Casado,Ninguna,Si,5,10,No,Demanda Laboral,Si,No,Baja,9,Lectura,6,6,Influencia Familiar,No,Si,Problemas Familiares,5
+Masculino,22,Urbana,Privada,37,Si,Ingenieria,78,70,73,17,Si,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,5,4,No,Sueldo,Si,Si,Baja,9,Viajar,4,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,18,Urbana,Publica,40,Si,Ciencias Naturales,71,94,56,11,No,<5k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,7,3,Si,Prestigio,No,No,Baja,8,Deportes,4,7,Cercanía,No,Si,Problemas Económicos,1
+Femenino,22,Urbana,Privada,13,No,Humanidades,70,88,84,18,Si,5k-10k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,6,6,No,Amigos/Familia,Si,Si,Baja,7,Deportes,4,7,Prestigio,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,15,Si,Arte,97,83,75,14,Si,<5k,No,Otro,Local,Amigos,Soltero,Visual,Si,4,4,No,Prestigio,No,Si,Media,9,Lectura,7,6,Vocación,Si,No,No Aplica,0
+Masculino,18,Rural,Publica,22,No,Ciencias Naturales,78,59,64,14,No,<5k,Si,Beca,Foraneo,Familia,Soltero,Ninguna,Si,6,4,Si,Amigos/Familia,Si,Si,Baja,9,Viajar,6,6,Influencia Familiar,No,Si,Problemas Académicos,3
+Masculino,22,Urbana,Publica,32,Si,Ciencias Naturales,79,76,79,17,Si,10k-20k,No,Padres,Foraneo,Familia,Soltero,Ninguna,No,6,3,No,Demanda Laboral,Si,No,Alta,3,Tecnología,1,9,Renta Económica,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,27,No,Ciencias Sociales,71,81,70,13,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,6,5,No,Gusto Personal,Si,No,Media,5,Arte,2,2,Cercanía,Si,Si,Problemas Familiares,5
+Femenino,21,Rural,Publica,44,Si,Arte,87,86,72,9,No,5k-10k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,Si,5,1,Si,Prestigio,Si,No,Media,2,Lectura,3,7,Cercanía,No,Si,Otros,2
+Masculino,23,Rural,Publica,30,Si,Ingenieria,91,75,61,16,Si,10k-20k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,6,7,Si,Sueldo,Si,Si,Media,10,Deportes,5,5,Prestigio,No,Si,Problemas Económicos,3
+Femenino,22,Urbana,Privada,28,No,Ciencias Sociales,65,78,65,20,No,5k-10k,No,Otro,Foraneo,Familia,Soltero,Ninguna,Si,8,5,No,Gusto Personal,Si,No,Alta,8,Tecnología,4,6,Prestigio,Si,No,No Aplica,0
+Femenino,22,Urbana,Privada,20,No,Arte,85,71,67,17,Si,<5k,No,Beca,Local,Amigos,Soltero,Ninguna,No,4,4,Si,Prestigio,No,No,Media,6,Lectura,8,7,Influencia Familiar,Si,No,No Aplica,0
+Femenino,17,Urbana,Privada,19,No,Ingenieria,77,80,60,19,No,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,4,7,Si,Prestigio,Si,No,Baja,7,Deportes,6,9,Influencia Familiar,Si,Si,Problemas Económicos,1
+Masculino,19,Rural,Privada,21,No,Ciencias Naturales,94,78,71,12,Si,5k-10k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,8,5,Si,Amigos/Familia,No,Si,Baja,8,Arte,5,8,Prestigio,Si,Si,Cambio de Carrera,5
+Masculino,21,Urbana,Publica,35,Si,Ciencias Naturales,85,78,74,16,Si,10k-20k,No,Beca,Local,Familia,Soltero,Ninguna,No,6,3,Si,Gusto Personal,Si,No,Media,7,Arte,4,5,Cercanía,No,No,No Aplica,0
+Femenino,20,Rural,Privada,41,No,Ciencias Sociales,69,69,81,24,No,<5k,No,Padres,Foraneo,Otros,Casado,Ninguna,Si,5,5,Si,Demanda Laboral,No,No,Media,8,Arte,3,6,Renta Económica,No,No,No Aplica,0
+Masculino,20,Urbana,Publica,40,Si,Ciencias Sociales,87,76,54,17,Si,<5k,Si,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,No,7,5,No,Gusto Personal,Si,No,Alta,8,Deportes,5,8,Vocación,No,No,No Aplica,0
+Femenino,22,Rural,Privada,16,Si,Humanidades,63,83,87,11,Si,10k-20k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,8,5,No,Gusto Personal,No,Si,Baja,5,Arte,4,6,Renta Económica,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,22,Si,Ciencias Sociales,102,62,69,10,No,10k-20k,No,Padres,Local,Familia,Divorciado,Ninguna,No,8,7,Si,Demanda Laboral,No,Si,Baja,7,Viajar,4,6,Vocación,No,Si,Problemas Económicos,8
+Femenino,19,Rural,Privada,38,No,Humanidades,85,86,61,17,No,>20k,Si,Beca,Local,Solo,Soltero,Ninguna,No,6,4,Si,Demanda Laboral,No,No,Alta,6,Viajar,5,8,Cercanía,Si,Si,Problemas Familiares,3
+Masculino,17,Urbana,Publica,37,Si,Ciencias Naturales,74,81,64,13,No,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,Si,8,7,No,Amigos/Familia,Si,No,Media,9,Lectura,6,6,Vocación,Si,No,No Aplica,0
+Masculino,17,Rural,Publica,37,Si,Ciencias Naturales,76,80,80,27,No,5k-10k,No,Padres,Local,Familia,Soltero,Ninguna,Si,7,6,Si,Prestigio,No,No,Media,11,Lectura,7,6,Vocación,Si,No,No Aplica,0
+Masculino,18,Urbana,Privada,46,No,Ciencias Sociales,73,70,71,8,Si,>20k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,Si,5,6,Si,Gusto Personal,Si,No,Alta,10,Viajar,4,5,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,27,Si,Ciencias Sociales,84,79,69,19,Si,5k-10k,Si,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,7,6,No,Prestigio,Si,No,Media,9,Tecnología,2,10,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,13,No,Humanidades,85,85,63,13,No,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,5,5,Si,Sueldo,Si,No,Alta,7,Arte,4,4,Renta Económica,Si,No,No Aplica,0
+Femenino,17,Rural,Privada,27,Si,Ciencias Naturales,108,84,69,18,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,5,3,Si,Gusto Personal,No,Si,Alta,7,Tecnología,5,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Publica,49,No,Arte,80,86,53,18,No,10k-20k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,5,5,No,Gusto Personal,Si,Si,Media,5,Viajar,4,7,Prestigio,Si,Si,Cambio de Carrera,4
+Femenino,17,Rural,Publica,16,Si,Ciencias Naturales,72,93,71,22,No,5k-10k,No,Otro,Local,Amigos,Casado,Ninguna,No,3,5,No,Amigos/Familia,No,Si,Alta,8,Arte,6,2,Vocación,No,Si,Cambio de Carrera,2
+Masculino,20,Urbana,Publica,36,Si,Ciencias Naturales,87,72,54,17,No,10k-20k,No,Beca,Foraneo,Otros,Casado,Ninguna,No,6,9,No,Sueldo,Si,Si,Alta,8,Viajar,5,5,Prestigio,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,21,No,Ingenieria,102,69,62,8,Si,<5k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,5,6,No,Sueldo,No,Si,Media,10,Tecnología,5,2,Influencia Familiar,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,23,Si,Arte,82,53,61,10,Si,5k-10k,No,Otro,Local,Solo,Divorciado,Ninguna,No,6,4,Si,Gusto Personal,Si,No,Alta,4,Lectura,2,7,Prestigio,Si,No,No Aplica,0
+Masculino,17,Urbana,Publica,38,No,Ingenieria,89,81,73,15,Si,<5k,No,Otro,Foraneo,Amigos,Casado,Ninguna,Si,7,2,Si,Prestigio,No,No,Media,7,Viajar,1,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,26,No,Arte,81,72,64,23,Si,5k-10k,No,Otro,Foraneo,Amigos,Casado,Ninguna,No,7,2,No,Demanda Laboral,No,Si,Baja,10,Deportes,3,12,Prestigio,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,46,No,Arte,66,80,72,17,No,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Visual,Si,7,6,Si,Demanda Laboral,Si,Si,Alta,9,Deportes,2,6,Renta Económica,No,Si,Otros,1
+Masculino,21,Urbana,Publica,45,No,Ciencias Naturales,81,87,67,10,Si,10k-20k,No,Beca,Foraneo,Familia,Soltero,Ninguna,No,6,6,No,Amigos/Familia,Si,Si,Baja,4,Viajar,7,3,Vocación,Si,No,No Aplica,0
+Masculino,21,Urbana,Privada,34,Si,Ciencias Naturales,84,60,71,18,No,5k-10k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,5,5,No,Prestigio,Si,No,Alta,6,Lectura,6,6,Vocación,No,Si,Problemas Económicos,5
+Femenino,21,Rural,Publica,38,No,Arte,79,55,71,7,No,10k-20k,No,Beca,Local,Solo,Soltero,Ninguna,Si,5,7,No,Sueldo,No,No,Alta,7,Arte,6,8,Prestigio,No,Si,Otros,6
+Femenino,19,Rural,Privada,29,No,Ingenieria,78,75,64,15,Si,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,Si,7,4,Si,Amigos/Familia,No,Si,Baja,6,Arte,4,9,Renta Económica,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,24,No,Ingenieria,78,77,83,10,No,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,5,9,No,Amigos/Familia,Si,No,Media,6,Arte,4,6,Prestigio,Si,No,No Aplica,0
+Femenino,24,Urbana,Publica,27,No,Ciencias Naturales,82,71,99,15,Si,<5k,Si,Padres,Foraneo,Solo,Divorciado,Ninguna,No,5,6,No,Amigos/Familia,Si,Si,Baja,7,Deportes,4,9,Prestigio,No,Si,Otros,2
+Femenino,19,Rural,Publica,21,No,Arte,74,78,84,18,Si,>20k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,4,5,No,Prestigio,No,No,Media,8,Tecnología,8,6,Renta Económica,No,No,No Aplica,0
+Masculino,20,Rural,Privada,52,Si,Ciencias Naturales,76,93,68,19,No,5k-10k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,6,6,Si,Demanda Laboral,Si,No,Media,8,Deportes,6,11,Vocación,Si,Si,Problemas Familiares,7
+Femenino,19,Urbana,Publica,28,Si,Ciencias Naturales,86,77,68,17,Si,5k-10k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,5,8,Si,Amigos/Familia,No,No,Media,8,Tecnología,6,6,Influencia Familiar,No,Si,Cambio de Carrera,1
+Masculino,20,Rural,Publica,28,No,Ciencias Naturales,73,75,59,9,No,10k-20k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,9,2,No,Sueldo,No,Si,Alta,6,Viajar,-1,7,Cercanía,Si,Si,Problemas Familiares,2
+Masculino,16,Rural,Publica,17,Si,Ciencias Naturales,88,83,75,15,Si,10k-20k,Si,Otro,Local,Amigos,Soltero,Visual,Si,7,8,Si,Amigos/Familia,No,No,Baja,7,Arte,4,8,Cercanía,No,No,No Aplica,0
+Masculino,20,Urbana,Publica,28,Si,Arte,69,62,67,20,Si,5k-10k,Si,Beca,Local,Familia,Soltero,Ninguna,Si,6,3,Si,Amigos/Familia,No,Si,Baja,7,Arte,6,9,Renta Económica,No,No,No Aplica,0
+Femenino,21,Rural,Publica,30,No,Ciencias Naturales,72,73,72,7,Si,>20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,No,5,5,Si,Demanda Laboral,Si,Si,Media,7,Viajar,3,6,Vocación,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,23,Si,Humanidades,84,73,82,15,No,<5k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,4,4,Si,Demanda Laboral,No,Si,Alta,5,Tecnología,5,8,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Publica,22,Si,Ciencias Naturales,66,89,73,19,Si,<5k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,6,6,No,Sueldo,Si,Si,Baja,3,Tecnología,5,8,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,30,No,Humanidades,64,71,76,16,No,5k-10k,Si,Padres,Local,Solo,Soltero,Ninguna,No,7,3,No,Prestigio,Si,Si,Baja,6,Deportes,4,9,Vocación,Si,Si,Problemas Académicos,1
+Masculino,19,Rural,Publica,42,Si,Ciencias Naturales,76,47,59,20,No,<5k,No,Padres,Foraneo,Otros,Soltero,Visual,Si,5,5,Si,Gusto Personal,Si,No,Alta,8,Lectura,7,8,Vocación,Si,No,No Aplica,0
+Femenino,22,Urbana,Publica,31,No,Arte,59,91,72,9,Si,>20k,No,Padres,Local,Solo,Soltero,Auditiva,Si,6,3,No,Gusto Personal,Si,Si,Alta,4,Tecnología,9,10,Vocación,Si,Si,Otros,3
+Femenino,21,Urbana,Publica,26,No,Humanidades,89,59,79,18,No,5k-10k,No,Padres,Local,Familia,Casado,Ninguna,No,8,1,Si,Sueldo,Si,Si,Media,9,Deportes,6,4,Vocación,No,No,No Aplica,0
+Masculino,20,Rural,Privada,26,Si,Ciencias Sociales,86,68,57,13,No,10k-20k,No,Padres,Local,Otros,Casado,Visual,No,7,6,No,Prestigio,No,No,Baja,9,Viajar,1,9,Influencia Familiar,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,27,Si,Ingenieria,89,65,66,19,Si,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,6,7,Si,Demanda Laboral,No,Si,Media,8,Deportes,6,5,Cercanía,Si,No,No Aplica,0
+Femenino,19,Urbana,Publica,23,No,Ingenieria,97,73,66,9,Si,<5k,No,Trabajo Propio,Local,Solo,Casado,Ninguna,No,4,4,Si,Prestigio,No,Si,Media,7,Lectura,8,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Rural,Privada,37,No,Humanidades,86,73,84,19,No,10k-20k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,7,6,No,Sueldo,No,Si,Media,7,Viajar,3,6,Renta Económica,No,Si,Problemas Familiares,1
+Masculino,22,Rural,Publica,31,No,Humanidades,72,78,66,13,Si,5k-10k,Si,Beca,Local,Otros,Soltero,Ninguna,No,10,8,No,Sueldo,Si,Si,Media,5,Lectura,4,6,Cercanía,Si,Si,Otros,7
+Femenino,22,Rural,Publica,21,Si,Humanidades,78,74,44,26,Si,10k-20k,Si,Otro,Local,Familia,Soltero,Ninguna,No,5,8,No,Amigos/Familia,Si,No,Alta,6,Lectura,8,6,Prestigio,Si,No,No Aplica,0
+Femenino,19,Urbana,Publica,41,Si,Humanidades,74,63,68,15,Si,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,8,6,Si,Demanda Laboral,Si,No,Alta,9,Lectura,2,6,Renta Económica,Si,Si,Problemas Familiares,7
+Masculino,20,Rural,Privada,25,No,Ciencias Naturales,79,52,52,16,Si,>20k,Si,Padres,Local,Otros,Divorciado,Ninguna,No,7,7,No,Gusto Personal,Si,No,Baja,3,Deportes,8,6,Vocación,No,Si,Otros,7
+Masculino,21,Rural,Publica,25,No,Humanidades,82,89,84,13,Si,10k-20k,Si,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,4,3,Si,Demanda Laboral,No,Si,Media,6,Viajar,6,10,Renta Económica,Si,No,No Aplica,0
+Masculino,18,Rural,Publica,29,Si,Arte,78,76,66,12,Si,10k-20k,Si,Otro,Foraneo,Familia,Casado,Ninguna,No,5,5,Si,Demanda Laboral,Si,No,Media,9,Deportes,6,8,Prestigio,Si,No,No Aplica,0
+Femenino,18,Rural,Publica,39,Si,Ciencias Sociales,64,76,60,11,No,<5k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,4,3,Si,Prestigio,Si,Si,Media,5,Lectura,8,5,Renta Económica,No,Si,Cambio de Carrera,6
+Masculino,23,Urbana,Publica,42,Si,Ingenieria,77,68,80,15,Si,10k-20k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,No,7,3,No,Demanda Laboral,No,Si,Baja,12,Deportes,6,11,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,15,Si,Arte,92,59,68,16,No,5k-10k,Si,Beca,Foraneo,Familia,Soltero,Ninguna,Si,5,4,No,Gusto Personal,Si,Si,Baja,6,Viajar,5,3,Vocación,No,Si,Otros,5
+Masculino,23,Rural,Publica,25,No,Ingenieria,80,94,53,24,No,5k-10k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,6,6,Si,Amigos/Familia,Si,No,Baja,7,Tecnología,6,8,Prestigio,No,Si,Problemas Económicos,3
+Femenino,20,Rural,Privada,38,Si,Humanidades,75,68,73,16,No,10k-20k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,No,5,5,No,Demanda Laboral,No,No,Alta,7,Arte,7,8,Influencia Familiar,No,Si,Problemas Económicos,3
+Femenino,21,Rural,Privada,33,No,Ciencias Naturales,59,68,73,6,Si,10k-20k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,6,4,No,Gusto Personal,No,No,Baja,6,Viajar,5,7,Influencia Familiar,Si,Si,Problemas Académicos,6
+Masculino,19,Urbana,Privada,37,Si,Ciencias Naturales,66,69,67,14,Si,10k-20k,Si,Beca,Local,Otros,Soltero,Ninguna,Si,6,7,No,Prestigio,Si,No,Media,7,Arte,5,8,Prestigio,No,Si,Problemas Académicos,5
+Masculino,22,Rural,Privada,13,No,Arte,68,62,76,28,Si,10k-20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,Si,10,9,No,Gusto Personal,Si,No,Alta,8,Tecnología,7,8,Cercanía,Si,Si,Problemas Económicos,1
+Masculino,22,Rural,Publica,28,Si,Humanidades,79,67,76,11,Si,10k-20k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,6,4,Si,Gusto Personal,Si,Si,Media,10,Deportes,6,8,Vocación,No,Si,Otros,8
+Femenino,22,Urbana,Privada,44,No,Humanidades,86,66,81,11,No,<5k,No,Padres,Foraneo,Otros,Casado,Ninguna,Si,4,6,No,Sueldo,No,Si,Media,10,Deportes,5,4,Influencia Familiar,No,Si,Cambio de Carrera,7
+Femenino,24,Urbana,Publica,10,No,Ciencias Naturales,88,59,70,19,Si,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,8,8,No,Amigos/Familia,No,Si,Media,5,Viajar,5,1,Prestigio,No,No,No Aplica,0
+Masculino,20,Rural,Privada,30,Si,Ciencias Sociales,86,78,79,3,Si,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,3,5,No,Amigos/Familia,Si,Si,Alta,5,Arte,6,6,Prestigio,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,32,Si,Ciencias Naturales,71,68,71,16,Si,<5k,Si,Beca,Foraneo,Familia,Soltero,Ninguna,Si,7,7,Si,Gusto Personal,Si,Si,Alta,8,Viajar,6,8,Vocación,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,26,No,Ingenieria,78,76,59,15,Si,5k-10k,Si,Padres,Local,Otros,Casado,Ninguna,Si,8,6,Si,Sueldo,No,No,Baja,8,Tecnología,5,8,Prestigio,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,19,Si,Arte,67,97,66,14,Si,>20k,No,Padres,Foraneo,Solo,Divorciado,Ninguna,No,5,3,Si,Sueldo,Si,Si,Alta,11,Tecnología,7,9,Vocación,No,No,No Aplica,0
+Masculino,19,Rural,Publica,26,Si,Arte,93,71,74,15,Si,5k-10k,No,Padres,Foraneo,Amigos,Soltero,Auditiva,Si,7,4,Si,Gusto Personal,Si,No,Media,8,Arte,5,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,21,Urbana,Privada,33,Si,Ingenieria,83,66,64,17,No,<5k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,7,5,Si,Gusto Personal,No,No,Baja,7,Arte,4,8,Vocación,Si,Si,Problemas Familiares,3
+Femenino,21,Rural,Privada,32,Si,Ciencias Sociales,78,71,64,18,Si,10k-20k,No,Beca,Local,Familia,Casado,Ninguna,No,7,8,Si,Amigos/Familia,Si,No,Media,8,Lectura,5,6,Influencia Familiar,No,No,No Aplica,0
+Masculino,24,Rural,Publica,35,No,Ciencias Sociales,78,87,72,7,No,<5k,Si,Beca,Local,Otros,Soltero,Ninguna,Si,7,6,No,Gusto Personal,Si,No,Baja,7,Arte,7,4,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Rural,Publica,15,Si,Humanidades,75,86,83,27,Si,>20k,Si,Padres,Local,Otros,Casado,Motriz,No,6,5,No,Sueldo,Si,Si,Media,9,Lectura,5,3,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,33,Si,Ciencias Sociales,74,75,78,16,No,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Motriz,Si,8,4,No,Prestigio,Si,No,Media,7,Deportes,5,7,Influencia Familiar,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,33,No,Humanidades,72,79,54,16,No,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,8,2,No,Sueldo,Si,No,Media,9,Arte,4,6,Influencia Familiar,No,No,No Aplica,0
+Masculino,20,Urbana,Publica,20,Si,Ingenieria,81,75,75,20,Si,<5k,Si,Padres,Foraneo,Amigos,Casado,Ninguna,No,5,3,Si,Amigos/Familia,Si,Si,Media,6,Arte,4,8,Renta Económica,Si,No,No Aplica,0
+Masculino,20,Rural,Publica,24,Si,Ciencias Sociales,86,83,76,11,No,5k-10k,No,Beca,Local,Familia,Divorciado,Ninguna,No,8,7,Si,Demanda Laboral,No,Si,Baja,7,Deportes,6,9,Vocación,Si,Si,Cambio de Carrera,6
+Masculino,20,Rural,Privada,44,Si,Ciencias Naturales,71,99,72,10,Si,<5k,Si,Beca,Foraneo,Otros,Soltero,Visual,No,5,2,Si,Prestigio,No,Si,Media,8,Arte,6,10,Influencia Familiar,No,No,No Aplica,0
+Masculino,22,Urbana,Publica,25,Si,Humanidades,91,64,42,17,No,5k-10k,Si,Padres,Local,Solo,Soltero,Ninguna,No,6,5,No,Prestigio,No,Si,Media,7,Tecnología,7,7,Influencia Familiar,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,24,No,Humanidades,74,74,73,15,Si,10k-20k,No,Beca,Local,Otros,Soltero,Ninguna,Si,5,4,No,Gusto Personal,Si,No,Alta,7,Viajar,7,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,21,Rural,Privada,4,No,Ciencias Naturales,95,65,66,23,No,<5k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,8,7,Si,Sueldo,Si,Si,Alta,8,Arte,7,7,Prestigio,No,Si,Otros,4
+Femenino,17,Urbana,Privada,16,No,Ciencias Naturales,94,87,68,25,Si,5k-10k,No,Otro,Foraneo,Solo,Soltero,Ninguna,Si,9,1,Si,Prestigio,Si,Si,Alta,6,Arte,5,10,Cercanía,No,Si,Problemas Económicos,7
+Masculino,21,Rural,Privada,40,No,Ingenieria,87,78,86,26,No,>20k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,7,7,No,Gusto Personal,No,Si,Media,9,Deportes,5,5,Cercanía,Si,No,No Aplica,0
+Masculino,18,Urbana,Publica,30,No,Arte,69,55,92,18,Si,<5k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,No,6,7,Si,Amigos/Familia,Si,Si,Alta,7,Tecnología,5,5,Cercanía,Si,No,No Aplica,0
+Femenino,15,Rural,Publica,15,No,Humanidades,73,67,72,5,No,<5k,Si,Padres,Local,Amigos,Soltero,Ninguna,Si,3,4,No,Prestigio,No,No,Baja,9,Deportes,3,8,Vocación,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,16,Si,Ingenieria,94,67,73,6,No,10k-20k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,5,1,Si,Prestigio,Si,Si,Alta,6,Deportes,5,8,Renta Económica,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,29,Si,Ciencias Naturales,84,66,73,17,Si,5k-10k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,No,10,7,Si,Prestigio,Si,No,Alta,6,Deportes,5,6,Prestigio,No,No,No Aplica,0
+Masculino,19,Rural,Privada,32,No,Ciencias Sociales,87,79,77,14,Si,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,7,4,No,Prestigio,Si,Si,Media,7,Tecnología,4,7,Vocación,Si,Si,Problemas Familiares,1
+Masculino,23,Urbana,Publica,39,No,Arte,92,76,76,17,Si,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,7,2,Si,Gusto Personal,Si,Si,Media,7,Viajar,3,5,Influencia Familiar,Si,Si,Problemas Familiares,7
+Masculino,19,Rural,Publica,21,No,Ciencias Sociales,61,56,70,21,No,5k-10k,No,Beca,Foraneo,Familia,Soltero,Ninguna,No,8,6,No,Prestigio,Si,No,Baja,7,Lectura,6,6,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Rural,Publica,27,No,Arte,92,86,73,18,No,<5k,No,Trabajo Propio,Foraneo,Solo,Casado,Ninguna,No,6,6,No,Prestigio,Si,No,Baja,7,Tecnología,7,9,Renta Económica,No,Si,Otros,2
+Femenino,20,Rural,Publica,14,No,Ciencias Sociales,78,78,70,16,No,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,5,Si,Amigos/Familia,Si,Si,Alta,9,Lectura,4,6,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,37,Si,Ingenieria,88,99,72,12,Si,5k-10k,No,Otro,Foraneo,Amigos,Casado,Ninguna,Si,6,5,Si,Sueldo,No,No,Alta,6,Deportes,3,10,Vocación,No,No,No Aplica,0
+Masculino,24,Rural,Privada,31,No,Ciencias Naturales,85,81,75,12,No,>20k,No,Otro,Local,Otros,Soltero,Ninguna,No,8,5,Si,Gusto Personal,No,Si,Alta,5,Deportes,6,9,Vocación,No,Si,Problemas Académicos,1
+Femenino,20,Rural,Privada,13,Si,Arte,92,82,72,18,Si,<5k,Si,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,Si,5,1,No,Amigos/Familia,No,No,Baja,8,Arte,7,7,Cercanía,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,31,Si,Arte,89,69,73,14,No,<5k,No,Beca,Local,Solo,Casado,Ninguna,No,7,7,No,Prestigio,Si,No,Baja,5,Viajar,6,8,Vocación,No,No,No Aplica,0
+Masculino,17,Urbana,Publica,23,Si,Ciencias Naturales,85,67,62,12,No,>20k,No,Padres,Local,Familia,Soltero,Auditiva,Si,10,6,No,Sueldo,Si,No,Baja,7,Tecnología,10,7,Vocación,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,35,No,Ingenieria,72,80,59,11,No,5k-10k,Si,Padres,Foraneo,Otros,Casado,Ninguna,No,6,4,No,Amigos/Familia,No,No,Baja,7,Arte,5,5,Renta Económica,No,No,No Aplica,0
+Femenino,20,Rural,Privada,32,Si,Humanidades,80,65,65,9,No,10k-20k,Si,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,No,8,2,No,Amigos/Familia,Si,Si,Baja,9,Deportes,4,7,Influencia Familiar,Si,No,No Aplica,0
+Masculino,16,Rural,Publica,17,No,Humanidades,79,86,57,18,Si,<5k,Si,Beca,Local,Solo,Divorciado,Ninguna,No,6,7,No,Gusto Personal,Si,No,Alta,7,Arte,1,9,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,18,Si,Arte,68,79,78,12,Si,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,5,5,Si,Prestigio,No,Si,Alta,3,Viajar,5,8,Renta Económica,No,No,No Aplica,0
+Masculino,21,Rural,Privada,38,No,Arte,86,79,69,20,No,5k-10k,No,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,No,7,1,No,Gusto Personal,No,No,Media,5,Lectura,3,7,Prestigio,No,Si,Problemas Académicos,8
+Masculino,20,Rural,Publica,30,No,Humanidades,83,81,67,15,No,10k-20k,Si,Padres,Local,Otros,Soltero,Ninguna,Si,6,9,Si,Sueldo,Si,Si,Media,2,Lectura,2,8,Prestigio,Si,No,No Aplica,0
+Masculino,23,Urbana,Publica,44,Si,Humanidades,92,60,72,13,No,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,Si,6,2,Si,Demanda Laboral,Si,No,Alta,8,Deportes,3,8,Cercanía,Si,No,No Aplica,0
+Masculino,17,Urbana,Publica,25,No,Ciencias Sociales,87,81,68,17,Si,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,4,5,No,Amigos/Familia,No,Si,Media,10,Lectura,3,5,Renta Económica,No,No,No Aplica,0
+Masculino,20,Rural,Privada,27,Si,Humanidades,67,78,65,0,Si,5k-10k,No,Beca,Local,Familia,Casado,Ninguna,Si,9,10,No,Gusto Personal,No,No,Baja,4,Deportes,7,11,Renta Económica,No,No,No Aplica,0
+Femenino,22,Urbana,Privada,43,Si,Humanidades,76,68,81,16,Si,<5k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,10,6,Si,Demanda Laboral,Si,Si,Baja,7,Viajar,3,5,Vocación,Si,No,No Aplica,0
+Masculino,21,Urbana,Privada,37,No,Ciencias Naturales,71,69,93,10,Si,>20k,No,Trabajo Propio,Foraneo,Otros,Soltero,Auditiva,No,5,5,No,Gusto Personal,Si,No,Alta,5,Arte,4,9,Prestigio,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,22,No,Ciencias Sociales,85,67,76,11,No,5k-10k,Si,Padres,Local,Amigos,Divorciado,Ninguna,Si,8,3,No,Gusto Personal,Si,No,Alta,4,Deportes,6,6,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,20,Si,Ingenieria,76,75,70,15,No,<5k,Si,Beca,Local,Otros,Soltero,Ninguna,Si,5,6,No,Sueldo,Si,No,Media,7,Arte,6,5,Vocación,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,24,No,Ingenieria,95,88,78,18,No,<5k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,5,3,Si,Demanda Laboral,Si,Si,Media,7,Viajar,6,9,Vocación,No,No,No Aplica,0
+Masculino,18,Rural,Publica,29,No,Ciencias Sociales,88,75,77,2,Si,5k-10k,Si,Padres,Foraneo,Otros,Casado,Ninguna,Si,5,5,Si,Gusto Personal,No,Si,Alta,4,Arte,5,8,Prestigio,No,No,No Aplica,0
+Masculino,19,Urbana,Publica,56,No,Ciencias Naturales,90,74,65,14,No,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,No,5,8,No,Demanda Laboral,No,Si,Baja,7,Arte,2,7,Renta Económica,No,Si,Otros,5
+Masculino,19,Urbana,Publica,26,Si,Ingenieria,94,63,75,12,No,<5k,Si,Padres,Local,Solo,Soltero,Ninguna,No,7,8,No,Prestigio,No,No,Baja,4,Deportes,7,7,Renta Económica,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,24,No,Ciencias Sociales,68,79,76,12,No,5k-10k,Si,Beca,Local,Solo,Soltero,Cognitiva,No,8,4,No,Demanda Laboral,Si,No,Baja,6,Lectura,6,7,Influencia Familiar,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,20,Si,Ciencias Naturales,82,67,49,12,Si,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,8,4,No,Amigos/Familia,No,Si,Alta,9,Viajar,6,8,Prestigio,No,No,No Aplica,0
+Masculino,16,Urbana,Privada,32,No,Ingenieria,81,51,89,17,No,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,No,6,8,No,Amigos/Familia,Si,No,Baja,9,Viajar,6,12,Cercanía,No,No,No Aplica,0
+Femenino,20,Rural,Publica,26,Si,Arte,90,82,45,16,Si,5k-10k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,7,6,No,Amigos/Familia,No,Si,Alta,7,Arte,5,7,Vocación,Si,Si,Otros,7
+Femenino,20,Rural,Privada,24,No,Ciencias Naturales,89,70,63,14,No,5k-10k,No,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,7,5,No,Prestigio,No,No,Alta,5,Viajar,6,9,Vocación,Si,Si,Cambio de Carrera,2
+Masculino,21,Urbana,Privada,29,No,Arte,83,72,78,19,Si,5k-10k,Si,Otro,Local,Amigos,Casado,Ninguna,No,6,4,Si,Demanda Laboral,No,No,Baja,6,Lectura,2,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Privada,31,Si,Ciencias Naturales,90,87,73,20,No,<5k,Si,Otro,Local,Otros,Casado,Ninguna,No,3,9,Si,Sueldo,No,Si,Media,7,Deportes,8,7,Prestigio,Si,Si,Cambio de Carrera,5
+Femenino,18,Urbana,Publica,27,No,Ingenieria,83,84,70,8,Si,5k-10k,No,Padres,Local,Familia,Casado,Ninguna,No,5,4,Si,Amigos/Familia,No,Si,Baja,9,Lectura,7,7,Vocación,Si,No,No Aplica,0
+Masculino,20,Rural,Privada,19,No,Ciencias Naturales,96,72,65,21,Si,10k-20k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,6,No,Gusto Personal,Si,Si,Media,8,Deportes,4,7,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,42,Si,Arte,90,91,69,25,No,>20k,Si,Otro,Local,Solo,Soltero,Visual,No,7,3,No,Amigos/Familia,No,No,Baja,6,Lectura,7,7,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,22,No,Ciencias Sociales,92,80,92,8,Si,<5k,No,Otro,Foraneo,Solo,Soltero,Ninguna,Si,8,8,Si,Demanda Laboral,Si,Si,Baja,5,Viajar,6,8,Vocación,No,No,No Aplica,0
+Masculino,20,Rural,Publica,27,No,Ciencias Sociales,65,78,75,22,Si,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,7,5,Si,Prestigio,No,No,Alta,4,Arte,3,8,Renta Económica,No,No,No Aplica,0
+Femenino,20,Rural,Publica,42,Si,Arte,97,78,55,14,No,>20k,No,Beca,Local,Otros,Soltero,Ninguna,Si,5,5,No,Demanda Laboral,Si,Si,Alta,8,Deportes,5,3,Renta Económica,Si,No,No Aplica,0
+Femenino,22,Rural,Publica,28,No,Arte,93,68,58,18,No,<5k,Si,Padres,Foraneo,Otros,Divorciado,Ninguna,Si,9,3,No,Demanda Laboral,Si,No,Alta,10,Deportes,4,5,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,18,Si,Ciencias Sociales,76,67,65,22,Si,5k-10k,Si,Padres,Local,Solo,Casado,Ninguna,No,7,5,Si,Amigos/Familia,No,Si,Media,11,Lectura,8,10,Cercanía,No,No,No Aplica,0
+Masculino,14,Urbana,Publica,31,No,Ciencias Sociales,79,76,67,20,Si,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,5,4,No,Demanda Laboral,No,Si,Media,13,Arte,5,3,Cercanía,No,No,No Aplica,0
+Femenino,23,Urbana,Publica,35,No,Ciencias Sociales,69,66,68,17,No,10k-20k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,Si,8,5,No,Gusto Personal,No,Si,Media,8,Viajar,3,5,Prestigio,No,No,No Aplica,0
+Masculino,16,Rural,Privada,21,No,Arte,84,89,76,18,No,<5k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,Si,7,8,No,Amigos/Familia,No,No,Alta,5,Arte,5,3,Prestigio,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,31,No,Ciencias Sociales,83,93,72,5,Si,>20k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,6,6,No,Demanda Laboral,Si,Si,Baja,9,Viajar,8,7,Renta Económica,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,28,Si,Ciencias Naturales,74,86,60,19,No,<5k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,Si,8,3,No,Sueldo,Si,No,Baja,8,Arte,7,4,Cercanía,No,Si,Problemas Familiares,4
+Femenino,24,Rural,Publica,39,Si,Arte,77,84,74,8,No,<5k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,No,5,4,Si,Gusto Personal,No,No,Alta,7,Lectura,5,5,Renta Económica,No,No,No Aplica,0
+Masculino,22,Urbana,Publica,37,No,Arte,86,79,66,21,Si,<5k,Si,Otro,Foraneo,Amigos,Soltero,Cognitiva,Si,6,2,Si,Demanda Laboral,No,Si,Baja,3,Viajar,4,4,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Rural,Privada,35,Si,Humanidades,87,86,66,20,No,<5k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,7,4,Si,Gusto Personal,Si,No,Alta,5,Tecnología,5,7,Cercanía,Si,No,No Aplica,0
+Masculino,18,Urbana,Privada,39,No,Ingenieria,91,74,61,18,No,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,7,7,No,Prestigio,No,No,Media,7,Deportes,2,6,Cercanía,Si,Si,Otros,4
+Femenino,20,Rural,Publica,45,Si,Humanidades,50,82,51,16,No,>20k,Si,Padres,Local,Familia,Soltero,Auditiva,Si,6,2,No,Prestigio,Si,Si,Baja,6,Viajar,5,5,Cercanía,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,35,Si,Humanidades,83,68,75,11,No,<5k,Si,Beca,Foraneo,Amigos,Divorciado,Ninguna,No,5,5,No,Prestigio,Si,Si,Baja,3,Arte,6,6,Cercanía,No,No,No Aplica,0
+Masculino,23,Rural,Privada,44,No,Ciencias Naturales,85,67,71,18,No,>20k,No,Padres,Local,Amigos,Divorciado,Ninguna,Si,4,4,No,Demanda Laboral,Si,No,Media,11,Lectura,4,6,Renta Económica,No,No,No Aplica,0
+Femenino,20,Rural,Publica,31,No,Ciencias Sociales,82,73,65,18,No,10k-20k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,6,6,No,Demanda Laboral,No,Si,Media,9,Lectura,6,7,Vocación,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,15,No,Ciencias Naturales,84,74,76,10,Si,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,No,6,6,No,Amigos/Familia,Si,No,Baja,6,Arte,5,7,Prestigio,No,No,No Aplica,0
+Masculino,23,Urbana,Privada,30,No,Ciencias Sociales,85,64,65,7,Si,>20k,Si,Padres,Local,Familia,Soltero,Ninguna,No,5,4,Si,Prestigio,No,Si,Baja,9,Viajar,5,7,Influencia Familiar,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,44,Si,Ingenieria,111,74,77,16,No,>20k,No,Padres,Foraneo,Solo,Casado,Auditiva,Si,4,1,No,Prestigio,No,No,Media,12,Lectura,6,8,Renta Económica,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,28,No,Arte,81,80,66,24,Si,5k-10k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,6,6,Si,Demanda Laboral,Si,Si,Alta,4,Arte,4,8,Cercanía,No,No,No Aplica,0
+Masculino,19,Rural,Privada,34,Si,Humanidades,69,86,55,10,No,5k-10k,Si,Otro,Local,Familia,Casado,Ninguna,No,5,4,No,Sueldo,No,No,Baja,8,Deportes,1,10,Prestigio,No,Si,Problemas Académicos,8
+Masculino,16,Rural,Privada,30,Si,Ciencias Naturales,81,90,71,16,Si,<5k,Si,Beca,Foraneo,Solo,Casado,Ninguna,No,6,6,Si,Amigos/Familia,No,Si,Alta,9,Tecnología,3,7,Vocación,Si,No,No Aplica,0
+Masculino,22,Rural,Privada,39,Si,Ciencias Sociales,88,63,83,10,Si,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,6,5,Si,Sueldo,Si,Si,Media,5,Arte,4,8,Cercanía,No,No,No Aplica,0
+Femenino,19,Rural,Privada,42,No,Humanidades,69,75,66,16,No,<5k,Si,Otro,Foraneo,Otros,Casado,Ninguna,No,7,7,No,Gusto Personal,No,No,Media,7,Lectura,4,9,Prestigio,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,39,No,Ciencias Sociales,75,86,50,17,No,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,6,1,No,Amigos/Familia,Si,Si,Alta,8,Tecnología,6,8,Prestigio,No,No,No Aplica,0
+Femenino,19,Rural,Privada,34,No,Ciencias Sociales,69,81,57,14,Si,<5k,No,Otro,Foraneo,Amigos,Soltero,Cognitiva,Si,6,7,Si,Amigos/Familia,Si,Si,Baja,5,Deportes,5,8,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,37,Si,Ciencias Sociales,67,81,80,16,Si,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,5,5,No,Prestigio,No,Si,Media,8,Lectura,8,4,Vocación,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,18,Si,Ciencias Sociales,84,77,72,21,No,<5k,Si,Beca,Foraneo,Familia,Soltero,Ninguna,Si,6,7,Si,Gusto Personal,Si,Si,Alta,6,Tecnología,3,7,Cercanía,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,25,Si,Ciencias Naturales,82,89,53,10,Si,<5k,Si,Padres,Local,Otros,Soltero,Ninguna,No,6,7,No,Gusto Personal,Si,Si,Baja,6,Deportes,5,10,Influencia Familiar,Si,Si,Problemas Económicos,7
+Femenino,23,Rural,Publica,37,Si,Humanidades,81,75,52,4,No,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,7,0,No,Gusto Personal,No,No,Baja,6,Viajar,5,7,Cercanía,No,No,No Aplica,0
+Femenino,16,Urbana,Privada,36,No,Ciencias Naturales,69,90,64,20,No,5k-10k,Si,Beca,Local,Familia,Soltero,Ninguna,Si,7,2,No,Gusto Personal,No,No,Alta,10,Deportes,4,3,Vocación,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,23,Si,Ciencias Naturales,68,84,71,16,No,10k-20k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,5,5,No,Amigos/Familia,Si,No,Media,8,Viajar,7,4,Cercanía,No,No,No Aplica,0
+Masculino,18,Rural,Privada,23,Si,Ciencias Naturales,82,69,88,21,No,<5k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,No,6,8,Si,Amigos/Familia,No,Si,Baja,14,Arte,5,7,Influencia Familiar,Si,No,No Aplica,0
+Masculino,16,Rural,Privada,36,Si,Humanidades,87,78,77,12,No,<5k,Si,Padres,Local,Otros,Soltero,Ninguna,No,6,3,No,Demanda Laboral,Si,Si,Media,5,Deportes,3,5,Cercanía,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,39,Si,Ciencias Sociales,83,93,74,29,No,>20k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,Si,6,5,Si,Sueldo,Si,No,Baja,8,Arte,5,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,32,Si,Ciencias Sociales,82,82,83,9,No,<5k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,5,2,Si,Gusto Personal,No,Si,Baja,4,Viajar,6,6,Influencia Familiar,Si,Si,Otros,8
+Masculino,18,Urbana,Privada,44,No,Humanidades,95,67,76,16,Si,10k-20k,Si,Padres,Local,Otros,Divorciado,Ninguna,Si,6,4,Si,Prestigio,No,No,Alta,4,Viajar,6,4,Vocación,Si,Si,Cambio de Carrera,3
+Femenino,20,Urbana,Publica,20,No,Humanidades,71,106,64,14,No,<5k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,8,6,Si,Sueldo,Si,Si,Alta,11,Deportes,5,11,Prestigio,No,No,No Aplica,0
+Masculino,20,Urbana,Publica,22,Si,Arte,89,75,82,8,No,10k-20k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,9,No,Sueldo,No,No,Baja,8,Viajar,6,6,Prestigio,Si,Si,Problemas Económicos,7
+Masculino,18,Rural,Privada,34,No,Ciencias Sociales,89,76,57,6,No,5k-10k,No,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,5,5,Si,Amigos/Familia,No,No,Alta,6,Lectura,6,10,Cercanía,No,No,No Aplica,0
+Masculino,21,Rural,Publica,16,Si,Humanidades,82,82,70,13,No,<5k,No,Beca,Local,Solo,Soltero,Visual,Si,7,3,Si,Amigos/Familia,Si,No,Media,10,Deportes,6,8,Vocación,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,19,Si,Arte,71,68,58,15,No,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,Si,5,5,No,Demanda Laboral,No,No,Alta,6,Deportes,4,6,Influencia Familiar,Si,No,No Aplica,0
+Masculino,23,Rural,Privada,34,Si,Humanidades,78,77,78,12,Si,>20k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,5,4,No,Sueldo,No,Si,Media,6,Deportes,4,9,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,41,No,Ingenieria,85,75,79,21,Si,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,Si,6,7,Si,Gusto Personal,No,No,Baja,10,Tecnología,5,2,Vocación,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,31,No,Ingenieria,82,64,79,8,No,<5k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,8,Si,Prestigio,No,Si,Alta,8,Lectura,2,8,Vocación,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,26,No,Ciencias Naturales,88,72,67,14,No,10k-20k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,5,5,No,Demanda Laboral,Si,No,Media,7,Lectura,8,8,Cercanía,Si,No,No Aplica,0
+Masculino,18,Rural,Publica,39,Si,Humanidades,91,61,67,19,No,<5k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,4,6,Si,Demanda Laboral,No,No,Media,8,Arte,6,8,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,34,Si,Humanidades,89,75,63,15,No,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,No,7,6,No,Prestigio,No,Si,Baja,7,Tecnología,4,9,Renta Económica,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,36,No,Arte,98,55,69,11,No,<5k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,7,9,No,Sueldo,Si,Si,Alta,9,Tecnología,5,6,Vocación,No,Si,Problemas Familiares,8
+Masculino,21,Rural,Publica,24,Si,Ciencias Naturales,81,81,63,5,Si,>20k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,7,4,Si,Sueldo,Si,No,Alta,10,Viajar,5,11,Cercanía,No,No,No Aplica,0
+Femenino,17,Urbana,Privada,19,Si,Arte,74,67,76,1,Si,<5k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,No,5,8,No,Gusto Personal,Si,No,Alta,9,Viajar,7,9,Prestigio,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,33,Si,Humanidades,77,89,70,17,Si,<5k,Si,Padres,Local,Solo,Soltero,Motriz,Si,3,3,Si,Amigos/Familia,No,No,Alta,6,Deportes,4,5,Prestigio,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,31,No,Ingenieria,62,79,61,17,Si,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Visual,Si,4,3,No,Amigos/Familia,No,No,Baja,5,Lectura,8,9,Cercanía,No,No,No Aplica,0
+Masculino,22,Urbana,Publica,30,Si,Ciencias Naturales,81,66,98,10,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,No,4,6,No,Sueldo,Si,Si,Media,10,Lectura,7,8,Cercanía,No,Si,Problemas Familiares,6
+Femenino,20,Urbana,Privada,29,No,Humanidades,67,86,74,17,Si,<5k,No,Otro,Local,Amigos,Soltero,Ninguna,Si,8,7,Si,Prestigio,No,No,Baja,7,Lectura,3,8,Cercanía,No,No,No Aplica,0
+Femenino,21,Urbana,Privada,23,No,Ciencias Naturales,87,68,55,24,No,10k-20k,No,Otro,Local,Otros,Casado,Ninguna,No,4,6,No,Gusto Personal,No,Si,Alta,8,Viajar,4,7,Prestigio,No,No,No Aplica,0
+Masculino,17,Rural,Privada,38,Si,Arte,67,70,75,14,Si,5k-10k,No,Trabajo Propio,Foraneo,Familia,Soltero,Visual,No,7,5,Si,Gusto Personal,Si,No,Alta,7,Viajar,4,8,Cercanía,Si,No,No Aplica,0
+Femenino,22,Urbana,Privada,34,No,Humanidades,76,80,77,16,Si,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,5,5,No,Gusto Personal,No,Si,Alta,6,Lectura,6,9,Prestigio,Si,No,No Aplica,0
+Masculino,22,Rural,Publica,12,Si,Ciencias Sociales,51,82,58,10,No,<5k,Si,Trabajo Propio,Foraneo,Familia,Casado,Motriz,Si,7,9,No,Prestigio,No,Si,Baja,4,Lectura,7,4,Prestigio,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,34,Si,Ciencias Sociales,102,87,72,18,No,<5k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,4,4,Si,Prestigio,Si,No,Alta,4,Tecnología,2,7,Prestigio,No,No,No Aplica,0
+Femenino,19,Rural,Publica,20,No,Ciencias Sociales,71,74,53,10,No,5k-10k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,No,7,3,No,Sueldo,Si,No,Baja,7,Arte,4,8,Prestigio,Si,Si,Cambio de Carrera,3
+Masculino,20,Urbana,Publica,41,Si,Ciencias Sociales,71,64,75,18,Si,<5k,Si,Beca,Foraneo,Solo,Casado,Ninguna,No,7,7,No,Amigos/Familia,Si,No,Media,9,Viajar,6,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,22,Rural,Publica,36,No,Humanidades,91,85,55,17,No,>20k,Si,Beca,Local,Otros,Soltero,Ninguna,No,7,8,Si,Gusto Personal,No,Si,Baja,8,Tecnología,3,5,Renta Económica,No,No,No Aplica,0
+Masculino,19,Rural,Privada,56,No,Ciencias Naturales,108,66,75,23,No,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Motriz,No,7,7,No,Demanda Laboral,No,No,Alta,11,Tecnología,8,9,Prestigio,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,33,Si,Ciencias Sociales,91,76,71,16,Si,5k-10k,No,Beca,Local,Solo,Soltero,Ninguna,Si,6,9,Si,Prestigio,Si,No,Media,7,Arte,2,8,Prestigio,Si,Si,Problemas Académicos,3
+Masculino,18,Rural,Publica,19,Si,Ciencias Naturales,90,73,79,19,Si,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,5,5,Si,Sueldo,No,No,Media,3,Deportes,9,8,Vocación,No,No,No Aplica,0
+Femenino,23,Rural,Privada,34,No,Ingenieria,80,78,66,25,No,5k-10k,No,Otro,Foraneo,Solo,Divorciado,Ninguna,Si,6,5,No,Prestigio,No,Si,Alta,5,Tecnología,7,9,Cercanía,No,No,No Aplica,0
+Masculino,16,Urbana,Publica,36,Si,Humanidades,69,60,51,15,Si,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,6,4,Si,Sueldo,No,Si,Media,6,Viajar,2,8,Cercanía,Si,No,No Aplica,0
+Femenino,23,Urbana,Privada,17,No,Ingenieria,69,86,65,22,Si,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,5,0,Si,Amigos/Familia,Si,No,Baja,9,Deportes,4,9,Prestigio,Si,Si,Problemas Familiares,8
+Masculino,20,Rural,Publica,36,No,Ingenieria,80,82,57,19,Si,>20k,Si,Beca,Local,Amigos,Casado,Ninguna,Si,6,4,No,Amigos/Familia,No,Si,Baja,4,Arte,5,11,Vocación,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,52,No,Ingenieria,85,69,73,8,No,<5k,Si,Beca,Local,Familia,Soltero,Ninguna,Si,4,7,Si,Amigos/Familia,Si,Si,Baja,5,Arte,7,8,Influencia Familiar,No,No,No Aplica,0
+Masculino,21,Rural,Privada,17,No,Ciencias Naturales,61,74,59,10,Si,<5k,Si,Trabajo Propio,Local,Familia,Soltero,Ninguna,No,7,3,Si,Gusto Personal,Si,Si,Baja,6,Deportes,7,9,Influencia Familiar,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,26,Si,Ingenieria,88,67,55,9,Si,5k-10k,No,Padres,Foraneo,Otros,Soltero,Ninguna,No,5,7,No,Amigos/Familia,Si,No,Media,5,Lectura,3,10,Prestigio,No,Si,Problemas Académicos,4
+Masculino,18,Urbana,Privada,32,Si,Ciencias Naturales,86,60,69,18,No,5k-10k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,8,2,Si,Amigos/Familia,Si,Si,Alta,9,Arte,5,5,Renta Económica,No,No,No Aplica,0
+Femenino,20,Rural,Publica,29,No,Arte,76,65,71,26,No,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,Si,5,6,No,Demanda Laboral,Si,No,Alta,8,Deportes,2,8,Cercanía,No,Si,Problemas Económicos,8
+Masculino,21,Rural,Publica,35,No,Ciencias Sociales,84,67,54,6,Si,>20k,Si,Padres,Local,Solo,Soltero,Ninguna,Si,6,4,Si,Amigos/Familia,No,Si,Media,9,Arte,8,8,Vocación,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,22,No,Ciencias Naturales,91,80,86,18,Si,>20k,No,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,8,5,Si,Sueldo,No,No,Baja,6,Lectura,4,8,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,25,No,Humanidades,73,61,58,8,No,5k-10k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,Si,8,3,Si,Prestigio,Si,Si,Baja,10,Tecnología,5,9,Prestigio,No,No,No Aplica,0
+Masculino,19,Urbana,Privada,33,Si,Ingenieria,70,59,56,14,No,5k-10k,No,Padres,Local,Amigos,Soltero,Ninguna,Si,7,1,Si,Demanda Laboral,No,No,Baja,7,Lectura,4,6,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,24,Si,Arte,86,65,91,10,No,5k-10k,No,Padres,Foraneo,Solo,Soltero,Ninguna,No,8,3,Si,Sueldo,No,Si,Media,7,Viajar,5,5,Prestigio,No,No,No Aplica,0
+Masculino,20,Rural,Privada,34,No,Ciencias Sociales,70,60,45,12,No,5k-10k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Auditiva,No,6,7,Si,Amigos/Familia,No,Si,Media,6,Tecnología,6,7,Cercanía,No,Si,Cambio de Carrera,3
+Femenino,19,Rural,Privada,37,Si,Ciencias Sociales,73,88,75,22,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,8,5,No,Sueldo,Si,No,Alta,10,Deportes,3,8,Renta Económica,Si,Si,Problemas Académicos,1
+Masculino,20,Rural,Publica,5,No,Ciencias Naturales,77,60,81,9,Si,10k-20k,No,Beca,Local,Familia,Soltero,Ninguna,No,5,6,No,Prestigio,No,Si,Media,5,Lectura,3,6,Prestigio,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,36,Si,Ciencias Sociales,98,72,72,16,Si,5k-10k,Si,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,Si,6,3,No,Prestigio,No,No,Baja,10,Arte,5,4,Vocación,No,Si,Problemas Familiares,3
+Femenino,21,Rural,Publica,26,Si,Humanidades,73,78,93,18,No,<5k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,5,8,No,Gusto Personal,Si,No,Alta,3,Arte,5,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,16,Urbana,Privada,19,No,Arte,73,73,73,22,Si,<5k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,6,5,No,Gusto Personal,Si,No,Alta,5,Lectura,3,8,Vocación,Si,No,No Aplica,0
+Masculino,23,Urbana,Publica,36,No,Ciencias Sociales,81,59,54,12,No,<5k,No,Otro,Local,Otros,Casado,Ninguna,Si,5,3,Si,Gusto Personal,No,No,Alta,6,Viajar,5,9,Prestigio,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,37,No,Ciencias Naturales,92,81,79,14,Si,>20k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,7,6,Si,Prestigio,Si,No,Media,7,Lectura,5,4,Cercanía,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,28,No,Ciencias Naturales,81,85,70,9,No,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,7,4,Si,Demanda Laboral,Si,No,Media,7,Arte,1,7,Prestigio,No,No,No Aplica,0
+Femenino,22,Urbana,Privada,43,Si,Ciencias Naturales,72,79,64,19,Si,10k-20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,5,3,No,Sueldo,No,No,Alta,7,Tecnología,2,8,Influencia Familiar,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,22,Si,Arte,75,67,74,14,Si,<5k,Si,Beca,Foraneo,Amigos,Divorciado,Ninguna,Si,5,4,No,Sueldo,Si,No,Alta,7,Lectura,5,9,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,28,Si,Ciencias Naturales,95,66,47,9,Si,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,Si,4,1,No,Gusto Personal,Si,Si,Alta,7,Arte,6,7,Cercanía,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,25,No,Arte,76,72,77,12,Si,5k-10k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,7,6,No,Sueldo,No,No,Media,3,Viajar,7,8,Prestigio,No,Si,Problemas Académicos,2
+Masculino,16,Urbana,Publica,17,Si,Humanidades,84,90,76,14,Si,10k-20k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,7,6,Si,Sueldo,Si,Si,Media,8,Tecnología,5,8,Vocación,No,No,No Aplica,0
+Femenino,23,Rural,Privada,36,No,Ciencias Sociales,71,76,80,14,No,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,Si,7,4,Si,Amigos/Familia,Si,No,Alta,9,Lectura,6,7,Vocación,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,32,No,Ciencias Naturales,71,73,61,19,Si,5k-10k,No,Padres,Foraneo,Otros,Soltero,Ninguna,Si,8,0,Si,Prestigio,No,Si,Media,10,Viajar,1,4,Prestigio,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,37,No,Humanidades,85,65,71,14,Si,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,7,7,No,Prestigio,Si,No,Alta,9,Tecnología,6,5,Renta Económica,No,No,No Aplica,0
+Masculino,18,Rural,Publica,37,Si,Ingenieria,71,65,89,16,Si,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,8,3,No,Demanda Laboral,Si,Si,Baja,5,Deportes,4,10,Prestigio,Si,No,No Aplica,0
+Masculino,20,Rural,Privada,26,Si,Humanidades,85,62,67,17,Si,10k-20k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,6,4,No,Demanda Laboral,No,No,Baja,5,Deportes,10,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Rural,Publica,30,No,Humanidades,79,80,68,24,Si,10k-20k,Si,Beca,Foraneo,Solo,Casado,Ninguna,No,9,4,No,Sueldo,No,No,Baja,7,Viajar,9,8,Prestigio,No,No,No Aplica,0
+Femenino,21,Urbana,Privada,32,No,Humanidades,71,60,93,16,No,<5k,Si,Trabajo Propio,Foraneo,Familia,Casado,Visual,Si,6,6,No,Gusto Personal,No,Si,Alta,7,Viajar,9,6,Renta Económica,No,No,No Aplica,0
+Femenino,17,Rural,Privada,34,Si,Ingenieria,73,68,63,11,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,Si,5,4,Si,Gusto Personal,Si,No,Media,4,Viajar,7,8,Prestigio,No,No,No Aplica,0
+Masculino,22,Rural,Publica,43,Si,Arte,82,75,58,20,Si,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,No,4,5,Si,Prestigio,Si,Si,Alta,4,Deportes,3,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Privada,15,No,Ciencias Naturales,76,75,72,17,No,10k-20k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,6,7,No,Amigos/Familia,Si,No,Alta,7,Viajar,0,9,Prestigio,No,No,No Aplica,0
+Masculino,19,Urbana,Privada,34,Si,Humanidades,87,74,74,14,No,5k-10k,No,Padres,Foraneo,Otros,Soltero,Ninguna,No,4,5,Si,Demanda Laboral,Si,Si,Media,0,Tecnología,1,10,Prestigio,Si,Si,Problemas Familiares,4
+Femenino,17,Rural,Privada,34,Si,Ingenieria,65,55,78,5,No,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,8,6,No,Gusto Personal,Si,Si,Media,7,Tecnología,6,6,Influencia Familiar,No,Si,Cambio de Carrera,3
+Femenino,22,Rural,Publica,30,Si,Humanidades,74,85,76,21,No,<5k,No,Padres,Local,Solo,Soltero,Ninguna,Si,6,5,Si,Demanda Laboral,No,No,Alta,6,Deportes,3,7,Renta Económica,Si,Si,Cambio de Carrera,4
+Masculino,23,Urbana,Publica,35,Si,Ingenieria,92,67,59,19,No,<5k,No,Padres,Local,Amigos,Soltero,Ninguna,No,6,8,No,Gusto Personal,Si,No,Baja,6,Tecnología,10,8,Prestigio,No,No,No Aplica,0
+Femenino,21,Rural,Privada,29,No,Ingenieria,101,74,59,18,Si,10k-20k,Si,Trabajo Propio,Local,Amigos,Soltero,Motriz,No,5,6,No,Sueldo,No,No,Alta,6,Deportes,5,7,Renta Económica,Si,Si,Problemas Académicos,1
+Femenino,21,Urbana,Privada,34,Si,Ciencias Sociales,69,79,81,15,Si,10k-20k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,5,4,No,Prestigio,Si,Si,Media,9,Tecnología,5,6,Cercanía,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,31,Si,Arte,66,72,75,18,Si,5k-10k,Si,Padres,Local,Solo,Casado,Ninguna,Si,5,5,No,Gusto Personal,Si,No,Media,8,Tecnología,2,10,Vocación,No,Si,Problemas Académicos,2
+Femenino,21,Rural,Publica,37,Si,Ingenieria,82,77,67,14,No,5k-10k,Si,Beca,Local,Otros,Soltero,Visual,Si,4,6,No,Gusto Personal,No,Si,Baja,8,Lectura,5,6,Vocación,Si,Si,Problemas Económicos,1
+Masculino,18,Rural,Privada,41,Si,Ingenieria,77,71,77,10,No,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,8,3,No,Demanda Laboral,Si,No,Baja,6,Deportes,7,7,Renta Económica,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,29,No,Arte,63,93,75,9,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,Si,5,3,No,Gusto Personal,No,Si,Baja,7,Deportes,2,7,Vocación,No,Si,Otros,6
+Femenino,16,Urbana,Publica,30,No,Ciencias Sociales,68,73,71,23,No,5k-10k,Si,Beca,Foraneo,Otros,Casado,Motriz,No,7,4,Si,Gusto Personal,Si,No,Baja,8,Lectura,6,9,Cercanía,No,Si,Problemas Familiares,1
+Masculino,19,Urbana,Publica,35,No,Ingenieria,94,76,74,16,No,>20k,No,Beca,Local,Otros,Soltero,Ninguna,No,7,4,No,Gusto Personal,Si,Si,Alta,8,Deportes,10,7,Prestigio,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,17,No,Ciencias Sociales,78,81,74,13,Si,5k-10k,Si,Trabajo Propio,Local,Otros,Casado,Ninguna,No,8,4,No,Amigos/Familia,No,Si,Alta,8,Viajar,6,7,Influencia Familiar,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,37,Si,Ingenieria,76,75,78,22,Si,5k-10k,Si,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,No,7,6,No,Amigos/Familia,Si,Si,Alta,3,Viajar,4,6,Renta Económica,No,No,No Aplica,0
+Femenino,21,Rural,Publica,32,No,Ingenieria,65,57,73,14,No,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,No,4,6,No,Amigos/Familia,No,Si,Baja,5,Viajar,6,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Publica,42,No,Ciencias Naturales,90,94,61,11,Si,10k-20k,No,Beca,Foraneo,Familia,Soltero,Ninguna,Si,6,8,No,Sueldo,Si,Si,Alta,9,Tecnología,5,7,Prestigio,Si,Si,Problemas Familiares,1
+Masculino,21,Urbana,Publica,18,Si,Arte,69,69,72,13,Si,>20k,No,Trabajo Propio,Local,Otros,Soltero,Cognitiva,Si,7,6,Si,Gusto Personal,Si,No,Alta,9,Deportes,6,2,Vocación,No,No,No Aplica,0
+Femenino,22,Rural,Privada,26,No,Ciencias Sociales,69,84,77,10,No,10k-20k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,3,5,Si,Amigos/Familia,No,No,Baja,8,Deportes,3,6,Renta Económica,Si,No,No Aplica,0
+Masculino,18,Rural,Privada,40,No,Arte,92,73,64,21,No,10k-20k,No,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,4,8,Si,Demanda Laboral,No,Si,Alta,2,Viajar,4,5,Vocación,Si,Si,Problemas Familiares,5
+Femenino,18,Rural,Privada,28,No,Ciencias Sociales,95,76,93,14,No,5k-10k,No,Beca,Foraneo,Familia,Soltero,Visual,No,7,0,No,Gusto Personal,No,Si,Media,9,Viajar,2,4,Cercanía,No,No,No Aplica,0
+Femenino,23,Rural,Publica,39,No,Arte,57,87,72,15,No,5k-10k,No,Beca,Local,Amigos,Casado,Ninguna,No,5,4,No,Sueldo,No,No,Alta,7,Lectura,4,4,Prestigio,No,Si,Problemas Familiares,7
+Masculino,24,Rural,Publica,31,No,Ciencias Sociales,71,75,80,8,Si,5k-10k,Si,Beca,Foraneo,Solo,Divorciado,Ninguna,No,4,2,Si,Amigos/Familia,No,Si,Alta,6,Tecnología,4,5,Cercanía,No,No,No Aplica,0
+Masculino,18,Urbana,Privada,28,Si,Ciencias Naturales,71,67,85,20,No,>20k,No,Beca,Local,Otros,Soltero,Ninguna,Si,6,5,No,Prestigio,No,Si,Baja,5,Deportes,4,5,Renta Económica,No,Si,Problemas Académicos,5
+Femenino,22,Rural,Privada,38,Si,Humanidades,87,72,81,8,Si,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,5,5,No,Sueldo,Si,Si,Baja,8,Arte,5,2,Vocación,No,No,No Aplica,0
+Femenino,19,Rural,Privada,34,Si,Arte,76,73,86,11,No,5k-10k,No,Beca,Local,Amigos,Soltero,Ninguna,No,8,5,No,Gusto Personal,No,Si,Alta,9,Deportes,7,7,Influencia Familiar,Si,No,No Aplica,0
+Masculino,22,Urbana,Publica,41,No,Ciencias Sociales,74,74,78,17,No,<5k,Si,Otro,Local,Otros,Soltero,Ninguna,No,7,6,Si,Amigos/Familia,No,Si,Media,5,Viajar,4,7,Cercanía,No,Si,Otros,2
+Masculino,22,Rural,Publica,21,No,Humanidades,74,71,74,17,No,5k-10k,No,Otro,Local,Solo,Soltero,Ninguna,No,5,5,Si,Sueldo,No,Si,Alta,8,Tecnología,5,7,Influencia Familiar,No,Si,Problemas Familiares,5
+Femenino,18,Rural,Publica,40,No,Ingenieria,76,76,75,16,Si,5k-10k,No,Trabajo Propio,Local,Otros,Casado,Ninguna,No,7,6,Si,Amigos/Familia,Si,Si,Alta,9,Viajar,4,8,Prestigio,No,Si,Problemas Académicos,5
+Femenino,24,Rural,Privada,9,No,Ciencias Sociales,102,76,67,14,Si,10k-20k,No,Beca,Foraneo,Otros,Soltero,Ninguna,No,6,4,No,Amigos/Familia,No,No,Alta,9,Tecnología,4,6,Influencia Familiar,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,37,No,Ingenieria,75,66,60,15,Si,5k-10k,No,Otro,Local,Otros,Soltero,Motriz,Si,7,6,No,Prestigio,Si,No,Media,9,Arte,6,9,Prestigio,Si,No,No Aplica,0
+Masculino,18,Rural,Publica,17,Si,Humanidades,79,72,87,23,No,10k-20k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,5,5,No,Gusto Personal,No,No,Media,8,Tecnología,10,10,Vocación,No,No,No Aplica,0
+Femenino,22,Urbana,Privada,33,Si,Ciencias Sociales,98,85,56,17,No,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,8,5,Si,Sueldo,No,Si,Alta,5,Deportes,4,6,Cercanía,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,19,Si,Ciencias Sociales,82,74,63,3,No,<5k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,9,4,No,Sueldo,No,Si,Baja,9,Arte,2,9,Influencia Familiar,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,25,No,Ciencias Sociales,82,76,70,16,Si,5k-10k,No,Beca,Local,Otros,Soltero,Ninguna,No,3,7,No,Amigos/Familia,Si,Si,Media,8,Tecnología,7,8,Prestigio,No,Si,Problemas Familiares,2
+Masculino,20,Urbana,Publica,28,Si,Ciencias Naturales,61,76,82,23,Si,<5k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,Si,6,5,Si,Gusto Personal,Si,Si,Media,7,Viajar,2,11,Cercanía,No,Si,Problemas Académicos,2
+Femenino,22,Rural,Publica,9,No,Ingenieria,81,70,60,24,No,10k-20k,No,Trabajo Propio,Foraneo,Otros,Casado,Ninguna,Si,5,4,Si,Amigos/Familia,Si,No,Alta,7,Arte,2,7,Prestigio,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,18,No,Humanidades,93,75,70,11,Si,<5k,No,Otro,Foraneo,Familia,Soltero,Ninguna,Si,6,3,Si,Demanda Laboral,No,No,Media,7,Tecnología,5,6,Renta Económica,Si,Si,Cambio de Carrera,1
+Femenino,22,Urbana,Privada,28,Si,Arte,81,64,58,16,No,>20k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,4,6,No,Gusto Personal,No,Si,Media,6,Arte,5,5,Prestigio,Si,No,No Aplica,0
+Masculino,25,Rural,Privada,32,Si,Ciencias Sociales,79,74,79,19,No,5k-10k,No,Padres,Local,Familia,Soltero,Ninguna,No,9,5,Si,Amigos/Familia,No,No,Baja,11,Deportes,7,9,Influencia Familiar,Si,No,No Aplica,0
+Femenino,17,Urbana,Publica,32,No,Ingenieria,85,56,65,19,No,10k-20k,Si,Beca,Local,Familia,Soltero,Ninguna,Si,4,7,No,Amigos/Familia,No,No,Baja,6,Viajar,2,5,Cercanía,Si,Si,Problemas Económicos,2
+Femenino,19,Urbana,Privada,29,Si,Arte,74,80,56,9,No,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,Si,7,3,Si,Demanda Laboral,Si,No,Alta,11,Deportes,7,4,Vocación,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,34,No,Humanidades,86,76,77,18,No,5k-10k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,7,5,No,Gusto Personal,Si,Si,Media,8,Viajar,2,8,Renta Económica,No,No,No Aplica,0
+Masculino,17,Urbana,Publica,21,Si,Humanidades,74,67,76,13,No,>20k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,4,No,Amigos/Familia,No,Si,Alta,9,Arte,8,7,Vocación,No,No,No Aplica,0
+Femenino,26,Urbana,Privada,28,No,Ciencias Naturales,75,81,73,17,Si,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,Si,6,6,Si,Gusto Personal,No,No,Baja,8,Arte,4,9,Cercanía,No,Si,Problemas Económicos,1
+Femenino,22,Urbana,Privada,36,Si,Arte,89,83,78,12,No,10k-20k,Si,Beca,Foraneo,Otros,Casado,Ninguna,Si,6,6,Si,Amigos/Familia,Si,No,Baja,6,Arte,7,8,Influencia Familiar,No,Si,Cambio de Carrera,1
+Femenino,20,Urbana,Privada,27,No,Arte,67,75,84,10,No,10k-20k,No,Otro,Foraneo,Amigos,Divorciado,Ninguna,No,5,4,Si,Sueldo,No,Si,Alta,7,Deportes,7,8,Prestigio,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,33,No,Ciencias Sociales,77,60,81,13,No,5k-10k,No,Beca,Local,Amigos,Casado,Ninguna,No,6,8,Si,Sueldo,Si,Si,Baja,8,Tecnología,6,9,Vocación,Si,Si,Problemas Familiares,1
+Femenino,20,Rural,Privada,33,Si,Ingenieria,80,88,81,13,Si,5k-10k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,5,No,Prestigio,No,No,Alta,4,Arte,4,8,Renta Económica,No,Si,Otros,8
+Masculino,21,Rural,Privada,33,Si,Humanidades,78,70,63,11,No,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,Si,7,5,No,Amigos/Familia,No,No,Baja,8,Deportes,5,5,Cercanía,Si,No,No Aplica,0
+Masculino,21,Urbana,Privada,23,No,Humanidades,95,76,89,18,Si,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,No,9,4,Si,Prestigio,Si,Si,Alta,1,Deportes,4,7,Renta Económica,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,42,No,Ciencias Naturales,80,73,65,16,Si,>20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,6,2,Si,Prestigio,No,Si,Media,8,Tecnología,5,4,Prestigio,Si,No,No Aplica,0
+Masculino,20,Rural,Privada,29,Si,Ciencias Naturales,85,68,73,8,Si,5k-10k,Si,Otro,Local,Solo,Casado,Ninguna,Si,6,6,Si,Demanda Laboral,No,No,Baja,5,Tecnología,3,8,Vocación,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,37,No,Ciencias Sociales,70,77,76,16,Si,10k-20k,No,Padres,Local,Otros,Soltero,Ninguna,Si,6,6,Si,Prestigio,Si,Si,Alta,10,Arte,2,8,Cercanía,Si,No,No Aplica,0
+Femenino,17,Rural,Privada,35,Si,Ingenieria,68,73,75,16,No,<5k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,6,5,Si,Sueldo,Si,Si,Baja,5,Tecnología,3,9,Prestigio,Si,Si,Otros,1
+Masculino,16,Rural,Privada,23,No,Ingenieria,81,63,75,8,No,10k-20k,No,Otro,Local,Familia,Soltero,Ninguna,Si,6,6,No,Gusto Personal,No,No,Alta,5,Tecnología,9,9,Prestigio,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,28,No,Arte,74,69,62,17,No,<5k,Si,Beca,Local,Amigos,Casado,Ninguna,Si,8,7,Si,Sueldo,Si,Si,Alta,4,Lectura,4,10,Cercanía,No,Si,Otros,7
+Masculino,22,Urbana,Publica,33,Si,Ciencias Sociales,88,55,74,6,Si,<5k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,6,6,Si,Sueldo,Si,Si,Alta,8,Deportes,2,6,Influencia Familiar,Si,Si,Otros,7
+Femenino,18,Rural,Publica,20,No,Arte,92,61,60,13,No,>20k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,4,3,No,Demanda Laboral,No,No,Media,6,Viajar,8,7,Renta Económica,Si,No,No Aplica,0
+Femenino,18,Urbana,Privada,39,No,Ingenieria,78,71,64,21,Si,10k-20k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,6,8,No,Prestigio,Si,Si,Media,10,Arte,4,4,Cercanía,No,No,No Aplica,0
+Masculino,21,Urbana,Publica,35,No,Ciencias Sociales,74,72,77,15,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,No,6,5,No,Demanda Laboral,No,No,Baja,7,Deportes,2,7,Prestigio,No,Si,Problemas Académicos,5
+Masculino,21,Rural,Privada,27,Si,Humanidades,85,80,94,10,Si,5k-10k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,6,4,Si,Demanda Laboral,No,No,Alta,9,Lectura,7,4,Prestigio,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,45,Si,Arte,63,89,74,9,No,10k-20k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,5,4,Si,Gusto Personal,Si,No,Alta,7,Viajar,6,8,Cercanía,No,Si,Otros,3
+Masculino,19,Rural,Privada,19,No,Arte,84,87,82,21,No,<5k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,6,5,Si,Demanda Laboral,Si,Si,Media,7,Tecnología,4,8,Vocación,No,No,No Aplica,0
+Masculino,20,Rural,Publica,31,Si,Ciencias Naturales,75,99,70,13,Si,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,Si,6,3,No,Gusto Personal,Si,No,Baja,3,Viajar,5,7,Prestigio,Si,No,No Aplica,0
+Masculino,18,Rural,Privada,36,Si,Ciencias Sociales,88,60,79,12,No,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,7,3,No,Demanda Laboral,No,No,Alta,9,Lectura,3,8,Vocación,Si,Si,Problemas Económicos,1
+Femenino,16,Urbana,Privada,27,Si,Ciencias Naturales,77,88,73,14,No,5k-10k,Si,Trabajo Propio,Local,Amigos,Casado,Ninguna,No,3,4,Si,Amigos/Familia,Si,No,Media,5,Arte,4,11,Influencia Familiar,No,Si,Problemas Económicos,4
+Masculino,23,Urbana,Publica,35,Si,Ciencias Sociales,89,76,72,15,Si,10k-20k,No,Otro,Local,Amigos,Soltero,Ninguna,No,5,3,No,Gusto Personal,Si,Si,Baja,9,Deportes,7,4,Renta Económica,Si,Si,Problemas Familiares,6
+Masculino,18,Rural,Publica,10,Si,Ciencias Naturales,93,69,95,18,No,>20k,No,Padres,Local,Solo,Soltero,Ninguna,No,6,6,Si,Sueldo,Si,Si,Media,8,Lectura,6,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,16,Urbana,Privada,27,No,Ciencias Naturales,73,59,54,20,Si,5k-10k,No,Beca,Foraneo,Solo,Soltero,Ninguna,No,6,4,Si,Gusto Personal,Si,No,Baja,7,Arte,5,8,Vocación,No,No,No Aplica,0
+Femenino,17,Urbana,Privada,33,No,Arte,79,50,84,12,No,5k-10k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,4,3,Si,Prestigio,Si,No,Media,7,Viajar,3,2,Prestigio,Si,No,No Aplica,0
+Femenino,22,Rural,Publica,49,Si,Humanidades,76,73,71,8,Si,5k-10k,No,Beca,Foraneo,Solo,Soltero,Ninguna,No,6,6,Si,Amigos/Familia,Si,No,Alta,9,Arte,6,7,Renta Económica,No,No,No Aplica,0
+Femenino,17,Rural,Publica,30,No,Ingenieria,70,82,61,12,No,5k-10k,Si,Beca,Foraneo,Familia,Soltero,Ninguna,Si,4,7,No,Demanda Laboral,No,Si,Media,7,Lectura,6,5,Prestigio,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,28,Si,Humanidades,57,80,78,13,No,5k-10k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,7,3,No,Demanda Laboral,No,No,Baja,6,Arte,8,5,Cercanía,No,No,No Aplica,0
+Femenino,18,Rural,Privada,22,Si,Humanidades,86,81,85,17,Si,>20k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,8,2,No,Amigos/Familia,Si,Si,Media,8,Viajar,5,7,Cercanía,Si,No,No Aplica,0
+Masculino,23,Urbana,Publica,27,Si,Arte,73,63,65,12,Si,5k-10k,Si,Padres,Local,Solo,Soltero,Ninguna,Si,7,0,No,Amigos/Familia,Si,No,Media,8,Tecnología,1,4,Influencia Familiar,Si,Si,Problemas Académicos,6
+Masculino,22,Rural,Privada,21,Si,Ciencias Naturales,64,71,56,12,Si,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,6,6,Si,Prestigio,Si,No,Baja,8,Lectura,4,7,Renta Económica,Si,Si,Otros,1
+Femenino,24,Rural,Privada,28,Si,Ciencias Sociales,72,79,56,17,Si,>20k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,7,1,Si,Amigos/Familia,No,No,Alta,5,Tecnología,6,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,33,No,Arte,71,70,59,23,No,5k-10k,No,Trabajo Propio,Local,Amigos,Casado,Ninguna,Si,7,5,No,Demanda Laboral,No,No,Baja,4,Arte,3,3,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,29,Si,Arte,81,65,67,13,No,5k-10k,Si,Otro,Local,Familia,Soltero,Ninguna,No,4,5,No,Sueldo,Si,No,Media,8,Viajar,5,10,Vocación,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,33,Si,Ingenieria,82,70,48,15,Si,5k-10k,No,Beca,Local,Familia,Soltero,Ninguna,No,5,7,No,Amigos/Familia,Si,Si,Alta,2,Deportes,4,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,14,No,Arte,73,64,60,23,Si,5k-10k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,No,5,4,Si,Sueldo,Si,Si,Alta,9,Lectura,5,5,Prestigio,Si,No,No Aplica,0
+Masculino,15,Rural,Publica,41,Si,Ciencias Naturales,103,90,75,15,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,6,3,Si,Amigos/Familia,No,Si,Baja,4,Lectura,5,10,Renta Económica,Si,No,No Aplica,0
+Masculino,21,Rural,Privada,23,Si,Arte,73,76,75,14,No,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,No,6,5,Si,Amigos/Familia,No,No,Alta,8,Deportes,9,4,Cercanía,Si,Si,Cambio de Carrera,7
+Masculino,19,Urbana,Publica,18,Si,Humanidades,75,70,78,13,No,>20k,No,Otro,Foraneo,Solo,Soltero,Auditiva,No,7,7,No,Demanda Laboral,No,Si,Baja,6,Deportes,4,8,Prestigio,No,No,No Aplica,0
+Femenino,19,Rural,Publica,15,Si,Humanidades,78,83,82,15,No,<5k,Si,Padres,Foraneo,Amigos,Casado,Ninguna,Si,8,7,No,Amigos/Familia,Si,Si,Media,6,Deportes,9,7,Vocación,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,34,Si,Ciencias Naturales,89,62,64,19,No,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Casado,Ninguna,Si,5,7,No,Prestigio,Si,No,Alta,8,Lectura,9,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Rural,Privada,36,No,Humanidades,73,94,62,10,Si,5k-10k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,Si,6,4,Si,Sueldo,Si,No,Alta,8,Lectura,9,9,Influencia Familiar,Si,No,No Aplica,0
+Femenino,16,Urbana,Publica,26,Si,Humanidades,89,70,70,12,No,5k-10k,No,Beca,Local,Otros,Soltero,Ninguna,No,4,4,Si,Sueldo,Si,Si,Media,8,Viajar,8,8,Cercanía,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,27,Si,Arte,90,70,83,19,Si,<5k,No,Trabajo Propio,Foraneo,Amigos,Casado,Ninguna,No,4,6,No,Amigos/Familia,No,No,Media,6,Deportes,9,5,Renta Económica,No,Si,Problemas Académicos,6
+Masculino,22,Urbana,Privada,47,Si,Arte,74,68,79,16,No,<5k,No,Padres,Local,Solo,Casado,Ninguna,No,4,7,No,Sueldo,Si,No,Media,8,Viajar,4,4,Renta Económica,Si,No,No Aplica,0
+Femenino,23,Urbana,Privada,30,No,Ciencias Naturales,66,86,58,17,Si,5k-10k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,8,6,No,Gusto Personal,Si,No,Baja,8,Deportes,6,6,Cercanía,No,No,No Aplica,0
+Masculino,18,Urbana,Privada,41,Si,Ingenieria,67,79,56,21,Si,<5k,No,Beca,Local,Familia,Soltero,Ninguna,No,6,7,No,Demanda Laboral,No,No,Alta,9,Viajar,5,10,Prestigio,No,No,No Aplica,0
+Femenino,19,Rural,Privada,29,No,Ingenieria,78,81,73,18,Si,5k-10k,No,Beca,Local,Otros,Soltero,Ninguna,No,7,5,No,Sueldo,No,Si,Baja,8,Tecnología,6,7,Cercanía,Si,Si,Cambio de Carrera,3
+Masculino,22,Rural,Privada,42,Si,Ingenieria,99,86,65,12,Si,5k-10k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,6,9,Si,Gusto Personal,No,Si,Baja,6,Lectura,4,4,Cercanía,No,No,No Aplica,0
+Femenino,19,Rural,Privada,26,No,Ciencias Naturales,78,73,75,10,No,>20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,6,8,No,Prestigio,Si,Si,Baja,8,Arte,8,3,Cercanía,No,Si,Problemas Económicos,6
+Masculino,23,Urbana,Privada,31,No,Ciencias Sociales,78,65,77,20,No,5k-10k,No,Trabajo Propio,Local,Otros,Casado,Ninguna,Si,3,4,No,Prestigio,No,No,Baja,2,Arte,5,8,Prestigio,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,30,No,Humanidades,93,81,51,7,No,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,5,4,No,Amigos/Familia,Si,No,Baja,4,Tecnología,6,7,Influencia Familiar,Si,Si,Cambio de Carrera,3
+Masculino,22,Urbana,Privada,12,Si,Ingenieria,91,72,85,19,Si,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,Si,5,7,No,Gusto Personal,No,Si,Media,7,Lectura,7,5,Vocación,No,No,No Aplica,0
+Femenino,19,Urbana,Privada,37,No,Ciencias Sociales,89,91,68,17,Si,>20k,Si,Beca,Local,Solo,Divorciado,Ninguna,Si,6,1,Si,Gusto Personal,No,No,Media,3,Viajar,4,7,Influencia Familiar,No,Si,Cambio de Carrera,5
+Femenino,21,Rural,Privada,37,Si,Arte,103,78,70,18,Si,5k-10k,Si,Padres,Foraneo,Otros,Casado,Ninguna,No,7,8,No,Amigos/Familia,No,Si,Media,9,Deportes,0,7,Prestigio,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,26,No,Arte,81,63,73,11,No,10k-20k,No,Otro,Foraneo,Otros,Soltero,Motriz,Si,7,7,No,Gusto Personal,No,Si,Media,9,Lectura,5,6,Renta Económica,Si,Si,Otros,2
+Masculino,21,Rural,Privada,26,Si,Ciencias Naturales,77,87,89,13,Si,5k-10k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,3,5,Si,Prestigio,No,No,Baja,9,Tecnología,4,9,Cercanía,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,19,Si,Arte,74,103,64,15,No,<5k,No,Beca,Local,Otros,Soltero,Ninguna,No,7,3,Si,Gusto Personal,Si,No,Media,8,Arte,4,8,Prestigio,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,13,Si,Arte,77,78,58,22,No,10k-20k,Si,Otro,Local,Solo,Soltero,Ninguna,Si,4,6,Si,Sueldo,Si,No,Media,6,Viajar,4,4,Renta Económica,Si,No,No Aplica,0
+Masculino,16,Rural,Privada,29,No,Ingenieria,88,79,66,16,Si,<5k,No,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,No,6,10,No,Sueldo,No,No,Alta,8,Deportes,5,5,Prestigio,No,No,No Aplica,0
+Masculino,22,Rural,Publica,28,Si,Arte,75,68,72,22,Si,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,6,9,No,Demanda Laboral,Si,Si,Alta,5,Viajar,2,7,Vocación,No,No,No Aplica,0
+Masculino,20,Rural,Publica,33,No,Ciencias Sociales,70,80,63,17,No,<5k,No,Otro,Foraneo,Solo,Soltero,Ninguna,Si,6,4,No,Demanda Laboral,No,Si,Baja,11,Lectura,9,8,Vocación,Si,Si,Problemas Académicos,8
+Femenino,26,Urbana,Publica,39,No,Humanidades,84,90,75,20,Si,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,5,5,No,Amigos/Familia,No,No,Media,10,Lectura,2,9,Cercanía,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,28,Si,Arte,84,55,59,15,No,<5k,No,Otro,Local,Amigos,Casado,Cognitiva,Si,5,6,No,Gusto Personal,Si,Si,Baja,10,Tecnología,0,5,Cercanía,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,15,No,Ciencias Naturales,83,75,68,9,No,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,5,5,Si,Gusto Personal,No,No,Alta,6,Deportes,6,6,Influencia Familiar,No,No,No Aplica,0
+Masculino,22,Rural,Publica,30,Si,Ingenieria,83,85,73,16,No,10k-20k,Si,Beca,Foraneo,Familia,Divorciado,Ninguna,No,8,4,Si,Prestigio,No,No,Alta,7,Lectura,8,9,Renta Económica,No,No,No Aplica,0
+Masculino,21,Rural,Privada,36,Si,Ciencias Sociales,87,82,52,10,Si,<5k,No,Beca,Local,Otros,Divorciado,Ninguna,Si,9,5,No,Sueldo,Si,No,Alta,6,Lectura,7,6,Renta Económica,No,No,No Aplica,0
+Masculino,18,Rural,Publica,24,Si,Ciencias Naturales,79,79,50,12,Si,5k-10k,No,Beca,Foraneo,Solo,Soltero,Ninguna,No,4,3,No,Demanda Laboral,No,No,Baja,8,Viajar,5,7,Renta Económica,No,Si,Problemas Económicos,1
+Femenino,22,Rural,Privada,24,Si,Arte,76,77,74,9,Si,<5k,Si,Beca,Foraneo,Otros,Casado,Ninguna,No,4,5,Si,Demanda Laboral,No,Si,Media,7,Viajar,4,11,Influencia Familiar,Si,No,No Aplica,0
+Femenino,19,Urbana,Privada,7,Si,Humanidades,76,96,70,16,No,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,No,5,4,Si,Amigos/Familia,No,Si,Alta,6,Tecnología,3,6,Influencia Familiar,No,Si,Problemas Familiares,1
+Masculino,17,Urbana,Privada,31,Si,Ingenieria,74,75,59,11,No,<5k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,8,7,Si,Demanda Laboral,Si,No,Media,7,Deportes,7,6,Prestigio,No,No,No Aplica,0
+Femenino,17,Rural,Publica,22,No,Ciencias Naturales,84,63,80,18,No,>20k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,5,6,No,Demanda Laboral,Si,Si,Media,5,Tecnología,5,10,Cercanía,Si,No,No Aplica,0
+Femenino,25,Rural,Publica,47,No,Humanidades,56,72,55,22,No,5k-10k,No,Padres,Foraneo,Familia,Soltero,Ninguna,Si,5,7,Si,Sueldo,No,Si,Media,7,Lectura,8,13,Renta Económica,Si,Si,Problemas Económicos,5
+Masculino,19,Urbana,Publica,40,Si,Arte,76,78,83,20,Si,<5k,Si,Padres,Local,Familia,Soltero,Motriz,No,4,5,Si,Demanda Laboral,Si,No,Media,8,Deportes,4,7,Prestigio,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,32,Si,Ciencias Sociales,81,77,74,12,Si,>20k,No,Beca,Foraneo,Solo,Casado,Ninguna,No,5,5,No,Prestigio,Si,Si,Alta,6,Viajar,7,9,Renta Económica,No,Si,Otros,2
+Masculino,20,Urbana,Publica,19,Si,Humanidades,85,84,85,19,No,5k-10k,No,Padres,Foraneo,Otros,Soltero,Cognitiva,No,6,7,Si,Demanda Laboral,Si,Si,Baja,8,Viajar,8,5,Influencia Familiar,Si,Si,Otros,2
+Masculino,20,Rural,Publica,34,Si,Ciencias Naturales,64,78,57,16,Si,10k-20k,No,Padres,Local,Amigos,Soltero,Ninguna,Si,8,4,Si,Amigos/Familia,Si,No,Baja,9,Viajar,10,6,Prestigio,No,No,No Aplica,0
+Femenino,19,Rural,Privada,26,Si,Ingenieria,90,67,66,14,No,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,7,4,No,Prestigio,Si,No,Media,6,Viajar,5,9,Cercanía,No,Si,Problemas Familiares,2
+Femenino,21,Rural,Publica,24,Si,Humanidades,89,66,75,10,Si,<5k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,4,7,Si,Demanda Laboral,No,Si,Alta,8,Tecnología,5,5,Vocación,No,Si,Problemas Económicos,1
+Masculino,18,Rural,Publica,37,No,Humanidades,75,81,68,21,Si,>20k,No,Beca,Foraneo,Solo,Casado,Ninguna,Si,4,4,Si,Gusto Personal,No,Si,Media,9,Tecnología,6,4,Vocación,No,No,No Aplica,0
+Masculino,23,Rural,Publica,34,Si,Ciencias Sociales,75,68,61,16,No,<5k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,6,10,No,Prestigio,Si,No,Media,5,Tecnología,6,11,Influencia Familiar,No,Si,Problemas Académicos,6
+Masculino,19,Rural,Privada,25,Si,Ciencias Sociales,88,91,89,12,No,5k-10k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,6,2,No,Amigos/Familia,Si,Si,Baja,8,Tecnología,5,4,Cercanía,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,41,No,Arte,99,83,66,6,No,5k-10k,No,Padres,Foraneo,Otros,Casado,Ninguna,Si,8,7,Si,Amigos/Familia,Si,Si,Alta,4,Tecnología,5,8,Vocación,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,32,No,Ciencias Naturales,77,69,68,15,Si,5k-10k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,5,6,Si,Demanda Laboral,No,Si,Baja,5,Deportes,2,4,Influencia Familiar,No,No,No Aplica,0
+Femenino,21,Rural,Publica,18,No,Arte,95,87,55,15,No,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,No,6,4,No,Prestigio,Si,Si,Alta,4,Lectura,5,5,Renta Económica,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,22,No,Arte,89,47,71,7,Si,5k-10k,No,Beca,Foraneo,Familia,Soltero,Ninguna,No,4,3,Si,Sueldo,No,No,Alta,6,Lectura,10,8,Prestigio,Si,No,No Aplica,0
+Femenino,20,Rural,Privada,12,Si,Humanidades,84,85,77,14,No,5k-10k,Si,Otro,Foraneo,Familia,Soltero,Cognitiva,Si,5,3,Si,Prestigio,No,No,Baja,11,Deportes,6,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,22,Rural,Privada,35,Si,Arte,90,82,67,18,No,>20k,Si,Beca,Local,Otros,Divorciado,Ninguna,No,6,5,No,Gusto Personal,Si,Si,Baja,5,Deportes,3,7,Cercanía,No,No,No Aplica,0
+Masculino,20,Urbana,Privada,40,Si,Ciencias Sociales,74,69,72,15,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,No,7,5,Si,Amigos/Familia,Si,Si,Baja,8,Arte,4,4,Vocación,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,8,No,Arte,63,75,70,25,Si,<5k,No,Padres,Local,Solo,Soltero,Ninguna,Si,6,4,No,Amigos/Familia,No,Si,Baja,4,Viajar,5,4,Renta Económica,Si,No,No Aplica,0
+Femenino,23,Urbana,Publica,29,No,Ingenieria,95,83,75,16,Si,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,5,3,Si,Gusto Personal,No,No,Alta,6,Viajar,4,5,Prestigio,No,Si,Problemas Familiares,1
+Masculino,18,Urbana,Privada,34,No,Humanidades,93,71,68,20,Si,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Visual,Si,7,4,No,Amigos/Familia,Si,No,Media,9,Tecnología,6,6,Renta Económica,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,31,Si,Humanidades,82,84,61,14,Si,<5k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,7,6,Si,Gusto Personal,Si,Si,Baja,8,Lectura,3,6,Cercanía,No,Si,Problemas Económicos,6
+Femenino,19,Urbana,Privada,20,No,Arte,80,58,64,22,Si,<5k,Si,Padres,Local,Solo,Soltero,Ninguna,Si,6,8,Si,Amigos/Familia,Si,Si,Media,5,Viajar,6,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,22,Rural,Privada,42,No,Ciencias Naturales,79,95,79,20,No,5k-10k,No,Otro,Local,Familia,Soltero,Ninguna,No,8,6,Si,Demanda Laboral,Si,No,Baja,10,Tecnología,5,7,Prestigio,No,Si,Problemas Económicos,4
+Masculino,16,Rural,Publica,32,Si,Ciencias Sociales,85,76,71,19,Si,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Cognitiva,Si,8,2,Si,Demanda Laboral,No,No,Baja,6,Lectura,9,7,Renta Económica,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,33,Si,Ciencias Naturales,70,77,76,17,No,10k-20k,Si,Padres,Local,Solo,Casado,Ninguna,No,5,8,Si,Gusto Personal,Si,Si,Media,9,Lectura,2,8,Renta Económica,Si,No,No Aplica,0
+Femenino,23,Rural,Privada,38,Si,Ciencias Naturales,89,65,84,10,No,>20k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,6,5,No,Gusto Personal,Si,No,Media,9,Arte,7,6,Vocación,No,No,No Aplica,0
+Femenino,23,Rural,Publica,40,Si,Ingenieria,94,76,40,22,Si,10k-20k,No,Otro,Local,Solo,Soltero,Ninguna,Si,6,2,No,Amigos/Familia,No,No,Alta,8,Tecnología,5,10,Prestigio,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,9,No,Humanidades,74,75,71,12,Si,<5k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,5,4,No,Demanda Laboral,No,Si,Media,7,Lectura,6,4,Prestigio,Si,No,No Aplica,0
+Femenino,23,Rural,Publica,50,Si,Humanidades,87,86,84,19,Si,5k-10k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,8,6,No,Amigos/Familia,Si,Si,Media,2,Arte,5,5,Cercanía,No,Si,Cambio de Carrera,4
+Masculino,22,Urbana,Privada,57,Si,Ingenieria,111,96,74,24,No,5k-10k,Si,Beca,Local,Amigos,Casado,Ninguna,Si,5,7,No,Gusto Personal,Si,Si,Alta,8,Tecnología,7,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,27,Si,Ingenieria,80,86,70,21,Si,>20k,Si,Beca,Foraneo,Otros,Soltero,Auditiva,No,7,7,No,Amigos/Familia,Si,No,Media,9,Viajar,3,9,Influencia Familiar,Si,No,No Aplica,0
+Masculino,20,Rural,Privada,32,No,Arte,71,65,72,21,No,10k-20k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,Si,7,5,No,Prestigio,Si,No,Alta,7,Tecnología,5,9,Vocación,No,No,No Aplica,0
+Masculino,23,Urbana,Privada,28,Si,Ingenieria,68,64,53,15,No,5k-10k,Si,Otro,Local,Solo,Soltero,Ninguna,No,9,6,Si,Gusto Personal,No,Si,Media,7,Lectura,10,10,Cercanía,No,Si,Problemas Académicos,3
+Masculino,20,Urbana,Privada,19,Si,Humanidades,83,63,76,10,Si,>20k,No,Beca,Local,Amigos,Soltero,Ninguna,No,6,6,Si,Gusto Personal,No,No,Alta,9,Arte,3,10,Vocación,Si,No,No Aplica,0
+Femenino,18,Rural,Publica,35,Si,Ingenieria,76,86,63,17,No,5k-10k,No,Beca,Foraneo,Otros,Soltero,Ninguna,No,5,6,No,Amigos/Familia,No,Si,Baja,10,Arte,4,7,Cercanía,Si,Si,Problemas Económicos,3
+Femenino,23,Rural,Privada,51,No,Ciencias Sociales,83,49,65,17,Si,<5k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,No,5,1,No,Prestigio,Si,No,Media,8,Lectura,3,7,Vocación,Si,Si,Otros,6
+Masculino,21,Urbana,Publica,33,Si,Ciencias Naturales,80,65,70,17,No,<5k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,No,3,5,No,Demanda Laboral,Si,Si,Media,5,Tecnología,2,9,Cercanía,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,45,No,Arte,65,74,84,22,No,<5k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,6,3,No,Sueldo,No,Si,Alta,7,Tecnología,7,7,Renta Económica,No,No,No Aplica,0
+Femenino,19,Rural,Privada,34,Si,Arte,67,94,84,14,Si,>20k,No,Padres,Local,Amigos,Soltero,Ninguna,Si,7,4,No,Sueldo,Si,Si,Alta,4,Arte,6,9,Renta Económica,No,No,No Aplica,0
+Masculino,19,Rural,Publica,33,Si,Ingenieria,89,82,70,13,No,<5k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,9,4,Si,Sueldo,No,No,Media,7,Lectura,6,4,Influencia Familiar,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,30,Si,Humanidades,85,79,72,13,Si,5k-10k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,Si,7,5,No,Gusto Personal,No,No,Media,8,Tecnología,8,7,Renta Económica,No,No,No Aplica,0
+Femenino,17,Urbana,Privada,24,Si,Ciencias Sociales,77,63,70,10,Si,5k-10k,No,Padres,Foraneo,Otros,Soltero,Ninguna,Si,8,4,No,Sueldo,Si,Si,Alta,8,Lectura,7,6,Cercanía,No,No,No Aplica,0
+Femenino,21,Rural,Publica,25,Si,Ciencias Sociales,63,61,99,17,No,5k-10k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,8,4,No,Prestigio,Si,No,Baja,9,Tecnología,3,8,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,44,No,Ciencias Sociales,91,69,48,17,No,<5k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,5,6,Si,Amigos/Familia,Si,Si,Media,3,Deportes,7,8,Influencia Familiar,Si,No,No Aplica,0
+Femenino,22,Urbana,Privada,33,Si,Arte,71,92,67,14,Si,5k-10k,Si,Padres,Local,Solo,Soltero,Ninguna,No,8,2,No,Amigos/Familia,Si,Si,Alta,8,Deportes,4,7,Renta Económica,No,Si,Otros,8
+Masculino,23,Urbana,Privada,24,Si,Arte,72,73,69,13,Si,<5k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,5,4,No,Gusto Personal,Si,No,Baja,9,Viajar,4,8,Influencia Familiar,No,Si,Otros,3
+Femenino,21,Urbana,Publica,39,No,Arte,67,79,55,13,Si,5k-10k,No,Trabajo Propio,Local,Amigos,Casado,Ninguna,No,5,8,No,Demanda Laboral,Si,No,Baja,7,Deportes,5,8,Vocación,No,No,No Aplica,0
+Masculino,19,Rural,Publica,35,Si,Arte,92,72,73,11,No,>20k,No,Padres,Foraneo,Amigos,Soltero,Ninguna,No,7,3,Si,Gusto Personal,Si,Si,Baja,9,Arte,6,6,Renta Económica,Si,No,No Aplica,0
+Femenino,19,Urbana,Publica,32,No,Ciencias Naturales,79,77,71,15,No,<5k,No,Padres,Foraneo,Amigos,Casado,Visual,No,4,7,Si,Gusto Personal,No,No,Baja,7,Viajar,7,6,Vocación,No,No,No Aplica,0
+Femenino,21,Urbana,Privada,33,No,Arte,79,87,62,11,No,<5k,No,Padres,Local,Familia,Soltero,Auditiva,Si,6,4,No,Amigos/Familia,No,No,Baja,8,Lectura,3,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,21,Rural,Publica,49,No,Ingenieria,79,81,63,12,Si,>20k,No,Beca,Local,Otros,Soltero,Ninguna,Si,7,7,Si,Demanda Laboral,Si,No,Alta,7,Arte,8,10,Influencia Familiar,No,Si,Problemas Académicos,7
+Femenino,20,Urbana,Publica,41,Si,Humanidades,64,70,68,9,Si,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,6,6,No,Prestigio,No,No,Alta,5,Arte,6,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Urbana,Publica,42,No,Ciencias Sociales,69,51,60,22,No,5k-10k,Si,Beca,Local,Solo,Soltero,Ninguna,Si,5,4,No,Demanda Laboral,No,No,Media,10,Viajar,5,7,Cercanía,No,No,No Aplica,0
+Masculino,21,Rural,Publica,26,Si,Humanidades,67,73,74,23,Si,<5k,No,Otro,Foraneo,Familia,Soltero,Ninguna,No,6,4,No,Gusto Personal,Si,Si,Media,10,Viajar,6,6,Vocación,No,No,No Aplica,0
+Masculino,20,Rural,Publica,46,Si,Ciencias Sociales,83,91,72,11,No,5k-10k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,5,6,Si,Gusto Personal,Si,Si,Alta,7,Viajar,3,5,Prestigio,Si,No,No Aplica,0
+Femenino,24,Rural,Publica,41,No,Ciencias Sociales,92,68,84,20,No,<5k,Si,Otro,Local,Solo,Soltero,Ninguna,No,9,6,No,Amigos/Familia,Si,No,Alta,6,Tecnología,5,10,Influencia Familiar,Si,Si,Cambio de Carrera,7
+Femenino,19,Rural,Privada,32,No,Ciencias Naturales,76,79,83,15,Si,5k-10k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,2,3,Si,Gusto Personal,Si,Si,Baja,8,Arte,1,5,Cercanía,No,Si,Cambio de Carrera,4
+Femenino,20,Rural,Privada,19,Si,Humanidades,92,71,60,15,Si,<5k,No,Trabajo Propio,Local,Amigos,Casado,Ninguna,No,7,8,No,Gusto Personal,No,No,Baja,9,Deportes,3,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Privada,35,No,Arte,75,77,69,18,No,5k-10k,No,Beca,Local,Familia,Soltero,Ninguna,No,5,3,No,Demanda Laboral,Si,No,Media,10,Viajar,3,8,Vocación,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,27,Si,Ciencias Sociales,55,83,64,9,Si,5k-10k,No,Otro,Local,Solo,Soltero,Ninguna,Si,6,6,Si,Prestigio,No,No,Alta,5,Viajar,7,9,Renta Económica,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,24,Si,Arte,71,77,68,9,No,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,7,8,Si,Amigos/Familia,No,No,Alta,7,Viajar,2,11,Cercanía,No,Si,Problemas Académicos,4
+Femenino,16,Rural,Publica,39,Si,Ciencias Sociales,68,67,65,18,No,10k-20k,Si,Padres,Local,Solo,Casado,Ninguna,Si,7,2,No,Sueldo,No,Si,Alta,6,Deportes,7,4,Influencia Familiar,No,Si,Otros,6
+Femenino,17,Urbana,Publica,24,No,Ciencias Sociales,82,74,75,13,Si,<5k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,No,5,7,Si,Demanda Laboral,Si,No,Media,6,Arte,6,6,Vocación,No,No,No Aplica,0
+Femenino,18,Urbana,Privada,26,Si,Humanidades,71,91,86,20,Si,5k-10k,No,Padres,Foraneo,Familia,Soltero,Ninguna,No,7,7,Si,Prestigio,Si,Si,Baja,9,Arte,5,8,Influencia Familiar,Si,No,No Aplica,0
+Femenino,17,Rural,Privada,41,No,Ciencias Naturales,89,77,71,14,Si,10k-20k,No,Padres,Foraneo,Otros,Divorciado,Ninguna,Si,4,1,Si,Amigos/Familia,Si,No,Baja,8,Lectura,3,7,Renta Económica,Si,No,No Aplica,0
+Masculino,23,Urbana,Privada,49,No,Ingenieria,62,76,74,16,Si,10k-20k,No,Otro,Local,Familia,Casado,Ninguna,No,7,5,Si,Amigos/Familia,No,Si,Baja,7,Deportes,5,6,Prestigio,Si,No,No Aplica,0
+Masculino,24,Urbana,Privada,41,Si,Ciencias Naturales,73,78,80,14,No,5k-10k,No,Beca,Local,Solo,Soltero,Ninguna,No,6,2,Si,Amigos/Familia,No,No,Baja,8,Deportes,7,8,Prestigio,Si,No,No Aplica,0
+Masculino,20,Rural,Publica,25,No,Ciencias Naturales,84,64,71,13,No,5k-10k,No,Otro,Local,Familia,Casado,Ninguna,Si,6,2,No,Demanda Laboral,Si,Si,Media,5,Arte,5,6,Renta Económica,No,Si,Problemas Económicos,4
+Femenino,21,Rural,Publica,32,Si,Ciencias Sociales,76,69,65,15,Si,5k-10k,No,Otro,Local,Otros,Soltero,Cognitiva,No,5,7,Si,Amigos/Familia,Si,Si,Alta,2,Viajar,8,6,Prestigio,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,37,No,Ciencias Naturales,79,73,83,17,No,5k-10k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,6,5,Si,Demanda Laboral,No,Si,Media,6,Viajar,3,7,Prestigio,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,37,Si,Ciencias Sociales,83,83,64,18,Si,>20k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,3,7,No,Demanda Laboral,No,Si,Baja,8,Arte,4,5,Prestigio,No,Si,Problemas Familiares,7
+Masculino,22,Urbana,Privada,23,No,Ciencias Sociales,71,81,68,16,No,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,4,3,Si,Prestigio,No,No,Alta,5,Arte,2,7,Influencia Familiar,No,Si,Otros,4
+Femenino,24,Urbana,Privada,27,No,Ingenieria,70,78,87,16,Si,>20k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,4,8,Si,Sueldo,Si,Si,Alta,7,Arte,4,6,Prestigio,No,No,No Aplica,0
+Femenino,15,Urbana,Privada,23,No,Ciencias Sociales,93,76,64,23,No,5k-10k,No,Padres,Local,Familia,Casado,Motriz,Si,8,1,No,Prestigio,No,Si,Baja,7,Deportes,4,6,Prestigio,No,No,No Aplica,0
+Femenino,21,Rural,Privada,24,No,Ciencias Sociales,100,87,65,20,Si,<5k,No,Otro,Foraneo,Amigos,Soltero,Ninguna,No,5,6,Si,Demanda Laboral,No,No,Media,7,Tecnología,0,6,Influencia Familiar,Si,Si,Problemas Económicos,7
+Femenino,22,Rural,Publica,17,No,Ciencias Sociales,88,77,76,11,Si,10k-20k,No,Padres,Local,Amigos,Soltero,Ninguna,No,5,5,Si,Sueldo,No,No,Media,6,Tecnología,8,7,Vocación,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,38,Si,Arte,97,78,78,26,Si,5k-10k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,Si,5,3,Si,Gusto Personal,No,No,Baja,3,Arte,1,3,Prestigio,No,Si,Problemas Familiares,8
+Femenino,17,Urbana,Publica,28,No,Arte,74,87,52,25,No,10k-20k,Si,Padres,Local,Amigos,Soltero,Ninguna,No,7,5,No,Demanda Laboral,Si,No,Baja,5,Viajar,7,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,17,Rural,Publica,31,No,Ingenieria,85,78,54,23,No,10k-20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,No,6,6,No,Gusto Personal,No,Si,Baja,8,Lectura,4,8,Vocación,Si,Si,Problemas Académicos,1
+Femenino,20,Rural,Publica,19,No,Ingenieria,77,87,67,20,No,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,Si,5,5,No,Prestigio,Si,No,Baja,6,Lectura,6,3,Prestigio,Si,No,No Aplica,0
+Femenino,18,Urbana,Privada,35,No,Humanidades,87,87,68,21,No,5k-10k,No,Otro,Foraneo,Otros,Soltero,Motriz,Si,5,8,Si,Demanda Laboral,No,Si,Baja,8,Arte,7,8,Vocación,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,17,Si,Ingenieria,80,90,57,23,No,<5k,No,Padres,Foraneo,Familia,Soltero,Ninguna,Si,8,2,No,Gusto Personal,No,Si,Baja,4,Arte,6,6,Vocación,Si,No,No Aplica,0
+Masculino,22,Urbana,Publica,42,Si,Ciencias Sociales,84,71,84,6,No,10k-20k,No,Otro,Local,Solo,Soltero,Auditiva,No,8,2,Si,Amigos/Familia,Si,Si,Alta,7,Lectura,6,8,Renta Económica,No,No,No Aplica,0
+Femenino,23,Urbana,Privada,36,No,Ciencias Sociales,70,72,73,12,No,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,Si,4,6,No,Gusto Personal,No,Si,Baja,8,Lectura,3,3,Renta Económica,No,No,No Aplica,0
+Femenino,17,Rural,Privada,29,Si,Ingenieria,72,70,58,17,No,<5k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,No,7,2,Si,Amigos/Familia,Si,Si,Media,7,Viajar,5,2,Influencia Familiar,Si,Si,Cambio de Carrera,6
+Masculino,19,Rural,Publica,41,No,Arte,79,70,64,16,No,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,6,6,Si,Sueldo,No,Si,Media,7,Deportes,5,9,Influencia Familiar,No,No,No Aplica,0
+Masculino,17,Rural,Publica,30,Si,Ingenieria,86,74,63,10,No,<5k,Si,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,6,3,No,Gusto Personal,No,Si,Media,7,Arte,6,4,Influencia Familiar,No,No,No Aplica,0
+Masculino,21,Rural,Privada,20,Si,Arte,79,76,77,15,No,10k-20k,No,Beca,Local,Solo,Casado,Ninguna,No,3,5,No,Demanda Laboral,No,Si,Media,5,Lectura,7,5,Cercanía,Si,No,No Aplica,0
+Femenino,19,Urbana,Privada,29,Si,Arte,77,84,63,21,No,10k-20k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,5,3,No,Sueldo,No,Si,Alta,9,Tecnología,4,4,Prestigio,Si,No,No Aplica,0
+Femenino,21,Urbana,Privada,36,Si,Humanidades,89,57,69,12,No,10k-20k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,7,5,No,Demanda Laboral,No,No,Media,13,Tecnología,4,10,Prestigio,No,No,No Aplica,0
+Masculino,22,Urbana,Privada,26,No,Arte,99,93,87,13,Si,<5k,Si,Padres,Local,Otros,Soltero,Ninguna,No,6,5,Si,Amigos/Familia,Si,No,Media,8,Arte,3,9,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,28,Si,Ciencias Naturales,78,77,80,13,No,5k-10k,No,Otro,Foraneo,Familia,Divorciado,Ninguna,Si,6,4,No,Amigos/Familia,Si,No,Baja,5,Lectura,5,9,Vocación,Si,Si,Problemas Económicos,1
+Masculino,20,Urbana,Publica,28,Si,Ciencias Naturales,81,63,86,16,Si,5k-10k,Si,Beca,Local,Otros,Casado,Visual,Si,5,8,No,Amigos/Familia,No,No,Media,5,Deportes,7,7,Prestigio,No,No,No Aplica,0
+Femenino,25,Urbana,Publica,37,No,Arte,97,83,71,23,No,5k-10k,No,Padres,Foraneo,Solo,Divorciado,Ninguna,No,6,8,Si,Gusto Personal,Si,No,Alta,5,Arte,4,7,Renta Económica,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,35,Si,Ingenieria,84,77,64,19,No,5k-10k,Si,Padres,Foraneo,Otros,Casado,Ninguna,Si,5,6,Si,Gusto Personal,Si,No,Media,10,Arte,3,8,Cercanía,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,32,Si,Arte,59,84,76,22,No,<5k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,7,5,Si,Demanda Laboral,No,Si,Alta,9,Deportes,6,8,Prestigio,No,Si,Otros,6
+Femenino,18,Urbana,Privada,35,Si,Ciencias Naturales,78,79,62,12,No,<5k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,5,2,No,Prestigio,No,Si,Baja,8,Tecnología,5,7,Prestigio,Si,No,No Aplica,0
+Masculino,21,Urbana,Publica,51,No,Ingenieria,70,87,71,9,Si,>20k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,Si,5,9,No,Demanda Laboral,No,Si,Alta,8,Tecnología,4,8,Renta Económica,No,Si,Problemas Familiares,1
+Femenino,17,Urbana,Privada,4,No,Ingenieria,85,69,55,11,No,>20k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,Si,5,6,Si,Prestigio,No,No,Media,9,Lectura,1,7,Prestigio,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,34,Si,Humanidades,84,79,89,10,No,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,6,8,Si,Gusto Personal,No,No,Media,8,Deportes,7,4,Influencia Familiar,Si,Si,Otros,6
+Masculino,19,Urbana,Publica,40,No,Humanidades,75,66,77,11,No,5k-10k,Si,Otro,Local,Otros,Soltero,Ninguna,No,7,6,Si,Prestigio,No,Si,Baja,5,Viajar,5,6,Vocación,No,No,No Aplica,0
+Masculino,15,Urbana,Publica,29,No,Ingenieria,66,59,68,23,Si,5k-10k,No,Padres,Foraneo,Amigos,Casado,Ninguna,No,6,6,Si,Prestigio,Si,Si,Alta,7,Deportes,8,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Urbana,Privada,21,Si,Ciencias Sociales,75,70,77,18,No,5k-10k,No,Otro,Foraneo,Amigos,Casado,Ninguna,Si,5,3,Si,Sueldo,Si,Si,Media,9,Deportes,2,5,Cercanía,No,No,No Aplica,0
+Masculino,23,Urbana,Publica,24,No,Humanidades,86,78,75,9,Si,<5k,Si,Trabajo Propio,Local,Familia,Soltero,Cognitiva,No,7,4,No,Prestigio,No,No,Media,6,Deportes,4,9,Vocación,No,No,No Aplica,0
+Masculino,18,Rural,Privada,12,Si,Arte,84,73,69,23,No,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,No,5,7,Si,Prestigio,No,Si,Alta,7,Tecnología,5,5,Vocación,No,Si,Problemas Económicos,3
+Femenino,15,Rural,Publica,32,Si,Humanidades,70,76,74,19,No,5k-10k,Si,Padres,Local,Otros,Soltero,Ninguna,Si,6,3,Si,Demanda Laboral,No,Si,Alta,6,Tecnología,9,10,Cercanía,No,Si,Problemas Económicos,2
+Femenino,21,Urbana,Privada,34,No,Humanidades,73,81,67,13,No,>20k,No,Padres,Foraneo,Familia,Soltero,Ninguna,No,5,5,No,Amigos/Familia,Si,Si,Baja,8,Arte,4,10,Cercanía,Si,Si,Problemas Familiares,3
+Masculino,20,Urbana,Privada,33,No,Arte,87,75,60,14,Si,5k-10k,Si,Trabajo Propio,Foraneo,Familia,Casado,Ninguna,No,4,4,Si,Demanda Laboral,Si,No,Baja,3,Viajar,4,10,Vocación,Si,No,No Aplica,0
+Masculino,23,Urbana,Publica,35,Si,Humanidades,79,78,65,25,No,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,5,6,Si,Prestigio,No,Si,Baja,5,Tecnología,3,10,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Privada,32,No,Arte,91,84,76,13,No,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,6,4,Si,Amigos/Familia,Si,Si,Alta,9,Viajar,1,5,Renta Económica,No,Si,Otros,7
+Femenino,21,Urbana,Privada,23,No,Ingenieria,71,76,59,17,Si,<5k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,7,7,No,Amigos/Familia,No,Si,Media,5,Arte,2,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,28,Si,Ingenieria,69,73,65,20,No,5k-10k,No,Otro,Foraneo,Familia,Soltero,Ninguna,No,7,5,No,Gusto Personal,No,No,Alta,3,Arte,7,8,Influencia Familiar,No,No,No Aplica,0
+Masculino,24,Urbana,Publica,19,Si,Ciencias Sociales,65,73,60,16,Si,<5k,Si,Otro,Local,Otros,Soltero,Ninguna,Si,8,3,Si,Prestigio,Si,Si,Media,4,Lectura,7,10,Prestigio,Si,Si,Problemas Familiares,6
+Femenino,19,Rural,Publica,10,Si,Humanidades,92,74,63,14,Si,<5k,No,Otro,Foraneo,Amigos,Soltero,Ninguna,No,7,1,Si,Gusto Personal,No,Si,Baja,9,Viajar,11,7,Cercanía,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,37,No,Humanidades,80,70,58,13,Si,10k-20k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,6,5,Si,Demanda Laboral,Si,Si,Media,11,Viajar,6,9,Renta Económica,No,Si,Cambio de Carrera,3
+Masculino,20,Urbana,Publica,40,Si,Humanidades,87,67,81,10,Si,<5k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,8,5,No,Prestigio,Si,Si,Alta,10,Tecnología,4,10,Cercanía,No,No,No Aplica,0
+Femenino,17,Rural,Privada,25,Si,Arte,94,65,86,22,No,5k-10k,No,Padres,Foraneo,Solo,Divorciado,Ninguna,Si,7,4,Si,Prestigio,No,No,Baja,10,Deportes,8,8,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Rural,Publica,40,Si,Ciencias Sociales,89,70,72,13,Si,<5k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,No,5,8,No,Gusto Personal,No,No,Baja,8,Deportes,2,7,Vocación,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,47,No,Ciencias Sociales,75,74,72,15,No,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,Si,3,7,No,Amigos/Familia,No,Si,Baja,5,Tecnología,6,3,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Urbana,Privada,28,Si,Ingenieria,80,73,64,12,No,5k-10k,No,Padres,Local,Amigos,Soltero,Ninguna,No,4,5,Si,Sueldo,Si,Si,Media,8,Tecnología,4,5,Prestigio,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,51,No,Ciencias Sociales,81,67,77,18,No,5k-10k,Si,Padres,Local,Otros,Soltero,Ninguna,No,7,6,Si,Prestigio,Si,Si,Media,6,Deportes,5,7,Vocación,Si,Si,Problemas Económicos,1
+Masculino,17,Urbana,Privada,8,Si,Humanidades,68,65,80,8,No,10k-20k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,6,5,No,Gusto Personal,No,Si,Alta,10,Deportes,3,8,Prestigio,Si,No,No Aplica,0
+Masculino,24,Urbana,Privada,42,No,Ciencias Naturales,95,75,89,12,No,10k-20k,Si,Beca,Local,Otros,Soltero,Ninguna,No,7,6,Si,Demanda Laboral,Si,Si,Baja,8,Lectura,6,8,Vocación,Si,No,No Aplica,0
+Femenino,18,Rural,Privada,13,Si,Arte,73,90,49,19,No,<5k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,6,4,Si,Demanda Laboral,No,No,Baja,8,Viajar,6,8,Vocación,Si,No,No Aplica,0
+Masculino,25,Urbana,Privada,22,Si,Ciencias Naturales,81,63,82,23,Si,<5k,No,Otro,Local,Familia,Soltero,Ninguna,No,5,4,No,Sueldo,No,No,Baja,7,Deportes,9,9,Prestigio,Si,No,No Aplica,0
+Masculino,22,Rural,Privada,33,Si,Humanidades,87,66,64,22,Si,<5k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,8,5,No,Sueldo,No,No,Baja,8,Deportes,4,6,Renta Económica,Si,No,No Aplica,0
+Femenino,22,Urbana,Publica,22,No,Ingenieria,79,77,70,14,Si,10k-20k,No,Trabajo Propio,Local,Otros,Casado,Cognitiva,No,4,5,Si,Sueldo,Si,Si,Alta,6,Arte,5,5,Vocación,No,Si,Otros,7
+Femenino,20,Urbana,Privada,42,Si,Ingenieria,101,90,86,16,No,5k-10k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,No,6,3,No,Prestigio,Si,Si,Alta,8,Lectura,8,9,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Privada,29,Si,Ciencias Naturales,78,60,63,13,Si,10k-20k,Si,Beca,Local,Amigos,Soltero,Ninguna,Si,5,7,No,Amigos/Familia,No,Si,Alta,7,Viajar,5,9,Prestigio,Si,Si,Problemas Económicos,3
+Femenino,20,Urbana,Publica,9,No,Ingenieria,83,79,75,15,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,No,6,4,Si,Prestigio,No,No,Alta,7,Viajar,4,9,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Publica,30,No,Humanidades,79,73,43,12,No,<5k,No,Beca,Foraneo,Solo,Soltero,Ninguna,Si,5,3,Si,Amigos/Familia,No,No,Media,9,Tecnología,2,8,Vocación,Si,Si,Problemas Académicos,1
+Masculino,24,Rural,Privada,32,Si,Ciencias Sociales,70,92,72,17,No,10k-20k,Si,Beca,Local,Familia,Soltero,Ninguna,Si,4,6,Si,Demanda Laboral,Si,No,Alta,7,Arte,6,8,Vocación,Si,No,No Aplica,0
+Femenino,19,Urbana,Privada,28,Si,Ciencias Naturales,91,75,87,12,Si,<5k,No,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,2,No,Demanda Laboral,No,No,Alta,3,Arte,7,7,Renta Económica,Si,Si,Problemas Académicos,3
+Femenino,22,Urbana,Privada,27,No,Ingenieria,79,71,57,20,Si,<5k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,6,6,Si,Sueldo,Si,Si,Media,9,Tecnología,5,7,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Urbana,Privada,35,Si,Humanidades,82,87,70,22,No,5k-10k,No,Otro,Local,Otros,Soltero,Ninguna,Si,6,6,No,Demanda Laboral,Si,No,Baja,8,Deportes,4,4,Prestigio,Si,No,No Aplica,0
+Femenino,19,Urbana,Privada,52,Si,Ciencias Naturales,73,75,71,17,Si,10k-20k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,7,3,No,Gusto Personal,Si,No,Alta,5,Tecnología,7,9,Cercanía,No,Si,Otros,4
+Masculino,19,Urbana,Publica,33,Si,Ingenieria,76,76,81,18,No,>20k,Si,Otro,Foraneo,Amigos,Soltero,Ninguna,No,4,11,Si,Demanda Laboral,No,No,Alta,7,Viajar,6,7,Renta Económica,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,49,No,Ciencias Sociales,77,84,74,17,No,5k-10k,No,Beca,Foraneo,Familia,Divorciado,Motriz,Si,6,6,No,Gusto Personal,No,No,Alta,11,Arte,4,9,Cercanía,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,49,No,Arte,64,83,66,19,Si,10k-20k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,9,6,No,Sueldo,No,Si,Alta,8,Viajar,5,6,Renta Económica,No,No,No Aplica,0
+Femenino,14,Rural,Privada,44,Si,Ciencias Naturales,99,70,91,23,Si,10k-20k,Si,Beca,Foraneo,Familia,Soltero,Motriz,Si,4,4,Si,Gusto Personal,No,No,Media,6,Arte,4,8,Vocación,Si,No,No Aplica,0
+Masculino,17,Urbana,Publica,48,Si,Ciencias Sociales,94,68,73,11,No,5k-10k,No,Trabajo Propio,Local,Amigos,Soltero,Ninguna,No,7,4,Si,Gusto Personal,No,No,Baja,8,Viajar,5,4,Influencia Familiar,Si,No,No Aplica,0
+Masculino,23,Rural,Privada,31,No,Arte,79,81,72,12,No,5k-10k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,No,6,8,Si,Prestigio,Si,Si,Alta,8,Viajar,10,6,Renta Económica,Si,No,No Aplica,0
+Masculino,22,Urbana,Privada,36,No,Ingenieria,67,91,69,16,Si,10k-20k,Si,Beca,Local,Familia,Casado,Ninguna,No,6,7,No,Prestigio,No,No,Media,5,Deportes,6,7,Influencia Familiar,Si,Si,Otros,6
+Masculino,21,Urbana,Privada,18,No,Ciencias Naturales,93,66,76,18,Si,5k-10k,No,Beca,Local,Amigos,Divorciado,Ninguna,Si,7,8,Si,Demanda Laboral,Si,No,Media,8,Arte,3,6,Renta Económica,No,No,No Aplica,0
+Masculino,19,Urbana,Publica,36,Si,Ingenieria,95,87,70,8,No,<5k,No,Beca,Foraneo,Otros,Casado,Ninguna,Si,7,7,Si,Gusto Personal,No,No,Alta,6,Arte,0,8,Cercanía,No,No,No Aplica,0
+Femenino,20,Urbana,Publica,25,Si,Arte,100,88,56,19,No,<5k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,Si,6,8,Si,Sueldo,Si,No,Media,6,Lectura,3,8,Prestigio,Si,No,No Aplica,0
+Masculino,23,Rural,Privada,41,No,Arte,65,91,82,18,No,<5k,Si,Beca,Foraneo,Familia,Divorciado,Ninguna,Si,9,5,Si,Demanda Laboral,Si,No,Baja,6,Deportes,3,5,Renta Económica,No,Si,Problemas Académicos,7
+Femenino,20,Rural,Privada,20,No,Humanidades,85,78,66,14,Si,5k-10k,No,Otro,Local,Amigos,Casado,Ninguna,Si,7,2,No,Demanda Laboral,No,Si,Baja,4,Arte,4,7,Renta Económica,Si,No,No Aplica,0
+Femenino,18,Urbana,Privada,28,Si,Humanidades,87,84,71,17,Si,10k-20k,No,Beca,Local,Familia,Soltero,Ninguna,No,6,6,Si,Demanda Laboral,No,No,Alta,9,Arte,11,10,Renta Económica,Si,No,No Aplica,0
+Masculino,18,Rural,Privada,21,No,Arte,74,71,71,15,Si,<5k,Si,Padres,Local,Amigos,Soltero,Motriz,Si,8,8,Si,Demanda Laboral,Si,No,Media,5,Deportes,2,3,Vocación,No,No,No Aplica,0
+Masculino,19,Rural,Privada,28,Si,Ciencias Naturales,85,74,72,19,Si,<5k,Si,Trabajo Propio,Local,Amigos,Soltero,Ninguna,Si,5,6,Si,Prestigio,Si,No,Media,9,Arte,6,4,Prestigio,Si,Si,Cambio de Carrera,6
+Masculino,20,Urbana,Privada,32,No,Ingenieria,86,85,75,13,Si,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,No,7,7,No,Amigos/Familia,No,No,Baja,7,Tecnología,6,8,Renta Económica,No,Si,Problemas Familiares,3
+Masculino,20,Rural,Publica,31,No,Ciencias Naturales,71,70,69,13,Si,<5k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,Si,6,8,No,Gusto Personal,Si,No,Media,6,Deportes,3,9,Prestigio,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,25,No,Ciencias Sociales,83,80,58,4,No,5k-10k,Si,Otro,Foraneo,Solo,Soltero,Visual,No,6,5,No,Gusto Personal,Si,Si,Alta,6,Arte,3,8,Cercanía,No,Si,Cambio de Carrera,5
+Femenino,23,Rural,Publica,31,No,Ciencias Sociales,71,68,85,11,Si,>20k,Si,Beca,Local,Amigos,Soltero,Ninguna,No,6,6,No,Amigos/Familia,Si,Si,Media,5,Viajar,4,9,Influencia Familiar,Si,Si,Problemas Académicos,1
+Femenino,20,Rural,Privada,15,No,Ingenieria,73,79,63,16,Si,5k-10k,No,Padres,Local,Solo,Soltero,Auditiva,No,7,5,No,Amigos/Familia,No,Si,Alta,8,Deportes,7,9,Cercanía,Si,No,No Aplica,0
+Masculino,17,Rural,Privada,14,No,Ciencias Sociales,97,86,64,18,No,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,Si,5,4,Si,Amigos/Familia,No,Si,Media,7,Tecnología,2,3,Renta Económica,No,Si,Otros,3
+Femenino,16,Rural,Privada,40,No,Ciencias Sociales,84,70,51,11,No,>20k,No,Beca,Local,Otros,Soltero,Cognitiva,No,8,4,No,Prestigio,No,No,Media,7,Arte,4,9,Cercanía,Si,Si,Problemas Familiares,2
+Masculino,21,Urbana,Publica,32,Si,Arte,86,67,77,15,No,10k-20k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,8,9,Si,Demanda Laboral,Si,No,Alta,6,Viajar,7,7,Influencia Familiar,Si,No,No Aplica,0
+Femenino,22,Rural,Publica,34,Si,Ingenieria,59,74,74,16,Si,>20k,Si,Otro,Foraneo,Amigos,Casado,Visual,Si,7,3,No,Sueldo,No,No,Baja,6,Tecnología,6,6,Renta Económica,Si,No,No Aplica,0
+Femenino,19,Urbana,Privada,17,Si,Ingenieria,58,67,73,13,No,<5k,Si,Beca,Local,Otros,Soltero,Ninguna,Si,8,6,Si,Prestigio,No,No,Baja,7,Arte,2,9,Vocación,Si,No,No Aplica,0
+Femenino,22,Urbana,Privada,28,Si,Ciencias Naturales,78,71,87,16,Si,10k-20k,Si,Beca,Local,Familia,Soltero,Ninguna,No,6,4,No,Prestigio,Si,Si,Media,5,Deportes,4,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,19,Rural,Privada,35,No,Ingenieria,75,60,84,16,No,5k-10k,Si,Padres,Local,Amigos,Soltero,Ninguna,Si,7,4,Si,Demanda Laboral,No,Si,Alta,7,Arte,5,6,Cercanía,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,25,Si,Arte,86,74,67,19,Si,<5k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,Si,7,7,Si,Demanda Laboral,Si,Si,Media,5,Tecnología,0,10,Prestigio,No,Si,Cambio de Carrera,8
+Femenino,18,Urbana,Privada,28,Si,Arte,89,71,79,17,No,10k-20k,No,Beca,Local,Otros,Casado,Ninguna,Si,5,7,No,Sueldo,Si,Si,Alta,7,Arte,4,7,Renta Económica,No,No,No Aplica,0
+Masculino,18,Urbana,Publica,28,Si,Ingenieria,97,76,65,14,Si,5k-10k,No,Padres,Local,Solo,Soltero,Ninguna,Si,4,9,No,Sueldo,Si,Si,Alta,6,Tecnología,6,9,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,33,No,Ciencias Sociales,81,81,75,12,No,10k-20k,Si,Otro,Local,Amigos,Casado,Ninguna,Si,8,5,No,Prestigio,No,Si,Media,11,Viajar,5,4,Cercanía,Si,No,No Aplica,0
+Femenino,22,Rural,Publica,40,No,Ciencias Naturales,80,85,64,16,No,<5k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,4,5,Si,Amigos/Familia,No,Si,Alta,4,Viajar,4,7,Vocación,No,Si,Problemas Familiares,4
+Femenino,18,Rural,Privada,18,No,Arte,68,69,69,19,No,10k-20k,Si,Padres,Local,Otros,Soltero,Ninguna,No,5,3,No,Demanda Laboral,No,No,Alta,7,Deportes,4,8,Cercanía,No,No,No Aplica,0
+Masculino,20,Rural,Publica,30,No,Humanidades,97,82,59,14,Si,5k-10k,No,Padres,Local,Otros,Casado,Ninguna,Si,5,5,Si,Sueldo,Si,No,Baja,6,Viajar,5,9,Prestigio,No,No,No Aplica,0
+Femenino,20,Rural,Publica,54,Si,Ciencias Sociales,89,66,83,15,Si,<5k,No,Padres,Foraneo,Familia,Divorciado,Ninguna,Si,5,7,Si,Gusto Personal,No,Si,Alta,8,Tecnología,4,5,Influencia Familiar,Si,No,No Aplica,0
+Femenino,21,Rural,Publica,17,Si,Humanidades,80,81,69,13,Si,<5k,No,Otro,Foraneo,Solo,Soltero,Ninguna,No,3,5,Si,Sueldo,Si,No,Alta,4,Arte,5,7,Renta Económica,Si,Si,Problemas Familiares,2
+Femenino,20,Urbana,Publica,28,Si,Arte,95,67,85,23,No,5k-10k,No,Beca,Local,Solo,Soltero,Ninguna,No,6,6,No,Prestigio,Si,Si,Media,5,Arte,6,7,Cercanía,No,No,No Aplica,0
+Masculino,23,Rural,Privada,30,No,Ingenieria,65,73,85,15,Si,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Motriz,No,4,4,No,Amigos/Familia,Si,No,Alta,10,Arte,6,8,Influencia Familiar,No,No,No Aplica,0
+Masculino,19,Rural,Privada,25,No,Humanidades,89,68,62,12,Si,5k-10k,No,Otro,Foraneo,Otros,Soltero,Ninguna,Si,4,5,No,Prestigio,Si,Si,Media,6,Lectura,5,12,Renta Económica,No,Si,Problemas Familiares,8
+Masculino,19,Urbana,Publica,23,Si,Ingenieria,81,80,67,15,No,>20k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,No,6,7,Si,Amigos/Familia,No,No,Media,8,Viajar,8,11,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Publica,31,Si,Ingenieria,82,96,72,16,No,5k-10k,No,Otro,Local,Familia,Soltero,Cognitiva,No,7,2,Si,Prestigio,No,No,Baja,6,Lectura,11,7,Prestigio,Si,No,No Aplica,0
+Masculino,25,Urbana,Privada,24,Si,Ciencias Naturales,85,55,80,26,Si,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,Si,6,7,Si,Sueldo,No,No,Alta,9,Tecnología,2,11,Vocación,No,Si,Problemas Familiares,4
+Masculino,21,Urbana,Publica,39,No,Ciencias Naturales,76,86,66,13,No,10k-20k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,6,4,Si,Gusto Personal,Si,Si,Media,10,Tecnología,7,5,Vocación,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,43,Si,Arte,80,84,63,12,Si,<5k,Si,Trabajo Propio,Foraneo,Amigos,Soltero,Visual,Si,5,5,Si,Demanda Laboral,Si,No,Baja,5,Tecnología,4,10,Vocación,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,22,Si,Ciencias Sociales,90,62,81,17,No,<5k,Si,Padres,Foraneo,Solo,Casado,Visual,Si,6,4,No,Sueldo,Si,Si,Media,9,Lectura,7,9,Cercanía,No,Si,Problemas Económicos,5
+Masculino,21,Rural,Publica,34,Si,Humanidades,81,82,73,19,No,10k-20k,No,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,4,4,No,Gusto Personal,Si,No,Alta,7,Viajar,3,8,Vocación,No,No,No Aplica,0
+Femenino,21,Urbana,Privada,25,No,Humanidades,67,92,64,10,Si,<5k,No,Trabajo Propio,Local,Familia,Divorciado,Ninguna,No,9,3,No,Amigos/Familia,No,No,Media,8,Deportes,2,10,Vocación,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,27,Si,Arte,98,73,65,25,No,10k-20k,Si,Padres,Foraneo,Solo,Soltero,Visual,No,6,6,No,Amigos/Familia,Si,Si,Media,6,Tecnología,7,6,Cercanía,Si,Si,Problemas Académicos,6
+Femenino,19,Urbana,Privada,29,Si,Ciencias Sociales,82,70,86,7,Si,<5k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,No,6,5,No,Demanda Laboral,No,Si,Baja,9,Lectura,5,3,Vocación,Si,No,No Aplica,0
+Femenino,19,Rural,Publica,15,No,Humanidades,90,81,68,7,Si,5k-10k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,9,6,Si,Amigos/Familia,No,Si,Media,8,Viajar,7,10,Cercanía,No,No,No Aplica,0
+Masculino,15,Rural,Privada,22,Si,Arte,73,91,82,9,No,<5k,No,Otro,Foraneo,Familia,Soltero,Ninguna,Si,7,7,No,Prestigio,No,Si,Alta,8,Lectura,4,4,Renta Económica,No,No,No Aplica,0
+Masculino,19,Rural,Publica,48,No,Ingenieria,89,68,72,18,Si,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,5,6,Si,Sueldo,Si,No,Media,10,Deportes,6,11,Vocación,No,No,No Aplica,0
+Masculino,16,Rural,Publica,15,No,Ciencias Sociales,67,61,59,13,Si,>20k,Si,Otro,Local,Familia,Soltero,Ninguna,Si,7,5,No,Demanda Laboral,No,Si,Alta,6,Tecnología,8,5,Vocación,No,No,No Aplica,0
+Masculino,22,Rural,Privada,51,No,Ciencias Sociales,70,93,72,12,Si,5k-10k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,4,5,Si,Gusto Personal,No,No,Baja,7,Deportes,3,6,Cercanía,No,No,No Aplica,0
+Masculino,22,Rural,Publica,33,Si,Arte,86,51,66,18,Si,5k-10k,No,Beca,Foraneo,Otros,Soltero,Ninguna,Si,5,7,No,Demanda Laboral,Si,No,Baja,4,Tecnología,6,6,Renta Económica,No,No,No Aplica,0
+Masculino,21,Urbana,Privada,25,Si,Ciencias Naturales,89,78,71,15,No,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,Si,4,4,No,Gusto Personal,Si,No,Baja,6,Viajar,4,5,Cercanía,Si,No,No Aplica,0
+Masculino,20,Urbana,Privada,35,No,Arte,69,81,92,11,No,10k-20k,Si,Padres,Local,Familia,Divorciado,Ninguna,Si,5,4,No,Sueldo,No,No,Media,7,Lectura,5,8,Prestigio,No,Si,Problemas Familiares,8
+Femenino,18,Rural,Publica,32,No,Ciencias Naturales,91,75,71,16,Si,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,No,7,8,Si,Gusto Personal,No,Si,Baja,7,Tecnología,2,8,Prestigio,Si,Si,Problemas Familiares,7
+Masculino,19,Rural,Publica,27,No,Ciencias Naturales,89,66,65,20,No,5k-10k,No,Padres,Local,Otros,Soltero,Cognitiva,No,9,5,Si,Prestigio,Si,Si,Baja,8,Viajar,3,6,Cercanía,Si,Si,Otros,5
+Masculino,20,Urbana,Publica,21,No,Ciencias Naturales,72,80,50,18,No,5k-10k,Si,Otro,Local,Familia,Soltero,Ninguna,Si,4,3,Si,Prestigio,Si,Si,Media,8,Tecnología,-2,6,Prestigio,Si,No,No Aplica,0
+Masculino,21,Rural,Publica,29,Si,Ciencias Naturales,64,66,73,17,No,10k-20k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,5,4,No,Sueldo,Si,Si,Alta,9,Deportes,6,5,Influencia Familiar,No,Si,Problemas Familiares,2
+Masculino,20,Rural,Privada,51,No,Arte,82,59,73,8,No,>20k,No,Otro,Foraneo,Amigos,Soltero,Ninguna,Si,4,5,No,Sueldo,Si,No,Baja,5,Arte,3,8,Vocación,No,Si,Problemas Familiares,4
+Femenino,19,Urbana,Privada,28,No,Humanidades,74,69,81,9,Si,<5k,No,Padres,Local,Familia,Soltero,Ninguna,Si,7,4,Si,Demanda Laboral,Si,No,Media,4,Tecnología,4,7,Prestigio,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,36,No,Arte,97,76,77,15,Si,<5k,No,Beca,Local,Solo,Soltero,Ninguna,No,4,3,Si,Demanda Laboral,Si,Si,Media,7,Lectura,7,8,Vocación,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,46,No,Ciencias Sociales,97,76,73,10,Si,5k-10k,Si,Otro,Local,Familia,Casado,Ninguna,Si,4,3,No,Prestigio,Si,No,Media,3,Tecnología,4,3,Influencia Familiar,Si,No,No Aplica,0
+Femenino,17,Rural,Publica,40,No,Ingenieria,82,68,62,16,Si,5k-10k,No,Trabajo Propio,Foraneo,Amigos,Casado,Ninguna,No,5,2,Si,Prestigio,Si,No,Baja,5,Tecnología,7,9,Prestigio,No,Si,Problemas Académicos,2
+Masculino,21,Rural,Privada,24,No,Arte,62,73,61,21,Si,<5k,Si,Padres,Foraneo,Otros,Soltero,Cognitiva,Si,5,3,Si,Demanda Laboral,No,Si,Alta,7,Deportes,8,8,Vocación,No,No,No Aplica,0
+Femenino,21,Rural,Privada,27,No,Ingenieria,88,82,75,14,No,<5k,No,Beca,Local,Familia,Casado,Ninguna,No,7,1,No,Demanda Laboral,Si,No,Baja,8,Arte,4,6,Vocación,Si,No,No Aplica,0
+Femenino,21,Urbana,Publica,37,Si,Ciencias Naturales,84,71,57,15,No,5k-10k,No,Otro,Local,Otros,Casado,Ninguna,No,7,4,No,Demanda Laboral,Si,No,Baja,5,Deportes,5,11,Renta Económica,Si,No,No Aplica,0
+Masculino,16,Urbana,Publica,37,Si,Arte,72,73,63,8,Si,<5k,No,Trabajo Propio,Local,Solo,Soltero,Ninguna,Si,7,3,Si,Amigos/Familia,Si,No,Alta,9,Deportes,8,6,Vocación,Si,No,No Aplica,0
+Masculino,19,Urbana,Privada,24,Si,Ciencias Naturales,93,87,82,8,Si,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,4,7,No,Demanda Laboral,Si,No,Baja,4,Arte,3,8,Vocación,No,No,No Aplica,0
+Femenino,21,Urbana,Privada,30,Si,Ingenieria,63,70,78,15,Si,>20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,Si,8,4,Si,Gusto Personal,No,Si,Media,8,Viajar,4,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Rural,Privada,27,Si,Arte,73,84,67,10,No,10k-20k,No,Beca,Local,Solo,Soltero,Ninguna,Si,7,7,No,Prestigio,Si,Si,Alta,9,Tecnología,2,6,Cercanía,Si,No,No Aplica,0
+Femenino,20,Urbana,Privada,10,Si,Arte,76,81,67,16,Si,5k-10k,No,Padres,Local,Otros,Soltero,Ninguna,Si,5,9,Si,Demanda Laboral,No,No,Media,11,Lectura,5,4,Prestigio,Si,Si,Problemas Económicos,2
+Femenino,19,Rural,Privada,33,Si,Arte,68,87,59,3,No,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,Si,4,4,No,Demanda Laboral,Si,No,Alta,5,Tecnología,3,6,Vocación,Si,Si,Otros,4
+Masculino,21,Rural,Publica,42,Si,Ciencias Sociales,106,73,71,12,Si,5k-10k,No,Padres,Local,Amigos,Soltero,Ninguna,No,4,5,Si,Demanda Laboral,No,Si,Media,8,Arte,8,14,Prestigio,Si,No,No Aplica,0
+Femenino,21,Rural,Privada,33,No,Ingenieria,79,81,71,18,No,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,No,8,5,No,Gusto Personal,No,Si,Alta,9,Viajar,7,2,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Rural,Publica,26,No,Arte,85,88,72,3,Si,<5k,No,Padres,Foraneo,Solo,Soltero,Ninguna,Si,4,3,Si,Demanda Laboral,Si,No,Media,6,Viajar,4,8,Prestigio,No,Si,Problemas Económicos,1
+Femenino,22,Rural,Privada,32,No,Ciencias Sociales,76,82,78,12,No,10k-20k,Si,Padres,Local,Otros,Casado,Ninguna,Si,5,4,No,Prestigio,Si,No,Alta,6,Deportes,6,7,Prestigio,No,Si,Otros,5
+Femenino,19,Urbana,Privada,37,No,Humanidades,92,64,69,14,No,<5k,No,Trabajo Propio,Foraneo,Amigos,Soltero,Ninguna,Si,6,3,Si,Amigos/Familia,No,Si,Baja,6,Deportes,4,11,Cercanía,No,No,No Aplica,0
+Femenino,20,Urbana,Privada,14,No,Ingenieria,86,67,90,7,No,<5k,Si,Beca,Foraneo,Solo,Soltero,Ninguna,No,7,5,No,Demanda Laboral,Si,Si,Alta,8,Arte,5,5,Prestigio,No,No,No Aplica,0
+Femenino,21,Rural,Publica,24,Si,Ciencias Naturales,99,89,77,12,Si,10k-20k,No,Otro,Local,Otros,Soltero,Ninguna,Si,5,5,No,Gusto Personal,Si,No,Media,6,Lectura,5,7,Vocación,No,No,No Aplica,0
+Masculino,19,Urbana,Privada,36,Si,Arte,76,69,76,13,Si,<5k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,6,7,No,Prestigio,No,No,Baja,4,Deportes,4,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Urbana,Publica,31,No,Ciencias Naturales,62,76,69,12,No,10k-20k,No,Padres,Local,Solo,Soltero,Ninguna,Si,5,3,Si,Amigos/Familia,Si,No,Baja,8,Lectura,7,8,Renta Económica,Si,Si,Problemas Económicos,2
+Femenino,19,Rural,Privada,29,No,Ciencias Sociales,67,68,77,11,Si,<5k,No,Otro,Local,Amigos,Soltero,Cognitiva,No,7,7,No,Demanda Laboral,Si,No,Media,4,Arte,4,6,Renta Económica,Si,No,No Aplica,0
+Femenino,22,Rural,Privada,49,Si,Humanidades,70,75,85,19,No,<5k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,No,5,2,Si,Amigos/Familia,No,Si,Baja,6,Lectura,7,4,Prestigio,Si,Si,Cambio de Carrera,2
+Masculino,21,Urbana,Privada,15,Si,Humanidades,89,111,81,9,No,>20k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,4,5,No,Amigos/Familia,No,No,Alta,7,Arte,4,5,Renta Económica,Si,Si,Cambio de Carrera,3
+Femenino,21,Urbana,Privada,16,Si,Ingenieria,70,83,75,20,No,5k-10k,No,Beca,Local,Familia,Soltero,Ninguna,Si,6,5,Si,Prestigio,Si,Si,Media,10,Tecnología,6,7,Cercanía,No,No,No Aplica,0
+Femenino,18,Urbana,Publica,29,Si,Ingenieria,83,78,60,20,Si,5k-10k,No,Trabajo Propio,Foraneo,Otros,Soltero,Ninguna,No,7,4,No,Gusto Personal,Si,No,Alta,7,Lectura,5,4,Prestigio,Si,No,No Aplica,0
+Masculino,18,Rural,Publica,39,No,Humanidades,86,85,90,17,Si,>20k,No,Padres,Local,Amigos,Soltero,Ninguna,No,3,4,Si,Amigos/Familia,No,No,Media,2,Deportes,3,4,Renta Económica,Si,No,No Aplica,0
+Masculino,22,Urbana,Publica,24,No,Arte,77,76,71,17,Si,>20k,Si,Padres,Foraneo,Amigos,Soltero,Ninguna,Si,6,5,No,Sueldo,Si,No,Media,5,Arte,2,8,Influencia Familiar,Si,No,No Aplica,0
+Masculino,22,Rural,Privada,14,Si,Ciencias Sociales,84,67,65,12,Si,5k-10k,Si,Padres,Local,Familia,Soltero,Ninguna,No,8,5,Si,Gusto Personal,Si,No,Alta,7,Viajar,6,4,Cercanía,Si,No,No Aplica,0
+Femenino,22,Urbana,Publica,21,No,Ciencias Sociales,80,81,69,16,No,5k-10k,Si,Trabajo Propio,Foraneo,Solo,Casado,Ninguna,No,8,6,No,Demanda Laboral,No,No,Alta,12,Deportes,3,10,Prestigio,No,Si,Otros,5
+Masculino,19,Rural,Privada,24,No,Arte,67,66,87,13,No,<5k,Si,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,6,4,Si,Amigos/Familia,No,Si,Alta,5,Lectura,7,7,Cercanía,No,No,No Aplica,0
+Femenino,21,Urbana,Publica,39,Si,Ciencias Naturales,78,75,69,20,Si,10k-20k,No,Padres,Local,Solo,Casado,Ninguna,Si,6,5,No,Demanda Laboral,No,No,Media,6,Tecnología,2,9,Cercanía,No,No,No Aplica,0
+Femenino,18,Rural,Privada,28,Si,Ciencias Sociales,73,76,59,16,Si,<5k,Si,Padres,Foraneo,Otros,Soltero,Ninguna,Si,8,7,No,Amigos/Familia,No,No,Baja,8,Deportes,7,6,Influencia Familiar,No,No,No Aplica,0
+Masculino,22,Rural,Publica,20,No,Ciencias Sociales,97,81,63,6,Si,5k-10k,Si,Padres,Local,Solo,Soltero,Auditiva,Si,8,8,Si,Prestigio,Si,No,Baja,9,Arte,4,7,Renta Económica,No,No,No Aplica,0
+Masculino,21,Rural,Publica,33,Si,Ingenieria,98,55,87,25,Si,>20k,No,Padres,Local,Amigos,Casado,Visual,Si,3,6,No,Prestigio,No,No,Media,9,Deportes,6,9,Influencia Familiar,Si,No,No Aplica,0
+Masculino,19,Rural,Privada,18,No,Ciencias Naturales,76,80,56,19,No,10k-20k,No,Padres,Foraneo,Solo,Casado,Ninguna,Si,3,5,Si,Gusto Personal,Si,Si,Baja,6,Viajar,1,7,Renta Económica,No,No,No Aplica,0
+Masculino,21,Rural,Publica,39,Si,Humanidades,70,49,69,16,Si,5k-10k,No,Otro,Local,Amigos,Soltero,Ninguna,Si,4,3,Si,Gusto Personal,No,Si,Media,11,Deportes,4,8,Cercanía,No,No,No Aplica,0
+Masculino,19,Rural,Privada,26,No,Ciencias Sociales,57,72,84,20,Si,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,7,6,No,Amigos/Familia,Si,No,Alta,3,Arte,4,10,Renta Económica,Si,No,No Aplica,0
+Masculino,19,Rural,Publica,55,No,Arte,78,78,82,13,Si,5k-10k,Si,Padres,Foraneo,Solo,Soltero,Ninguna,Si,7,5,Si,Sueldo,No,No,Media,10,Tecnología,2,6,Influencia Familiar,No,No,No Aplica,0
+Femenino,18,Rural,Privada,48,Si,Arte,81,58,71,12,No,5k-10k,No,Padres,Foraneo,Solo,Soltero,Ninguna,Si,9,6,Si,Prestigio,Si,No,Media,8,Deportes,7,5,Prestigio,No,No,No Aplica,0
+Masculino,22,Urbana,Publica,36,No,Ciencias Naturales,68,77,72,7,No,<5k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,5,4,Si,Amigos/Familia,No,No,Baja,8,Tecnología,7,7,Cercanía,Si,Si,Otros,5
+Masculino,24,Urbana,Publica,24,Si,Ciencias Sociales,66,69,76,18,Si,5k-10k,No,Otro,Foraneo,Amigos,Divorciado,Ninguna,Si,8,2,Si,Gusto Personal,No,No,Baja,6,Viajar,6,9,Renta Económica,No,No,No Aplica,0
+Femenino,23,Rural,Privada,26,No,Ciencias Sociales,81,69,55,11,Si,5k-10k,Si,Otro,Local,Amigos,Soltero,Ninguna,Si,7,5,No,Amigos/Familia,No,No,Baja,7,Viajar,5,4,Prestigio,No,No,No Aplica,0
+Masculino,19,Urbana,Publica,13,No,Ingenieria,79,75,55,9,Si,<5k,Si,Otro,Foraneo,Familia,Soltero,Ninguna,Si,7,5,Si,Sueldo,Si,Si,Alta,8,Lectura,7,9,Vocación,Si,No,No Aplica,0
+Masculino,23,Rural,Privada,18,No,Ciencias Sociales,90,80,65,17,No,5k-10k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,8,5,No,Demanda Laboral,No,No,Baja,5,Tecnología,8,7,Vocación,Si,Si,Problemas Económicos,6
+Masculino,16,Rural,Publica,23,No,Arte,70,75,71,15,Si,5k-10k,Si,Padres,Foraneo,Familia,Soltero,Ninguna,No,4,6,No,Amigos/Familia,Si,Si,Alta,8,Lectura,4,7,Cercanía,Si,No,No Aplica,0
+Masculino,19,Urbana,Publica,31,No,Ingenieria,87,75,59,16,No,5k-10k,Si,Otro,Foraneo,Otros,Soltero,Ninguna,Si,6,4,No,Demanda Laboral,No,No,Media,6,Deportes,6,5,Vocación,No,Si,Otros,6
+Femenino,18,Urbana,Publica,36,Si,Ingenieria,65,75,64,16,Si,10k-20k,Si,Trabajo Propio,Foraneo,Solo,Soltero,Ninguna,Si,9,3,No,Gusto Personal,Si,Si,Baja,5,Arte,4,6,Prestigio,Si,No,No Aplica,0
+Femenino,18,Urbana,Privada,43,No,Arte,75,68,84,21,Si,5k-10k,No,Trabajo Propio,Local,Otros,Soltero,Ninguna,Si,7,3,Si,Gusto Personal,No,Si,Baja,5,Deportes,9,7,Cercanía,Si,No,No Aplica,0
+Femenino,20,Rural,Publica,33,Si,Arte,83,67,54,10,Si,<5k,No,Padres,Foraneo,Solo,Casado,Ninguna,No,5,8,Si,Gusto Personal,No,Si,Baja,6,Viajar,2,8,Vocación,No,Si,Problemas Económicos,6
+Femenino,19,Rural,Privada,33,No,Ingenieria,86,79,80,13,Si,5k-10k,Si,Trabajo Propio,Foraneo,Familia,Soltero,Ninguna,No,6,3,Si,Prestigio,Si,Si,Media,9,Tecnología,4,7,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Urbana,Privada,33,Si,Ciencias Naturales,79,63,71,18,No,5k-10k,Si,Trabajo Propio,Foraneo,Otros,Soltero,Auditiva,No,6,6,Si,Prestigio,No,No,Alta,8,Deportes,4,7,Vocación,Si,No,No Aplica,0
+Masculino,20,Rural,Publica,36,No,Arte,65,83,70,18,No,<5k,Si,Beca,Foraneo,Familia,Soltero,Ninguna,Si,5,6,Si,Sueldo,Si,Si,Alta,6,Deportes,4,6,Influencia Familiar,Si,No,No Aplica,0
+Femenino,18,Rural,Publica,20,Si,Humanidades,95,72,81,20,Si,10k-20k,Si,Beca,Foraneo,Amigos,Soltero,Ninguna,No,6,6,No,Amigos/Familia,No,Si,Baja,7,Deportes,6,7,Renta Económica,No,No,No Aplica,0
+Femenino,18,Rural,Publica,41,Si,Ciencias Naturales,83,59,68,5,No,10k-20k,No,Otro,Foraneo,Familia,Soltero,Motriz,No,5,6,No,Prestigio,Si,No,Media,7,Viajar,6,9,Renta Económica,No,No,No Aplica,0
+Femenino,18,Rural,Publica,37,No,Arte,77,62,67,10,No,<5k,Si,Beca,Local,Familia,Casado,Ninguna,Si,5,6,Si,Demanda Laboral,No,Si,Baja,11,Deportes,1,8,Influencia Familiar,No,No,No Aplica,0
+Femenino,19,Rural,Publica,35,Si,Humanidades,87,83,62,15,Si,5k-10k,No,Padres,Local,Amigos,Soltero,Ninguna,Si,5,9,Si,Amigos/Familia,No,Si,Alta,5,Viajar,4,6,Prestigio,Si,No,No Aplica,0
+Femenino,20,Urbana,Publica,22,No,Humanidades,75,60,73,8,No,<5k,Si,Trabajo Propio,Local,Solo,Soltero,Ninguna,No,7,3,Si,Sueldo,Si,Si,Alta,11,Tecnología,6,8,Renta Económica,Si,Si,Problemas Académicos,3
+Femenino,21,Urbana,Publica,43,Si,Ingenieria,98,79,62,15,No,<5k,No,Trabajo Propio,Foraneo,Otros,Soltero,Visual,No,6,3,No,Gusto Personal,Si,No,Media,10,Arte,5,9,Influencia Familiar,Si,Si,Cambio de Carrera,6
+Femenino,19,Urbana,Publica,20,Si,Ciencias Naturales,85,76,58,17,No,<5k,Si,Padres,Local,Familia,Soltero,Motriz,Si,5,9,No,Gusto Personal,Si,No,Media,7,Lectura,6,4,Renta Económica,No,No,No Aplica,0
+Femenino,17,Urbana,Privada,22,No,Humanidades,87,85,76,14,Si,10k-20k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,7,5,Si,Prestigio,Si,Si,Alta,6,Viajar,8,6,Vocación,Si,Si,Cambio de Carrera,6
+Masculino,22,Rural,Privada,32,No,Ciencias Naturales,77,62,68,25,No,<5k,No,Beca,Local,Amigos,Soltero,Ninguna,Si,7,5,No,Prestigio,Si,Si,Media,5,Viajar,5,5,Vocación,No,Si,Problemas Familiares,3
+Femenino,20,Rural,Publica,39,Si,Ingenieria,98,84,64,15,No,<5k,No,Otro,Local,Familia,Soltero,Ninguna,Si,4,4,No,Prestigio,Si,No,Media,4,Tecnología,2,5,Renta Económica,No,Si,Otros,1
+Femenino,19,Urbana,Publica,32,Si,Ciencias Sociales,88,71,50,23,Si,5k-10k,No,Beca,Local,Otros,Casado,Ninguna,Si,7,3,No,Sueldo,Si,Si,Alta,6,Deportes,7,11,Influencia Familiar,No,No,No Aplica,0
+Femenino,22,Rural,Privada,37,No,Ciencias Naturales,85,69,71,21,Si,5k-10k,Si,Otro,Local,Solo,Soltero,Ninguna,No,7,6,No,Prestigio,No,No,Baja,5,Lectura,6,4,Prestigio,No,No,No Aplica,0
+Femenino,22,Rural,Privada,29,No,Ingenieria,81,73,74,17,Si,10k-20k,Si,Beca,Foraneo,Otros,Soltero,Ninguna,No,6,8,No,Amigos/Familia,No,No,Alta,7,Arte,4,7,Vocación,Si,No,No Aplica,0
+Femenino,15,Rural,Publica,33,Si,Arte,79,80,83,15,No,10k-20k,No,Otro,Foraneo,Amigos,Divorciado,Ninguna,No,7,5,No,Demanda Laboral,No,No,Alta,3,Lectura,3,12,Renta Económica,Si,No,No Aplica,0
+Femenino,17,Rural,Publica,17,No,Ciencias Sociales,71,75,68,8,No,5k-10k,No,Beca,Foraneo,Amigos,Soltero,Ninguna,No,5,1,No,Gusto Personal,No,No,Alta,9,Deportes,9,4,Renta Económica,No,No,No Aplica,0
+Masculino,19,Urbana,Privada,17,No,Arte,69,66,70,11,No,<5k,No,Otro,Local,Amigos,Soltero,Ninguna,No,5,6,No,Sueldo,Si,Si,Alta,8,Viajar,5,12,Cercanía,No,Si,Problemas Familiares,8
+Masculino,19,Rural,Publica,38,Si,Ciencias Naturales,81,57,67,18,Si,>20k,Si,Beca,Local,Otros,Soltero,Auditiva,No,9,4,Si,Demanda Laboral,No,Si,Baja,8,Tecnología,6,8,Cercanía,No,No,No Aplica,0
+Femenino,21,Rural,Privada,49,Si,Ciencias Sociales,77,71,88,11,No,10k-20k,Si,Padres,Local,Amigos,Soltero,Visual,No,5,6,No,Prestigio,No,Si,Media,3,Deportes,4,7,Prestigio,No,No,No Aplica,0
+Femenino,23,Urbana,Privada,33,No,Ingenieria,73,52,89,6,Si,10k-20k,No,Padres,Foraneo,Otros,Soltero,Ninguna,Si,7,5,No,Gusto Personal,No,Si,Alta,5,Tecnología,3,6,Cercanía,No,No,No Aplica,0
+Femenino,19,Rural,Publica,24,No,Humanidades,44,94,79,14,Si,>20k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,8,7,Si,Sueldo,No,No,Baja,5,Arte,8,10,Influencia Familiar,No,No,No Aplica,0
+Femenino,20,Urbana,Publica,44,Si,Ciencias Naturales,78,79,68,9,Si,>20k,No,Trabajo Propio,Local,Familia,Casado,Ninguna,Si,6,3,Si,Sueldo,No,Si,Alta,7,Arte,5,4,Prestigio,Si,Si,Cambio de Carrera,4
+Masculino,18,Urbana,Publica,29,No,Ciencias Naturales,94,69,66,16,No,5k-10k,Si,Padres,Local,Familia,Casado,Cognitiva,No,5,8,No,Sueldo,No,No,Alta,12,Viajar,3,9,Cercanía,No,No,No Aplica,0
+Femenino,20,Rural,Publica,43,Si,Ingenieria,81,68,79,9,No,<5k,Si,Otro,Foraneo,Solo,Soltero,Ninguna,Si,8,5,No,Sueldo,Si,No,Media,6,Tecnología,8,7,Renta Económica,No,No,No Aplica,0
+Masculino,19,Rural,Privada,50,No,Ciencias Naturales,77,75,60,16,No,10k-20k,Si,Otro,Local,Otros,Soltero,Ninguna,Si,7,9,Si,Prestigio,No,Si,Baja,7,Arte,5,6,Cercanía,No,Si,Problemas Académicos,5
+Femenino,21,Urbana,Privada,37,Si,Ciencias Naturales,77,67,68,11,No,<5k,No,Trabajo Propio,Local,Familia,Soltero,Ninguna,Si,7,4,Si,Gusto Personal,Si,No,Alta,4,Viajar,4,6,Renta Económica,No,No,No Aplica,0
